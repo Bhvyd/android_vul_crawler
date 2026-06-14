@@ -1,0 +1,793 @@
+[
+  {
+    "title": "Android Security Bulletin—January 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—January 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-01-01",
+    "published_date": "January 4, 2021",
+    "updated_date": "January 7, 2021",
+    "patch_levels": [
+      "2021-01-01",
+      "2021-01-05"
+    ],
+    "source_file": "android-2021-01.html"
+  },
+  {
+    "title": "Android Security Bulletin—February 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—February 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-02-01",
+    "published_date": "February 1, 2021",
+    "updated_date": "February 2, 2021",
+    "patch_levels": [
+      "2021-02-01",
+      "2021-02-05"
+    ],
+    "source_file": "android-2021-02.html"
+  },
+  {
+    "title": "Android Security Bulletin—March 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—March 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-03-01",
+    "published_date": "March 1, 2021",
+    "updated_date": "March 3, 2021",
+    "patch_levels": [
+      "2021-03-01",
+      "2021-03-05"
+    ],
+    "source_file": "android-2021-03.html"
+  },
+  {
+    "title": "Android Security Bulletin—April 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—April 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-04-01",
+    "published_date": "April 5, 2021",
+    "updated_date": "April 7, 2021",
+    "patch_levels": [
+      "2021-04-01",
+      "2021-04-05"
+    ],
+    "source_file": "android-2021-04.html"
+  },
+  {
+    "title": "Android Security Bulletin—May 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—May 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-05-01",
+    "published_date": "May 3, 2021",
+    "updated_date": "May 4, 2021",
+    "patch_levels": [
+      "2021-05-01",
+      "2021-05-05"
+    ],
+    "source_file": "android-2021-05.html"
+  },
+  {
+    "title": "Android Security Bulletin—June 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—June 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-06-01",
+    "published_date": "June 7, 2021",
+    "updated_date": "June 8, 2021",
+    "patch_levels": [
+      "2021-06-01",
+      "2021-06-05"
+    ],
+    "source_file": "android-2021-06.html"
+  },
+  {
+    "title": "Android Security Bulletin—July 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—July 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-07-01",
+    "published_date": "July 7, 2021",
+    "updated_date": "July 21, 2021",
+    "patch_levels": [
+      "2021-07-01",
+      "2021-07-05"
+    ],
+    "source_file": "android-2021-07.html"
+  },
+  {
+    "title": "Android Security Bulletin—August 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—August 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-08-01",
+    "published_date": "August 2, 2021",
+    "updated_date": "August 4, 2021",
+    "patch_levels": [
+      "2021-08-01",
+      "2021-08-05"
+    ],
+    "source_file": "android-2021-08.html"
+  },
+  {
+    "title": "Android Security Bulletin—September 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—September 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-09-01",
+    "published_date": "September 7, 2021",
+    "updated_date": "September 14, 2021",
+    "patch_levels": [
+      "2021-09-01",
+      "2021-09-05"
+    ],
+    "source_file": "android-2021-09.html"
+  },
+  {
+    "title": "Android Security Bulletin—October 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—October 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-10-01",
+    "published_date": "October 4, 2021",
+    "updated_date": "November 29, 2021",
+    "patch_levels": [
+      "2021-10-01",
+      "2021-10-05"
+    ],
+    "source_file": "android-2021-10.html"
+  },
+  {
+    "title": "Android Security Bulletin—November 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—November 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-11-01",
+    "published_date": "November 1, 2021",
+    "updated_date": "December 3, 2021",
+    "patch_levels": [
+      "2021-11-01",
+      "2021-11-05"
+    ],
+    "source_file": "android-2021-11.html"
+  },
+  {
+    "title": "Android Security Bulletin—December 2021  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—December 2021",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2021-12-01",
+    "published_date": "December 6, 2021",
+    "updated_date": "December 8, 2021",
+    "patch_levels": [
+      "2021-12-01",
+      "2021-12-05"
+    ],
+    "source_file": "android-2021-12.html"
+  },
+  {
+    "title": "Android Security Bulletin—January 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—January 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-01-01",
+    "published_date": "January 4, 2022",
+    "updated_date": null,
+    "patch_levels": [
+      "2022-01-01",
+      "2022-01-05"
+    ],
+    "source_file": "android-2022-01.html"
+  },
+  {
+    "title": "Android Security Bulletin—February 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—February 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-02-01",
+    "published_date": "February 7, 2022",
+    "updated_date": "February 17, 2022",
+    "patch_levels": [
+      "2022-02-01",
+      "2022-02-05"
+    ],
+    "source_file": "android-2022-02.html"
+  },
+  {
+    "title": "Android Security Bulletin—March 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—March 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-03-01",
+    "published_date": "March 7, 2022",
+    "updated_date": "April 5, 2022",
+    "patch_levels": [
+      "2022-03-01",
+      "2022-03-05"
+    ],
+    "source_file": "android-2022-03.html"
+  },
+  {
+    "title": "Android Security Bulletin—April 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—April 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-04-01",
+    "published_date": "April 4, 2022",
+    "updated_date": "April 5, 2022",
+    "patch_levels": [
+      "2022-04-01",
+      "2022-04-05"
+    ],
+    "source_file": "android-2022-04.html"
+  },
+  {
+    "title": "Android Security Bulletin—May 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—May 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-05-01",
+    "published_date": "May 2, 2022",
+    "updated_date": "May 3, 2022",
+    "patch_levels": [
+      "2022-05-01",
+      "2022-05-05"
+    ],
+    "source_file": "android-2022-05.html"
+  },
+  {
+    "title": "Android Security Bulletin—June 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—June 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-06-01",
+    "published_date": "June 6, 2022",
+    "updated_date": "July 22, 2022",
+    "patch_levels": [
+      "2022-06-01",
+      "2022-06-05"
+    ],
+    "source_file": "android-2022-06.html"
+  },
+  {
+    "title": "Android Security Bulletin—July 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—July 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-07-01",
+    "published_date": "July 6, 2022",
+    "updated_date": "July 7, 2022",
+    "patch_levels": [
+      "2022-07-01",
+      "2022-07-05"
+    ],
+    "source_file": "android-2022-07.html"
+  },
+  {
+    "title": "Android Security Bulletin—August 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—August 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-08-01",
+    "published_date": "August 1, 2022",
+    "updated_date": "August 17, 2022",
+    "patch_levels": [
+      "2022-08-01",
+      "2022-08-05"
+    ],
+    "source_file": "android-2022-08.html"
+  },
+  {
+    "title": "Android Security Bulletin—September 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—September 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-09-01",
+    "published_date": "September 6, 2022",
+    "updated_date": "September 9, 2022",
+    "patch_levels": [
+      "2022-09-01",
+      "2022-09-05"
+    ],
+    "source_file": "android-2022-09.html"
+  },
+  {
+    "title": "Android Security Bulletin—October 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—October 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-10-01",
+    "published_date": "October 3, 2022",
+    "updated_date": "October 5, 2022",
+    "patch_levels": [
+      "2022-10-01",
+      "2022-10-05"
+    ],
+    "source_file": "android-2022-10.html"
+  },
+  {
+    "title": "Android Security Bulletin—November 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—November 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-11-01",
+    "published_date": "November 7, 2022",
+    "updated_date": "November 9, 2022",
+    "patch_levels": [
+      "2022-11-01",
+      "2022-11-05"
+    ],
+    "source_file": "android-2022-11.html"
+  },
+  {
+    "title": "Android Security Bulletin—December 2022  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—December 2022",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2022-12-01",
+    "published_date": "December 5, 2022",
+    "updated_date": "December 7, 2022",
+    "patch_levels": [
+      "2022-12-01",
+      "2022-12-05"
+    ],
+    "source_file": "android-2022-12.html"
+  },
+  {
+    "title": "Android Security Bulletin—January 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—January 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-01-01",
+    "published_date": "January 3, 2023",
+    "updated_date": "January 10, 2023",
+    "patch_levels": [
+      "2023-01-01",
+      "2023-01-05"
+    ],
+    "source_file": "android-2023-01.html"
+  },
+  {
+    "title": "Android Security Bulletin—February 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—February 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-02-01",
+    "published_date": "February 6, 2023",
+    "updated_date": "February 8, 2023",
+    "patch_levels": [
+      "2023-02-01",
+      "2023-02-05"
+    ],
+    "source_file": "android-2023-02.html"
+  },
+  {
+    "title": "Android Security Bulletin—March 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—March 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-03-01",
+    "published_date": "March 6, 2023",
+    "updated_date": "May 8, 2023",
+    "patch_levels": [
+      "2023-03-01",
+      "2023-03-05"
+    ],
+    "source_file": "android-2023-03.html"
+  },
+  {
+    "title": "Android Security Bulletin—April 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—April 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-04-01",
+    "published_date": "April 3, 2023",
+    "updated_date": "May 1, 2023",
+    "patch_levels": [
+      "2023-04-01",
+      "2023-04-05"
+    ],
+    "source_file": "android-2023-04.html"
+  },
+  {
+    "title": "Android Security Bulletin—May 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—May 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-05-01",
+    "published_date": "May 1, 2023",
+    "updated_date": "September 12, 2023",
+    "patch_levels": [
+      "2023-05-01",
+      "2023-05-05"
+    ],
+    "source_file": "android-2023-05.html"
+  },
+  {
+    "title": "Android Security Bulletin—June 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—June 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-06-01",
+    "published_date": "June 5, 2023",
+    "updated_date": "June 7, 2023",
+    "patch_levels": [
+      "2023-06-01",
+      "2023-06-05"
+    ],
+    "source_file": "android-2023-06.html"
+  },
+  {
+    "title": "Android Security Bulletin—July 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—July 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-07-01",
+    "published_date": "July 5, 2023",
+    "updated_date": "July 10, 2023",
+    "patch_levels": [
+      "2023-07-01",
+      "2023-07-05"
+    ],
+    "source_file": "android-2023-07.html"
+  },
+  {
+    "title": "Android Security Bulletin—August 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—August 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-08-01",
+    "published_date": "August 7, 2023",
+    "updated_date": "September 14, 2023",
+    "patch_levels": [
+      "2023-08-01",
+      "2023-08-05"
+    ],
+    "source_file": "android-2023-08.html"
+  },
+  {
+    "title": "Android Security Bulletin—September 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—September 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-09-01",
+    "published_date": "September 5, 2023",
+    "updated_date": null,
+    "patch_levels": [
+      "2023-09-01",
+      "2023-09-05"
+    ],
+    "source_file": "android-2023-09.html"
+  },
+  {
+    "title": "Android Security Bulletin—October 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—October 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-10-01",
+    "published_date": "October 2, 2023",
+    "updated_date": "July 26, 2024",
+    "patch_levels": [
+      "2023-10-01",
+      "2023-10-05"
+    ],
+    "source_file": "android-2023-10.html"
+  },
+  {
+    "title": "Android Security Bulletin—November 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—November 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-11-01",
+    "published_date": "November 6, 2023",
+    "updated_date": "November 7, 2023",
+    "patch_levels": [
+      "2023-11-01",
+      "2023-11-05"
+    ],
+    "source_file": "android-2023-11.html"
+  },
+  {
+    "title": "Android Security Bulletin—December 2023  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—December 2023",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2023-12-01",
+    "published_date": "December 4, 2023",
+    "updated_date": "January 22, 2024",
+    "patch_levels": [
+      "2023-12-01",
+      "2023-12-05"
+    ],
+    "source_file": "android-2023-12.html"
+  },
+  {
+    "title": "Android Security Bulletin—January 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—January 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-01-01",
+    "published_date": "January 3, 2024",
+    "updated_date": "January 16, 2024",
+    "patch_levels": [
+      "2024-01-01",
+      "2024-01-05"
+    ],
+    "source_file": "android-2024-01.html"
+  },
+  {
+    "title": "Android Security Bulletin—February 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—February 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-02-01",
+    "published_date": "February 5, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-02-01",
+      "2024-02-05"
+    ],
+    "source_file": "android-2024-02.html"
+  },
+  {
+    "title": "Android Security Bulletin—March 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—March 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-03-01",
+    "published_date": "March 4, 2024",
+    "updated_date": "July 29, 2024",
+    "patch_levels": [
+      "2024-03-01",
+      "2024-03-05"
+    ],
+    "source_file": "android-2024-03.html"
+  },
+  {
+    "title": "Android Security Bulletin—April 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—April 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-04-01",
+    "published_date": "April 1, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-04-01",
+      "2024-04-05"
+    ],
+    "source_file": "android-2024-04.html"
+  },
+  {
+    "title": "Android Security Bulletin—May 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—May 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-05-01",
+    "published_date": "May 6, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-05-01",
+      "2024-05-05"
+    ],
+    "source_file": "android-2024-05.html"
+  },
+  {
+    "title": "Android Security Bulletin—June 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—June 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-06-01",
+    "published_date": "June 3, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-06-01",
+      "2024-06-05"
+    ],
+    "source_file": "android-2024-06.html"
+  },
+  {
+    "title": "Android Security Bulletin—July 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—July 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-07-01",
+    "published_date": "July 1, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-07-01",
+      "2024-07-05"
+    ],
+    "source_file": "android-2024-07.html"
+  },
+  {
+    "title": "Android Security Bulletin—August 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—August 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-08-01",
+    "published_date": "August 5, 2024",
+    "updated_date": "October 24, 2024",
+    "patch_levels": [
+      "2024-08-01",
+      "2024-08-05"
+    ],
+    "source_file": "android-2024-08.html"
+  },
+  {
+    "title": "Android Security Bulletin—September 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—September 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-09-01",
+    "published_date": "September 3, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-09-01",
+      "2024-09-05"
+    ],
+    "source_file": "android-2024-09.html"
+  },
+  {
+    "title": "Android Security Bulletin October 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin October 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-10-01",
+    "published_date": "October 7, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-10-01",
+      "2024-10-05"
+    ],
+    "source_file": "android-2024-10.html"
+  },
+  {
+    "title": "Android Security Bulletin November 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin November 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-11-01",
+    "published_date": "November 4, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-11-01",
+      "2024-11-05"
+    ],
+    "source_file": "android-2024-11.html"
+  },
+  {
+    "title": "Android Security Bulletin December 2024  |  Android Open Source Project",
+    "headline": "Android Security Bulletin December 2024",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2024-12-01",
+    "published_date": "December 2, 2024",
+    "updated_date": null,
+    "patch_levels": [
+      "2024-12-01",
+      "2024-12-05"
+    ],
+    "source_file": "android-2024-12.html"
+  },
+  {
+    "title": "Android Security Bulletin-January 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin-January 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-01-01",
+    "published_date": "January 6, 2025",
+    "updated_date": "February 6, 2025",
+    "patch_levels": [
+      "2025-01-01",
+      "2025-01-05"
+    ],
+    "source_file": "android-2025-01.html"
+  },
+  {
+    "title": "Android Security Bulletin-February 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin-February 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-02-01",
+    "published_date": "February 3, 2025",
+    "updated_date": null,
+    "patch_levels": [
+      "2025-02-01",
+      "2025-02-05"
+    ],
+    "source_file": "android-2025-02.html"
+  },
+  {
+    "title": "Android Security Bulletin—March 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—March 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-03-01",
+    "published_date": "March 3, 2025",
+    "updated_date": "March 20, 2025",
+    "patch_levels": [
+      "2025-03-01",
+      "2025-03-05"
+    ],
+    "source_file": "android-2025-03.html"
+  },
+  {
+    "title": "Android Security Bulletin—April 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—April 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-04-01",
+    "published_date": "April 7, 2025",
+    "updated_date": "February 25, 2026",
+    "patch_levels": [
+      "2025-04-01",
+      "2025-04-05"
+    ],
+    "source_file": "android-2025-04.html"
+  },
+  {
+    "title": "Android Security Bulletin—May 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—May 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-05-01",
+    "published_date": "May 5, 2025",
+    "updated_date": "May 6, 2025",
+    "patch_levels": [
+      "2025-05-01",
+      "2025-05-05"
+    ],
+    "source_file": "android-2025-05.html"
+  },
+  {
+    "title": "Android Security Bulletin—June 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—June 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-06-01",
+    "published_date": "June 2, 2025",
+    "updated_date": "June 2, 2025",
+    "patch_levels": [
+      "2025-06-01",
+      "2025-06-05"
+    ],
+    "source_file": "android-2025-06.html"
+  },
+  {
+    "title": "Android Security Bulletin—July 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—July 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-07-01",
+    "published_date": "July 7, 2025",
+    "updated_date": null,
+    "patch_levels": [
+      "2025-07-01",
+      "2025-07-05"
+    ],
+    "source_file": "android-2025-07.html"
+  },
+  {
+    "title": "Android Security Bulletin—August 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—August 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-08-01",
+    "published_date": "August 4, 2025",
+    "updated_date": "September 11, 2025",
+    "patch_levels": [
+      "2025-08-01",
+      "2025-08-05"
+    ],
+    "source_file": "android-2025-08.html"
+  },
+  {
+    "title": "Android Security Bulletin—September 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—September 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-09-01",
+    "published_date": "September 2, 2025",
+    "updated_date": "December 8, 2025",
+    "patch_levels": [
+      "2025-09-01",
+      "2025-09-05"
+    ],
+    "source_file": "android-2025-09.html"
+  },
+  {
+    "title": "Android Security Bulletin—October 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—October 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-10-01",
+    "published_date": "October 6, 2025",
+    "updated_date": null,
+    "patch_levels": [
+      "2025-10-01",
+      "2025-10-05"
+    ],
+    "source_file": "android-2025-10.html"
+  },
+  {
+    "title": "Android Security Bulletin—November 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—November 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-11-01",
+    "published_date": "November 3, 2025",
+    "updated_date": "April 17, 2026",
+    "patch_levels": [
+      "2025-11-01"
+    ],
+    "source_file": "android-2025-11.html"
+  },
+  {
+    "title": "Android Security Bulletin—December 2025  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—December 2025",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2025-12-01",
+    "published_date": "December 1, 2025",
+    "updated_date": "March 6, 2026",
+    "patch_levels": [
+      "2025-12-01",
+      "2025-12-05"
+    ],
+    "source_file": "android-2025-12.html"
+  },
+  {
+    "title": "Android Security Bulletin—January 2026  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—January 2026",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2026/2026-01-01",
+    "published_date": "January 5, 2026",
+    "updated_date": null,
+    "patch_levels": [
+      "2026-01-01",
+      "2026-01-05"
+    ],
+    "source_file": "android-2026-01.html"
+  },
+  {
+    "title": "Android Security Bulletin—February 2026  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—February 2026",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2026/2026-02-01",
+    "published_date": "February 2, 2026",
+    "updated_date": null,
+    "patch_levels": [
+      "2026-02-01",
+      "2026-02-05"
+    ],
+    "source_file": "android-2026-02.html"
+  },
+  {
+    "title": "Android Security Bulletin—March 2026  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—March 2026",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2026/2026-03-01",
+    "published_date": "March 2, 2026",
+    "updated_date": "May 28, 2026",
+    "patch_levels": [
+      "2026-03-01",
+      "2026-03-05",
+      "2026-06-01"
+    ],
+    "source_file": "android-2026-03.html"
+  },
+  {
+    "title": "Android Security Bulletin—April 2026  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—April 2026",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2026/2026-04-01",
+    "published_date": "April 6, 2026",
+    "updated_date": "April 8, 2026",
+    "patch_levels": [
+      "2026-04-01",
+      "2026-04-05"
+    ],
+    "source_file": "android-2026-04.html"
+  },
+  {
+    "title": "Android Security Bulletin—May 2026  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—May 2026",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2026/2026-05-01",
+    "published_date": "May 4, 2026",
+    "updated_date": "May 7, 2026",
+    "patch_levels": [
+      "2026-05-01"
+    ],
+    "source_file": "android-2026-05.html"
+  },
+  {
+    "title": "Android Security Bulletin—June 2026  |  Android Open Source Project",
+    "headline": "Android Security Bulletin—June 2026",
+    "canonical_url": "https://source.android.com/docs/security/bulletin/2026/2026-06-01",
+    "published_date": "June 1, 2026",
+    "updated_date": "June 3, 2026",
+    "patch_levels": [
+      "2026-06-01",
+      "2026-06-05"
+    ],
+    "source_file": "android-2026-06.html"
+  }
+]

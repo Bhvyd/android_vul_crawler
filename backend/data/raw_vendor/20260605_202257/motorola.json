@@ -1,0 +1,45 @@
+{
+  "run_id": "20260605_202257",
+  "vendor": "motorola",
+  "bulletins": [
+    {
+      "vendor": "motorola",
+      "source_name": "motorola_bulletin",
+      "bulletin_id": "motorola-advisories",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://en-us.support.motorola.com/app/product-security-advisories",
+      "cve_ids": [
+        "CVE-2022-3407",
+        "CVE-2022-3917",
+        "CVE-2023-41816",
+        "CVE-2023-41817",
+        "CVE-2023-41818",
+        "CVE-2023-41819",
+        "CVE-2023-41820",
+        "CVE-2023-41821",
+        "CVE-2023-41822",
+        "CVE-2023-41823",
+        "CVE-2023-41824",
+        "CVE-2023-41825",
+        "CVE-2023-41826",
+        "CVE-2023-41827",
+        "CVE-2023-41828",
+        "CVE-2023-41829",
+        "CVE-2023-41830",
+        "CVE-2024-3108",
+        "CVE-2024-3109",
+        "CVE-2024-3479",
+        "CVE-2024-3480",
+        "CVE-2025-1698",
+        "CVE-2025-1699",
+        "CVE-2025-1700",
+        "CVE-2025-2818"
+      ],
+      "fetched_at": "2026-06-05T20:23:21.665803Z",
+      "metadata": {
+        "page_type": "advisory_list"
+      }
+    }
+  ],
+  "errors": []
+}
