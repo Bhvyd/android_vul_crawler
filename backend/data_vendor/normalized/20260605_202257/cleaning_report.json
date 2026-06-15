@@ -1,0 +1,17 @@
+{
+  "files_processed": 6,
+  "total_bulletins": 233,
+  "unique_bulletins": 233,
+  "total_cve_links": 27033,
+  "unique_cve_links": 27033,
+  "duplicate_bulletins_removed": 0,
+  "duplicate_links_removed": 0,
+  "vendors": {
+    "google": 68,
+    "motorola": 1,
+    "oppo": 43,
+    "samsung": 78,
+    "vivo": 21,
+    "xiaomi": 22
+  }
+}

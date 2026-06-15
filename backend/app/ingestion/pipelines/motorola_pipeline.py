@@ -1,4 +1,4 @@
-from app.ingestion.bulletin.motorola_bulletin_collector import MotorolaBulletinCollector
+from app.ingestion.vendor_bulletin.motorola_bulletin_collector import MotorolaBulletinCollector
 from app.ingestion.pipelines.base_pipeline import BaseVendorPipeline
 from app.ingestion.schemas import RawVendorBulletin
 

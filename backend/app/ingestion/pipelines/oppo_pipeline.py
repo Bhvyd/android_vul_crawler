@@ -1,4 +1,4 @@
-from app.ingestion.bulletin.oppo_bulletin_collector import (
+from app.ingestion.vendor_bulletin.oppo_bulletin_collector import (
     OppoBulletinCollector,
 )
 from app.ingestion.pipelines.base_pipeline import BaseVendorPipeline

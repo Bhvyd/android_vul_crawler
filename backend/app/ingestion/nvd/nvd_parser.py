@@ -165,9 +165,7 @@ class NVDParser:
                             "criteria"
                         ),
 
-                        "vulnerable": match.get(
-                            "vulnerable"
-                        ),
+                        "vulnerable":True,
 
                         "version_start_including":
                             match.get(

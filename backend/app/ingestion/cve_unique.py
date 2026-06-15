@@ -3,8 +3,8 @@ import json
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
-RAW_DIR = BASE_DIR / "data" / "raw_vendor"
-NORMALIZED_DIR = BASE_DIR / "data" / "normalized"
+RAW_DIR = BASE_DIR / "data_vendor" / "raw_vendor"
+NORMALIZED_DIR = BASE_DIR / "data_vendor" / "normalized"
 
 latest_run = max(
     [d for d in RAW_DIR.iterdir() if d.is_dir()],

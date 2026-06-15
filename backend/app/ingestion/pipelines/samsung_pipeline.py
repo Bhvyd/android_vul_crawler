@@ -1,4 +1,4 @@
-from app.ingestion.bulletin.samsung_bulletin_collector import SamsungBulletinCollector
+from app.ingestion.vendor_bulletin.samsung_bulletin_collector import SamsungBulletinCollector
 from app.ingestion.pipelines.base_pipeline import BaseVendorPipeline
 from app.ingestion.schemas import RawVendorBulletin
 

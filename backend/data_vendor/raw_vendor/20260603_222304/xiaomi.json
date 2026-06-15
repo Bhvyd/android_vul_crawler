@@ -1,0 +1,403 @@
+{
+  "run_id": "20260603_222304",
+  "vendor": "xiaomi",
+  "bulletins": [
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2020-06",
+      "bulletin_date": "2020-06-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2020",
+      "cve_ids": [
+        "CVE-2019-15843",
+        "CVE-2020-10561",
+        "CVE-2020-11959",
+        "CVE-2020-11960",
+        "CVE-2020-11961",
+        "CVE-2020-14094",
+        "CVE-2020-14095",
+        "CVE-2020-9530",
+        "CVE-2020-9531"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2020,
+        "month": 6,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2020-09",
+      "bulletin_date": "2020-09-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2020",
+      "cve_ids": [
+        "CVE-2020-14096",
+        "CVE-2020-14100"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2020,
+        "month": 9,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2020-12",
+      "bulletin_date": "2020-12-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2020",
+      "cve_ids": [
+        "CVE-2020-14097"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2020,
+        "month": 12,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2021-01",
+      "bulletin_date": "2021-01-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2021",
+      "cve_ids": [
+        "CVE-2020-14098",
+        "CVE-2020-14101",
+        "CVE-2020-14102"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2021,
+        "month": 1,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2021-04",
+      "bulletin_date": "2021-04-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2021",
+      "cve_ids": [
+        "CVE-2020-14099",
+        "CVE-2020-14103",
+        "CVE-2020-14104",
+        "CVE-2020-14105",
+        "CVE-2020-14106"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2021,
+        "month": 4,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2021-08",
+      "bulletin_date": "2021-08-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2021",
+      "cve_ids": [
+        "CVE-2020-14109",
+        "CVE-2020-14119",
+        "CVE-2020-14124"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2021,
+        "month": 8,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2021-09",
+      "bulletin_date": "2021-09-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2021",
+      "cve_ids": [
+        "CVE-2020-14130"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2021,
+        "month": 9,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2021-12",
+      "bulletin_date": "2021-12-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2021",
+      "cve_ids": [
+        "CVE-2020-14107"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2021,
+        "month": 12,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2022-03",
+      "bulletin_date": "2022-03-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2022",
+      "cve_ids": [
+        "CVE-2020-14111",
+        "CVE-2020-14112",
+        "CVE-2020-14115"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2022,
+        "month": 3,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2022-04",
+      "bulletin_date": "2022-04-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2022",
+      "cve_ids": [
+        "CVE-2020-14116",
+        "CVE-2020-14117",
+        "CVE-2020-14118",
+        "CVE-2020-14120",
+        "CVE-2020-14121",
+        "CVE-2020-14122",
+        "CVE-2020-14123"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2022,
+        "month": 4,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2022-06",
+      "bulletin_date": "2022-06-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2022",
+      "cve_ids": [
+        "CVE-2020-14125",
+        "CVE-2020-14127"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2022,
+        "month": 6,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2022-07",
+      "bulletin_date": "2022-07-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2022",
+      "cve_ids": [
+        "CVE-2020-14114",
+        "CVE-2020-14126"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2022,
+        "month": 7,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2022-10",
+      "bulletin_date": "2022-10-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2022",
+      "cve_ids": [
+        "CVE-2020-14129",
+        "CVE-2020-14131",
+        "CVE-2020-14132"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2022,
+        "month": 10,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2022-12",
+      "bulletin_date": "2022-12-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2022",
+      "cve_ids": [
+        "CVE-2020-14141",
+        "CVE-2020-14142",
+        "CVE-2020-14143"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2022,
+        "month": 12,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2023-03",
+      "bulletin_date": "2023-03-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2023",
+      "cve_ids": [
+        "CVE-2020-14140"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2023,
+        "month": 3,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2023-08",
+      "bulletin_date": "2023-08-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2023",
+      "cve_ids": [
+        "CVE-2023-26316",
+        "CVE-2023-26317",
+        "CVE-2023-26318",
+        "CVE-2023-26319",
+        "CVE-2023-26320"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2023,
+        "month": 8,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2024-02",
+      "bulletin_date": "2024-02-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2024",
+      "cve_ids": [
+        "CVE-2023-26321"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2024,
+        "month": 2,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2024-03",
+      "bulletin_date": "2024-03-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2024",
+      "cve_ids": [
+        "CVE-2023-26322",
+        "CVE-2023-26323"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2024,
+        "month": 3,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2024-05",
+      "bulletin_date": "2024-05-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2024",
+      "cve_ids": [
+        "CVE-2023-26315",
+        "CVE-2023-26324",
+        "CVE-2024-45346"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2024,
+        "month": 5,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2024-09",
+      "bulletin_date": "2024-09-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2024",
+      "cve_ids": [
+        "CVE-2024-45348"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2024,
+        "month": 9,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2025-02",
+      "bulletin_date": "2025-02-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2025",
+      "cve_ids": [
+        "CVE-2024-45347",
+        "CVE-2024-45351",
+        "CVE-2024-45352",
+        "CVE-2024-45353",
+        "CVE-2024-45354",
+        "CVE-2024-45355",
+        "CVE-2024-45356"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2025,
+        "month": 2,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    },
+    {
+      "vendor": "xiaomi",
+      "source_name": "xiaomi_bulletin",
+      "bulletin_id": "xiaomi-2025-03",
+      "bulletin_date": "2025-03-01",
+      "bulletin_url": "https://trust.mi.com/misrc/bulletins?year=2025",
+      "cve_ids": [
+        "CVE-2024-45361"
+      ],
+      "fetched_at": "2026-06-03T22:23:04.815792Z",
+      "metadata": {
+        "year": 2025,
+        "month": 3,
+        "source_api": "https://trust.mi.com/bff/security-suggestions/c"
+      }
+    }
+  ],
+  "errors": []
+}

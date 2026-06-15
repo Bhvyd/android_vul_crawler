@@ -1,0 +1,301 @@
+{
+  "run_id": "20260605_202257",
+  "vendor": "vivo",
+  "bulletins": [
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-21",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=21",
+      "cve_ids": [
+        "CVE-2025-15515"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "21"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-20",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=20",
+      "cve_ids": [
+        "CVE-2025-15509"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "20"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-19",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=19",
+      "cve_ids": [
+        "CVE-2025-15567"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "19"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-18",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=18",
+      "cve_ids": [
+        "CVE-2025-5719"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "18"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-17",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=17",
+      "cve_ids": [
+        "CVE-2024-46941"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "17"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-16",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=16",
+      "cve_ids": [
+        "CVE-2024-13186"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "16"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-15",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=15",
+      "cve_ids": [
+        "CVE-2024-13185"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "15"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-14",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=14",
+      "cve_ids": [
+        "CVE-2024-13173"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "14"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-13",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=13",
+      "cve_ids": [
+        "CVE-2024-46939"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "13"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-11",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=11",
+      "cve_ids": [
+        "CVE-2020-12491"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "11"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-12",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=12",
+      "cve_ids": [
+        "CVE-2020-12492"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "12"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-7",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=7",
+      "cve_ids": [
+        "CVE-2021-26278"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "7"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-6",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=6",
+      "cve_ids": [
+        "CVE-2021-26280"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "6"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-5",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=5",
+      "cve_ids": [
+        "CVE-2020-12488"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "5"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-10",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=10",
+      "cve_ids": [
+        "CVE-2021-26279"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "10"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-9",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=9",
+      "cve_ids": [
+        "CVE-2021-26281"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "9"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-8",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=8",
+      "cve_ids": [
+        "CVE-2021-26277"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "8"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-4",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=4",
+      "cve_ids": [
+        "CVE-2020-12487"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "4"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-3",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=3",
+      "cve_ids": [
+        "CVE-2020-12484"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "3"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-2",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=2",
+      "cve_ids": [
+        "CVE-2020-12485"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "2"
+      }
+    },
+    {
+      "vendor": "vivo",
+      "source_name": "vivo_bulletin",
+      "bulletin_id": "vivo-advisory-1",
+      "bulletin_date": "2026-06-06",
+      "bulletin_url": "https://www.vivo.com/en/support/security-advisory-detail?id=1",
+      "cve_ids": [
+        "CVE-2020-12483"
+      ],
+      "fetched_at": "2026-06-05T20:22:57.986679Z",
+      "metadata": {
+        "advisory_id": "1"
+      }
+    }
+  ],
+  "errors": []
+}

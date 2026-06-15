@@ -1,4 +1,4 @@
-from app.ingestion.bulletin.vivo_bulletin_collector import VivoBulletinCollector
+from app.ingestion.vendor_bulletin.vivo_bulletin_collector import VivoBulletinCollector
 from app.ingestion.pipelines.base_pipeline import BaseVendorPipeline
 from app.ingestion.schemas import RawVendorBulletin
 

@@ -1,9 +1,9 @@
 from datetime import datetime, timezone
 
-from app.ingestion.pipelines.collection_coordinator import collect_vendors_parallel
-from app.ingestion.pipelines.json_io import RAW_VENDOR_DIR
+from app.ingestion.collection_coordinator import collect_vendors_parallel
+from app.ingestion.json_io import RAW_VENDOR_DIR
 from app.ingestion.pipelines.registry import ENABLED_VENDORS
-from app.ingestion.pipelines.schemas import RawVendorRun
+from app.ingestion.schemas import RawVendorRun
 
 
 class VendorPipeline:

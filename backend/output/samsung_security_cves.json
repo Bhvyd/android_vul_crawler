@@ -1,0 +1,2132 @@
+[
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2022-25154/",
+        "cve_id": "CVE-2022-25154",
+        "description": "A DLL hijacking vulnerability could allow a local attacker to escalate privileges on affected system.An attacker must already have user privilege on Windows 7, 10, 11 to exploit this vulnerability.",
+        "affected_product": "Samsung portable SSD T5 PC software",
+        "affected_component": "N/A",
+        "severity": "7.3",
+        "reported_date": "2022-03-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-24033/",
+        "cve_id": "CVE-2023-24033",
+        "description": "The Samsung Exynos Modem 5123, Exynos Modem 5300, Exynos 980, Exynos 1080, and Exynos Auto T512 baseband modem chipsets do not properly check format types specified by the Session Description Protocol (SDP) module, which can lead to a denial of service.",
+        "affected_product": "Samsung Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "8.6 (High)",
+        "reported_date": "2023-01-02",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26072/",
+        "cve_id": "CVE-2023-26072",
+        "description": "A heap-based buffer overflow in the 5G MM message codec can occur due to insufficient parameter validation when decoding the Emergency number list.",
+        "affected_product": "Samsung Mobile Chipset and Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "7.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26073/",
+        "cve_id": "CVE-2023-26073",
+        "description": "A heap-based buffer overflow in the 5G MM message codec can occur due to insufficient parameter validation when decoding the extended emergency number list.",
+        "affected_product": "Samsung Mobile Chipset and Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "7.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26074/",
+        "cve_id": "CVE-2023-26074",
+        "description": "A heap-based buffer overflow in the 5G MM message codec can occur due to insufficient parameter validation when decoding operator-defined access category definitions.",
+        "affected_product": "Samsung Mobile Chipset and Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "7.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26075/",
+        "cve_id": "CVE-2023-26075",
+        "description": "An intra-object overflow in the 5G MM message codec can occur due to insufficient parameter validation when decoding the Service Area List.",
+        "affected_product": "Samsung Mobile Chipset and Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "7.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26076/",
+        "cve_id": "CVE-2023-26076",
+        "description": "An intra-object overflow in the 5G SM message codec can occur due to insufficient parameter validation when decoding reserved options.",
+        "affected_product": "Samsung Mobile Chipset and Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "7.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26496/",
+        "cve_id": "CVE-2023-26496",
+        "description": "Memory corruption can occur due to improper checking of the parameter length while parsing the fmtp attribute in the SDP (Session Description Protocol) module.",
+        "affected_product": "Samsung Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "8.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26497/",
+        "cve_id": "CVE-2023-26497",
+        "description": "Memory corruption can occur when processing Session Description Negotiation for Video Configuration Attribute.",
+        "affected_product": "Samsung Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "8.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-26498/",
+        "cve_id": "CVE-2023-26498",
+        "description": "Memory corruption can occur due to improper checking of the number of properties while parsing the chatroom attribute in the SDP (Session Description Protocol) module.",
+        "affected_product": "Samsung Baseband Modem Chipset",
+        "affected_component": "N/A",
+        "severity": "8.6 (High)",
+        "reported_date": "2023-03-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-28613/",
+        "cve_id": "CVE-2023-28613",
+        "description": "An integer overflow in IPv4 fragment handling can occur due to insufficient parameter validation when reassembling these fragments.",
+        "affected_product": "Exynos Mobile Processor and Baseband Modem Processor",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29085/",
+        "cve_id": "CVE-2023-29085",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding an SIP status line.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29086/",
+        "cve_id": "CVE-2023-29086",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding an SIP Min-SE header.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29087/",
+        "cve_id": "CVE-2023-29087",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding an SIP Retry-After header.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29088/",
+        "cve_id": "CVE-2023-29088",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding an SIP Session-Expires header.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29089/",
+        "cve_id": "CVE-2023-29089",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding SIP multipart messages.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29090/",
+        "cve_id": "CVE-2023-29090",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding an SIP Via header.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29091/",
+        "cve_id": "CVE-2023-29091",
+        "description": "Memory corruption can occur due to insufficient parameter validation while decoding an SIP URI.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "6.8 (Medium)",
+        "reported_date": "2023-04-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-29092/",
+        "cve_id": "CVE-2023-29092",
+        "description": "Binding of a wrong resource can occur due to improper handling of parameters while binding a network interface.",
+        "affected_product": "Exynos Mobile Processor and Modem",
+        "affected_component": "N/A",
+        "severity": "3.1 (Low)",
+        "reported_date": "2023-05-01",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-31114/",
+        "cve_id": "CVE-2023-31114",
+        "description": "Incorrect resource transfer between spheres can cause unintended querying of SIM status via a crafted application.",
+        "affected_product": "Shannon RCS",
+        "affected_component": "N/A",
+        "severity": "2.8 (Low)",
+        "reported_date": "2023-05-01",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-31115/",
+        "cve_id": "CVE-2023-31115",
+        "description": "Incorrect resource transfer between spheres can cause changes to the activation mode of RCS via a crafted application.",
+        "affected_product": "Shannon RCS",
+        "affected_component": "N/A",
+        "severity": "2.8 (Low)",
+        "reported_date": "2023-05-01",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-31116/",
+        "cve_id": "CVE-2023-31116",
+        "description": "Incorrect Default Permission can cause unintended querying of RCS capability via a crafted application.",
+        "affected_product": "Shannon RCS",
+        "affected_component": "N/A",
+        "severity": "2.8 (Low)",
+        "reported_date": "2023-05-01",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-36482/",
+        "cve_id": "CVE-2023-36482",
+        "description": "Buffer copy without checking its input size can cause an NFC service to restart.",
+        "affected_product": "NFC",
+        "affected_component": "N/A",
+        "severity": "2.0 (Low)",
+        "reported_date": "2023-07-03",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-36481/",
+        "cve_id": "CVE-2023-36481",
+        "description": "Improper handling of length parameter inconsistency can cause infinite loop.",
+        "affected_product": "Mobile Processor, Wearable Processor",
+        "affected_component": "N/A",
+        "severity": "5.3 (Medium)",
+        "reported_date": "2023-08-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-37366/",
+        "cve_id": "CVE-2023-37366",
+        "description": "Improper handling of loop with unreachable exit condition cannot guarantee the termination of a required service.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor, and Modem",
+        "affected_component": "N/A",
+        "severity": "5.9 (Medium)",
+        "reported_date": "2023-08-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-40218/",
+        "cve_id": "CVE-2023-40218",
+        "description": "Integer overflow can bypass detection of error cases via a crafted application.",
+        "affected_product": "Exynos Mobile Processor",
+        "affected_component": "N/A",
+        "severity": "Low (2.0)",
+        "reported_date": "2023-08-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-37367/",
+        "cve_id": "CVE-2023-37367",
+        "description": "Improperly implemented security check for standard can disallow desired services for a while.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor, and Modem",
+        "affected_component": "N/A",
+        "severity": "5.3 (Medium)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-37368/",
+        "cve_id": "CVE-2023-37368",
+        "description": "Missing validation of null pointer can cause abnormal termination.",
+        "affected_product": "Exynos Mobile Processor, Automotive Processor, and Modem",
+        "affected_component": "N/A",
+        "severity": "5.9 (Medium)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-37377/",
+        "cve_id": "CVE-2023-37377",
+        "description": "Improper handling of length parameter inconsistency can cause incorrect packet filtering.",
+        "affected_product": "Mobile Processor, Wearable Processor",
+        "affected_component": "N/A",
+        "severity": "Low (2.0)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "Sunjoo park (grigoritchy) of PKSecurity"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-40353/",
+        "cve_id": "CVE-2023-40353",
+        "description": "Interger overflow at buffer indext can prevent the execution of requested services via a crafted application.",
+        "affected_product": "Exynos Mobile Processor",
+        "affected_component": "N/A",
+        "severity": "Low (2.0)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "Sunjoo park (grigoritchy) of PKSecurity"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-41911/",
+        "cve_id": "CVE-2023-41911",
+        "description": "Unchecked return value can prevent the execution of requested services.",
+        "affected_product": "Mobile Processor",
+        "affected_component": "N/A",
+        "severity": "High (7.8)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "APVI/Google (Xingyu Jin)"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-41929/",
+        "cve_id": "CVE-2023-41929",
+        "description": "A DLL hijacking vulnerability in Samsung Memory Card & UFD Authentication Utility PC Software could allow a local attacker to escalate privileges. (An attacker must already have user privileges on Windows to exploit this vulnerability.)",
+        "affected_product": "Samsung Memory Card & UFD Authentication Utility PC Software",
+        "affected_component": "N/A",
+        "severity": "7.3 (High)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-42482/",
+        "cve_id": "CVE-2023-42482",
+        "description": "Improper handling of resource locking can prevent the execution of requested services.",
+        "affected_product": "Mobile Processor",
+        "affected_component": "N/A",
+        "severity": "High (7.8)",
+        "reported_date": "2023-09-04",
+        "acknowledgment": "APVI/Google (Xingyu Jin)"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-41111/",
+        "cve_id": "CVE-2023-41111",
+        "description": "Improper handling of length parameter inconsistency can cause abnormal termination of a mobile phone.",
+        "affected_product": "Mobile Processor, Wearable Processor, Automotive Processor, Modem",
+        "affected_component": "N/A",
+        "severity": "High (7.1)",
+        "reported_date": "2023-11-06",
+        "acknowledgment": "Daniel Komaromy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-41112/",
+        "cve_id": "CVE-2023-41112",
+        "description": "Buffer copy without checking size of input can cause abnormal termination of a mobile phone.",
+        "affected_product": "Mobile Processor, Wearable Processor, Automotive Processor, Modem",
+        "affected_component": "N/A",
+        "severity": "High (7.1)",
+        "reported_date": "2023-11-06",
+        "acknowledgment": "Daniel Komaromy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-42483/",
+        "cve_id": "CVE-2023-42483",
+        "description": "TOCTOU race condition can cause unexpected termination of a system.",
+        "affected_product": "Mobile Processor",
+        "affected_component": "N/A",
+        "severity": "Medium (6.4)",
+        "reported_date": "2023-12-04",
+        "acknowledgment": "Ye Zhang"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-43122/",
+        "cve_id": "CVE-2023-43122",
+        "description": "Samsung Mobile Processor and Wearable Processor (Exynos 980, 850, 1080, 2100, 2200, 1280, 1380, 1330, and W920) allow Information Disclosure in the Bootloader.",
+        "affected_product": "Mobile Processor, Wearable Processor",
+        "affected_component": "N/A",
+        "severity": "Medium (4.8)",
+        "reported_date": "2023-12-04",
+        "acknowledgment": "Christopher Wade"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-45864/",
+        "cve_id": "CVE-2023-45864",
+        "description": "A race condition causes unintended modifications of values within certain areas.",
+        "affected_product": "Mobile Processor",
+        "affected_component": "N/A",
+        "severity": "Medium (4.1)",
+        "reported_date": "2023-12-04",
+        "acknowledgment": "Ye Zhang"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-23769/",
+        "cve_id": "CVE-2024-23769",
+        "description": "Improper privilege control for the named pipe in Samsung Magician PC Software (for Windows) allows a local attacker to read privileged data.",
+        "affected_product": "Samsung Magician Software for Windows",
+        "affected_component": "N/A",
+        "severity": "High (7.3)",
+        "reported_date": "2024-01-01",
+        "acknowledgment": "Masahiro Iida"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-20821/",
+        "cve_id": "CVE-2024-20821",
+        "description": "A vulnerability possible to reconfigure OTP allows local attackers to transit RMA (Return Merchandise Authorization) mode, which disables security features. This attack needs additional privilege to control TEE.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-05-07",
+        "acknowledgment": "Martijn Bogaard"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31952/",
+        "cve_id": "CVE-2024-31952",
+        "description": "Exploiting symbolic linking in the files used during the installation process allows an attacker to escalate privileges through arbitrary file permission writes. (The attacker must already have user privileges, and an administrator password must be entered during the program installation stage for privilege escalation.)",
+        "affected_product": "Samsung Magician Software for Mac OS",
+        "affected_component": "N/A",
+        "severity": "Medium (6.7)",
+        "reported_date": "2024-05-07",
+        "acknowledgment": "pwn2car"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31953/",
+        "cve_id": "CVE-2024-31953",
+        "description": "The vulnerability of tampering with the directory and executable files used during the installation process allows an attacker to escalate privileges through arbitrary code execution. (The attacker must already have user privileges, and an administrator password must be entered during the program installation stage for privilege escalation.)",
+        "affected_product": "Samsung Magician Software for Mac OS",
+        "affected_component": "N/A",
+        "severity": "Medium (6.7)",
+        "reported_date": "2024-05-07",
+        "acknowledgment": "pwn2car"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31954/",
+        "cve_id": "CVE-2024-31954",
+        "description": "The vulnerability of tampering with the directory and DLL files used the installation process allows an attacker to escalate privileges through architrary code execution. (An attacker must already have user privileges)",
+        "affected_product": "Samsung Portable SSD T5 Software for Windows",
+        "affected_component": "N/A",
+        "severity": "High (7.3)",
+        "reported_date": "2024-05-07",
+        "acknowledgment": "Karan Bamal"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31956/",
+        "cve_id": "CVE-2024-31956",
+        "description": "The Mobile Processor lacks proper buffer length checking, which can result in a OOB(Out-of-Bound) Write vulnerability.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-06-12",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-32504/",
+        "cve_id": "CVE-2024-32504",
+        "description": "The mobile processor lacks proper length checking, which can result in an OOB(Out-of-Bound) Write vulnerability.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-06-12",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31958/",
+        "cve_id": "CVE-2024-31958",
+        "description": "The mobile processor lacks a check for the validation of native handles, which can result in a OOB(Out-of-Bound) Write vulnerability.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-07",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31959/",
+        "cve_id": "CVE-2024-31959",
+        "description": "The mobile processor lacks a check for the validation of native handles, which can result in code execution.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-06-07",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-32502/",
+        "cve_id": "CVE-2024-32502",
+        "description": "The mobile processor lacks proper reference count checking, which can result in a UAF (Use-After-Free) vulnerability.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-06-07",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-32503/",
+        "cve_id": "CVE-2024-32503",
+        "description": "The mobile processor lacks proper memory deallocation checking, which can result in a UAF (Use-After-Free) vulnerability.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-07",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-49927/",
+        "cve_id": "CVE-2023-49927",
+        "description": "The baseband software does not properly check format types specified by the RRC. This can lead to a lack of encryption.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Low",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "Kai Tu, Abdullah Al Ishtiaq, Syed MD Mukit Rashid, Yilu Dong, Weixuan Wang, Tianwei Wu, Syed Rafiul Hussain --- SyNSec Lab at Penn State"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-49928/",
+        "cve_id": "CVE-2023-49928",
+        "description": "The baseband software does not properly check states specified by the RRC, which can lead to reveal information",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Low",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "Kai Tu, Abdullah Al Ishtiaq, Syed MD Mukit Rashid, Yilu Dong, Weixuan Wang, Tianwei Wu, Syed Rafiul Hussain --- SyNSec Lab at Penn State"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-50803/",
+        "cve_id": "CVE-2023-50803",
+        "description": "The baseband software does not properly check replay protection specified by the NAS (Non-Access-Stratum) module. This can lead to denial of service.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Low",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "Kai Tu, Abdullah Al Ishtiaq, Syed MD Mukit Rashid, Yilu Dong, Weixuan Wang, Tianwei Wu, Syed Rafiul Hussain --- SyNSec Lab at Penn State"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-50804/",
+        "cve_id": "CVE-2023-50804",
+        "description": "The baseband software does not properly check format types specified by the NAS (Non-Access-Stratum) module. This can lead to bypass of authentication.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "Kai Tu, Abdullah Al Ishtiaq, Syed MD Mukit Rashid, Yilu Dong, Weixuan Wang, Tianwei Wu, Syed Rafiul Hussain --- SyNSec Lab at Penn State"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27369/",
+        "cve_id": "CVE-2024-27369",
+        "description": "In the function slsi_nan_ndp_initiate_get_nl_params(), there is no input validation check on hal_req → app_info.ndp_app_info_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27370/",
+        "cve_id": "CVE-2024-27370",
+        "description": "In the function slsi_nan_config_get_nl_params(), there is no input validation check on hal_req → num_config_discovery_attr coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27371/",
+        "cve_id": "CVE-2024-27371",
+        "description": "In the function slsi_nan_followup_get_nl_params(), there is no input validation check on hal_req → service_specific_info_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27372/",
+        "cve_id": "CVE-2024-27372",
+        "description": "In the function slsi_nan_config_get_nl_params(), there is no input validation check on disc_attr → infrastructure_ssid_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27373/",
+        "cve_id": "CVE-2024-27373",
+        "description": "In the function slsi_nan_config_get_nl_params(), there is no input validation check on disc_attr → mesh_id_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27374/",
+        "cve_id": "CVE-2024-27374",
+        "description": "In the function slsi_nan_publish_get_nl_params(), there is no input validation check on hal_req → service_specific_info_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27375/",
+        "cve_id": "CVE-2024-27375",
+        "description": "In the function slsi_nan_followup_get_nl_params(), there is no input validation check on hal_req → sdea_service_specific_info_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27376/",
+        "cve_id": "CVE-2024-27376",
+        "description": "In the function slsi_nan_subscribe_get_nl_params(), there is no input validation check on hal_req → rx_match_filter_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27377/",
+        "cve_id": "CVE-2024-27377",
+        "description": "In the function slsi_nan_get_security_info_nl(), there is no input validation check on sec_info → key_info.body.pmk_info.pmk_len coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27378/",
+        "cve_id": "CVE-2024-27378",
+        "description": "In the function slsi_send_action_frame_cert(), there is no input validation check on len coming from userspace, which can lead to heap overread in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27379/",
+        "cve_id": "CVE-2024-27379",
+        "description": "In the function slsi_nan_subscribe_get_nl_params(), there is no input validation check on hal_req → num_intf_addr_present coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27380/",
+        "cve_id": "CVE-2024-27380",
+        "description": "In the function slsi_set_delayed_wakeup_type(), there is no input validation check on length of ioctl_args → args[i] coming from userspace, which can lead to heap overread in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27381/",
+        "cve_id": "CVE-2024-27381",
+        "description": "In the function slsi_send_action_frame_ut(), there is no input validation check on len coming from userspace, which can lead to heap overread in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27382/",
+        "cve_id": "CVE-2024-27382",
+        "description": "In the function slsi_send_action_frame(), there is no input validation check on len coming from userspace, which can lead to heap overread in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-28818/",
+        "cve_id": "CVE-2024-28818",
+        "description": "The baseband software does not properly check states specified by the RRC (Radio Resource Control) module. This can lead to disclosure of sensitive information.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "Kai Tu, Abdullah Al Ishtiaq, Syed MD Mukit Rashid, Yilu Dong, Weixuan Wang, Tianwei Wu, Syed Rafiul Hussain --- SyNSec Lab at Penn State"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-29152/",
+        "cve_id": "CVE-2024-29152",
+        "description": "The baseband software does not properly check states specified by the RRC Reconfiguration message. This can lead to disclosure of sensitive information.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "Kai Tu, Abdullah Al Ishtiaq, Syed MD Mukit Rashid, Yilu Dong, Weixuan Wang, Tianwei Wu, Syed Rafiul Hussain --- SyNSec Lab at Penn State"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-36071/",
+        "cve_id": "CVE-2024-36071",
+        "description": "The vulnerability of tampering with the directory and DLL files used during the installation process allows an attacker to escalste privileges through arbitrary code execution. (An attacker must already have admin privileges)",
+        "affected_product": "Samsung Magician Software for Windows OS",
+        "affected_component": "N/A",
+        "severity": "Medium (6.3)",
+        "reported_date": "2024-06-03",
+        "acknowledgment": "HeeChan Kim"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-26922/",
+        "cve_id": "CVE-2024-26922",
+        "description": "In the Linux kernel, the following vulnerability has been resolved: drm/amdgpu: validate the parameters of bo mapping operations more clearly Verify the parameters of amdgpu_vm_bo_(map/replace_map/clearing_mappings) in one common place.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-07-08",
+        "acknowledgment": "Vlad Stolyarov"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-50805/",
+        "cve_id": "CVE-2023-50805",
+        "description": "Out of bound write in the heap in 2G (no auth)",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Dyon Goos & Marius Muench"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-50806/",
+        "cve_id": "CVE-2023-50806",
+        "description": "Out of bound of a heap buffer in SIM Proactive Command",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Tomasz Lisowski & Marius Muench"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2023-50807/",
+        "cve_id": "CVE-2023-50807",
+        "description": "Out of bound write in the heap in 2G (no auth)",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Dyon Goos & Marius Muench"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27360/",
+        "cve_id": "CVE-2024-27360",
+        "description": "The Mobile Processor does not properly check length of the data, which can lead to a Denial of Service.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Chao Ma of Baidu AIoT Security Team"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27361/",
+        "cve_id": "CVE-2024-27361",
+        "description": "A time-of-check to time-of-use (TOCTOU) race condition, which can lead to a Denial of Service.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Chao Ma of Baidu AIoT Security Team"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27362/",
+        "cve_id": "CVE-2024-27362",
+        "description": "The Mobile Processor does not properly check length of the data, which can lead to a Information disclosure.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Chao Ma of Baidu AIoT Security Team"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27363/",
+        "cve_id": "CVE-2024-27363",
+        "description": "The Mobile Processor does not properly check pointer address, which can lead to a Information disclosure.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Chao Ma of Baidu AIoT Security Team"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27385/",
+        "cve_id": "CVE-2024-27385",
+        "description": "In the function slsi_handle_nan_rx_event_log_ind(), there is no input validation check on tag_len for rx coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27386/",
+        "cve_id": "CVE-2024-27386",
+        "description": "In the function slsi_handle_nan_rx_event_log_ind(), there is no input validation check on tag_len for tx coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-28067/",
+        "cve_id": "CVE-2024-28067",
+        "description": "A Man-in-the-Middle (MITM) attacker can downgrade the security mode of packets going to the victim, enabling the attacker to send messages to the victim in plaintext",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-28068/",
+        "cve_id": "CVE-2024-28068",
+        "description": "An issue was discovered in SS in Samsung Exynos Modem. A NULL pointer dereference can cause abnormal termination of a mobile phone via a manipulated packet.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "Dyon Goos & Marius Muench"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-29153/",
+        "cve_id": "CVE-2024-29153",
+        "description": "Incorrect autorization of LTE NAS messages leads to downgrading to lower network generations and repeated DDOS",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31957/",
+        "cve_id": "CVE-2024-31957",
+        "description": "The mobile processor lacks a check for the validation of native handles, which can result in a DoS(Denial of Service) attack by unmapping an invalid length.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-07-01",
+        "acknowledgment": "peter pi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-25073/",
+        "cve_id": "CVE-2024-25073",
+        "description": "The baseband software does not properly check a pointer specified by the CC (Call Control module), which can lead to Denial of Service (Untrusted Pointer Dereference).",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-08-05",
+        "acknowledgment": "Nevv"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-25074/",
+        "cve_id": "CVE-2024-25074",
+        "description": "The baseband software does not properly check a pointer specified by the SM (Session Management module), which can lead to Denial of Service (Untrusted Pointer Dereference).",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-08-05",
+        "acknowledgment": "Nevv"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31960/",
+        "cve_id": "CVE-2024-31960",
+        "description": "xclipse amdgpu driver has a reference count bug. This can lead to a UAF(Use after free).",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-08-05",
+        "acknowledgment": "Lvntus"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27364/",
+        "cve_id": "CVE-2024-27364",
+        "description": "In the function slsi_rx_roamed_ind(), there is no input validation check on length coming from userspace, which can lead to potential heap overread",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27365/",
+        "cve_id": "CVE-2024-27365",
+        "description": "In the function slsi_rx_blockack_ind(), there is no input validation check on length coming from userspace, which can lead to potential heap overread",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27366/",
+        "cve_id": "CVE-2024-27366",
+        "description": "In the function slsi_rx_scan_done_ind(), there is no input validation check on length coming from userspace, which can lead to potential heap overread",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27367/",
+        "cve_id": "CVE-2024-27367",
+        "description": "In the function slsi_rx_roamed_ind(), there is no input validation check on length coming from userspace, which can lead to potential heap overread",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27368/",
+        "cve_id": "CVE-2024-27368",
+        "description": "In the function slsi_rx_received_frame_ind(), there is no input validation check on length coming from userspace, which can lead to potential heap overread",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27383/",
+        "cve_id": "CVE-2024-27383",
+        "description": "In the function slsi_get_scan_extra_ies(), there is no input validation check on default_ies coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-27387/",
+        "cve_id": "CVE-2024-27387",
+        "description": "In the function slsi_rx_range_done_ind(), there is no input validation check on rtt_id coming from userspace, which can lead to heap overwrite in Samsung Mobile Processor",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-09-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-31955/",
+        "cve_id": "CVE-2024-31955",
+        "description": "The code bypass through EMFI allows an attacker to authenticate and write arbitrary data to the RPMB area without the secret information.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-10-11",
+        "acknowledgment": "Aya Fukami, Richard Buurke"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-45184/",
+        "cve_id": "CVE-2024-45184",
+        "description": "An out-of-bounds write due to a heap buffer overflow can lead to a Denial of Service",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-10-11",
+        "acknowledgment": "Tomasz Lisowski, Merlin Chlosta, Jinjin Wang & Marius Muench"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-44068/",
+        "cve_id": "CVE-2024-44068",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-10-07",
+        "acknowledgment": "Xingyu Jin of Google"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-45185/",
+        "cve_id": "CVE-2024-45185",
+        "description": "Out of bound write due to a heap overflow in the GPRS protocol",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-11-04",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-39343/",
+        "cve_id": "CVE-2024-39343",
+        "description": "The baseband software does not properly check length specified by the MM (Mobility Management module), which can lead to Denial of Service.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-12-02",
+        "acknowledgment": "Nevv"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-39890/",
+        "cve_id": "CVE-2024-39890",
+        "description": "The baseband software does not properly check length specified by the CC (Call Control), which can lead to Out-of-Bound write.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2024-12-02",
+        "acknowledgment": "Nevv"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-45183/",
+        "cve_id": "CVE-2024-45183",
+        "description": "Lack of length check leads to out-of-bound write",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2024-12-02",
+        "acknowledgment": "jiayy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-53921/",
+        "cve_id": "CVE-2024-53921",
+        "description": "In Magician for Windows, an attacker can create arbitrary folders in the system permission directory via a symbolic link during the installation process. ",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Low",
+        "reported_date": "2024-12-02",
+        "acknowledgment": "HeeChan Kim (@heegong123) of TeamH4C"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-46919/",
+        "cve_id": "CVE-2024-46919",
+        "description": "Lack of length check leads to stack out-of-bound write at loadOutputBuffers()",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-01-06",
+        "acknowledgment": "Chao Ma of Baidu Security"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-46920/",
+        "cve_id": "CVE-2024-46920",
+        "description": "Lack of length check leads to stack out-of-bound write at loadInputBuffers()",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-01-06",
+        "acknowledgment": "Chao Ma of Baidu Security"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-46921/",
+        "cve_id": "CVE-2024-46921",
+        "description": "UE does not limit the number of attempts for the RRC Setup procedure in the 5G SA, leading to a denial of service (battery-drain attack).",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Low",
+        "reported_date": "2025-01-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-48883/",
+        "cve_id": "CVE-2024-48883",
+        "description": "The UE incorrectly handles the malformed uplink scheduling message, resulting in an information leak of the UE",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-01-06",
+        "acknowledgment": "Taekkyung Oh, Beomseok Oh, Hansung Bae, Taisic Yun, Yongdae Kim"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-5660/",
+        "cve_id": "CVE-2024-5660",
+        "description": "ARM CVE-2024-5660",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2025-01-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-46922/",
+        "cve_id": "CVE-2024-46922",
+        "description": "The absence of a null check leads to a Denial of Service at amdgpu_cs_parser_bos in the Xclipse Driver.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-02-03",
+        "acknowledgment": "Quek Kai Yu"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-46923/",
+        "cve_id": "CVE-2024-46923",
+        "description": "The absence of a null check leads to a Denial of Service at amdgpu_cs_ib_fill in the Xclipse Driver.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-02-03",
+        "acknowledgment": "Quek Kai Yu"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-49196/",
+        "cve_id": "CVE-2024-49196",
+        "description": "Type confusion leads to a Denial of Service",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-03-03",
+        "acknowledgment": "Quek Kai Yu"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-49197/",
+        "cve_id": "CVE-2024-49197",
+        "description": "Lack of boundary check in START_KEEP_ALIVE_OFFLOAD leads to out-of-bound access",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-03-03",
+        "acknowledgment": "Steven Salerno"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-50600/",
+        "cve_id": "CVE-2024-50600",
+        "description": "Lack of boundary check in STOP_KEEP_ALIVE_OFFLOAD leads to out-of-bound access",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-03-03",
+        "acknowledgment": "Steven Salerno"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-52923/",
+        "cve_id": "CVE-2024-52923",
+        "description": "Lack of boundary check during decoding of DL NAS Transport messages leads to Denial of Service",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-03-03",
+        "acknowledgment": "Ali Ranjbar, Tianchang Yang, Kai Tu, Syed Rafiul Hussain of SyNSec Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-52924/",
+        "cve_id": "CVE-2024-52924",
+        "description": "Lack of boundary check during the decoding of Registration Accept messages can lead to out-of-bounds writes on the stack",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-03-03",
+        "acknowledgment": "Ali Ranjbar, Tianchang Yang, Kai Tu, Syed Rafiul Hussain of SyNSec Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-22377/",
+        "cve_id": "CVE-2025-22377",
+        "description": "A Heap-based Out-of-Bounds Write exists in the GPRS protocol implementation because of a mismatch between the actual length of the payload and the length declared within the payload.",
+        "affected_product": "N/A",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2025-04-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-55569/",
+        "cve_id": "CVE-2024-55569",
+        "description": "The lack of length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-05-07",
+        "acknowledgment": "Nevv"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-56427/",
+        "cve_id": "CVE-2024-56427",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-05-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-26783/",
+        "cve_id": "CVE-2025-26783",
+        "description": "Incorrect handling of undefined values leads to a Denial of Service",
+        "affected_product": "Exynos 2100, 1280, 2200, 1330, 1380, 1480, 2400, W1000, Modem 5300, Modem 5400",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-05-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-26784/",
+        "cve_id": "CVE-2025-26784",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2025-05-07",
+        "acknowledgment": "Ali Ranjbar, Tianchang Yang, Kai Tu, Syed Rafiul Hussain of SyNSec Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-26785/",
+        "cve_id": "CVE-2025-26785",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "N/A",
+        "severity": "High",
+        "reported_date": "2025-05-07",
+        "acknowledgment": "Ali Ranjbar, Tianchang Yang, Kai Tu, Syed Rafiul Hussain of SyNSec Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-27891/",
+        "cve_id": "CVE-2025-27891",
+        "description": "The lack of a length check leads to out-of-bounds reads",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "N/A",
+        "severity": "Medium",
+        "reported_date": "2025-05-07",
+        "acknowledgment": "Ali Ranjbar, Tianchang Yang, Kai Tu, Syed Rafiul Hussain of SyNSec Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-7881/",
+        "cve_id": "CVE-2024-7881",
+        "description": "CVE-2024-7881",
+        "affected_product": "Exynos 2400",
+        "affected_component": "CPU",
+        "severity": "Medium",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23095/",
+        "cve_id": "CVE-2025-23095",
+        "description": "A Double Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23096/",
+        "cve_id": "CVE-2025-23096",
+        "description": "A Double Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23097/",
+        "cve_id": "CVE-2025-23097",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 1380",
+        "affected_component": "NPU",
+        "severity": "Medium",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23098/",
+        "cve_id": "CVE-2025-23098",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 980, 990, 1080, 2100, 1280, 2200, 1380",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng & Ng Zhi Yang of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23099/",
+        "cve_id": "CVE-2025-23099",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23100/",
+        "cve_id": "CVE-2025-23100",
+        "description": "The absence of a null check leads to a Denial of Service",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "Medium",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23101/",
+        "cve_id": "CVE-2025-23101",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 1380",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23102/",
+        "cve_id": "CVE-2025-23102",
+        "description": "A Double Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 980, 990, 1080, 2100, 1280, 2200, 1380, 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng & Ng Zhi Yang of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23103/",
+        "cve_id": "CVE-2025-23103",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23104/",
+        "cve_id": "CVE-2025-23104",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 2200",
+        "affected_component": "GPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23105/",
+        "cve_id": "CVE-2025-23105",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 2200, 1480, 2400",
+        "affected_component": "GPU",
+        "severity": "Medium",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23106/",
+        "cve_id": "CVE-2025-23106",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 2200, 1480, 2400",
+        "affected_component": "GPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-23107/",
+        "cve_id": "CVE-2025-23107",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "High",
+        "reported_date": "2025-06-02",
+        "acknowledgment": "Billy Jheng Bing Jhong, Muhammad Alifa Ramdhan, Pan Zhenpeng of STAR Labs SG Pte. Ltd."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-26780/",
+        "cve_id": "CVE-2025-26780",
+        "description": "The lack of length check leads to a Denial of Service",
+        "affected_product": "Exynos 2400, Modem 5400",
+        "affected_component": "L2",
+        "severity": "Medium",
+        "reported_date": "2025-07-07",
+        "acknowledgment": "HOANG DINH TUAN, Tuan Dinh Hoang, Yongdae Kim @ KAIST SysSec Lab; Insu Yun @ KAIST Hacking Lab; and CheolJun Pack @ KHU SysSec Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-47202/",
+        "cve_id": "CVE-2025-47202",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "RRC",
+        "severity": "High",
+        "reported_date": "2025-07-07",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-32098/",
+        "cve_id": "CVE-2025-32098",
+        "description": "An attacker can achieve Elevation of Privileges to SYSTEM by exploiting insecure file delete operations during the update process.",
+        "affected_product": "6.3-8.3",
+        "affected_component": "Windows Installer",
+        "severity": "Medium",
+        "reported_date": "2025-09-01",
+        "acknowledgment": "Dong-uk Kim"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-32100/",
+        "cve_id": "CVE-2025-32100",
+        "description": "A programming mistake in the buffer copy leads to out-of-bounds writes.",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "ROHC",
+        "severity": "High",
+        "reported_date": "2025-09-01",
+        "acknowledgment": "Dyon Goos (VUSec, Vrije Universiteit Amsterdam) & Marius Muench (University of Birmingham, UK)"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-55568/",
+        "cve_id": "CVE-2024-55568",
+        "description": "The absence of a null check leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "UL2",
+        "severity": "Medium",
+        "reported_date": "2025-10-06",
+        "acknowledgment": "Nevv"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-26781/",
+        "cve_id": "CVE-2025-26781",
+        "description": "Incorrect handling of RLC AM PDUs leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 9110, W920, W930, Modem 5123, Modem 5300",
+        "affected_component": "L2",
+        "severity": "Medium",
+        "reported_date": "2025-10-06",
+        "acknowledgment": "Hoang Dinh Tuan - SysSec Lab, KAIST."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-26782/",
+        "cve_id": "CVE-2025-26782",
+        "description": "Incorrect handling of RLC AM PDUs leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 9110, W920, W930, Modem 5123, Modem 5300",
+        "affected_component": "L2",
+        "severity": "Medium",
+        "reported_date": "2025-10-06",
+        "acknowledgment": "Hoang Dinh Tuan - SysSec Lab, KAIST."
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-48025/",
+        "cve_id": "CVE-2025-48025",
+        "description": "An improper access control vulnerability in log file",
+        "affected_product": "Exynos 980, 850, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wifi driver",
+        "severity": "Medium",
+        "reported_date": "2025-10-06",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-56426/",
+        "cve_id": "CVE-2024-56426",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, W920, W930, W1000",
+        "affected_component": "USB",
+        "severity": "High",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Christopher Wade"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-27374/",
+        "cve_id": "CVE-2025-27374",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 9820, 9825, 980, 990, 850, 1080, 1280, 2200, 1330, 1380, 1480, 2400",
+        "affected_component": "Secure boot",
+        "severity": "High",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Christopher Wade"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-49494/",
+        "cve_id": "CVE-2025-49494",
+        "description": "Incorrect Handling of 5G NRMM packet leads to a Denial of Service",
+        "affected_product": "Exynos 2100, 1280, 2200, 1330, 1380, 1480, 9110, Modem 5123",
+        "affected_component": "NRMM",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52512/",
+        "cve_id": "CVE-2025-52512",
+        "description": "A race condition in the HTS driver results in out-of-bounds memory access, leading to a denial of service.",
+        "affected_product": "Exynos 2400, 1580, 2500",
+        "affected_component": "HTS",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52513/",
+        "cve_id": "CVE-2025-52513",
+        "description": "A race condition in the HTS driver results in an out-of-bounds write, leading to a denial of service.",
+        "affected_product": "Exynos 2400, 1580, 2500",
+        "affected_component": "HTS",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52910/",
+        "cve_id": "CVE-2025-52910",
+        "description": "A Use-After-Free in the mobile processor leads to privilege escalation",
+        "affected_product": "Exynos 1280, 2200, 1330, 1380, 1480, 2400",
+        "affected_component": "GPU",
+        "severity": "High",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "lovepink"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54323/",
+        "cve_id": "CVE-2025-54323",
+        "description": "Improper debug printing leads to an information leakage",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580",
+        "affected_component": "Camera",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54325/",
+        "cve_id": "CVE-2025-54325",
+        "description": "A race condition in the VTS driver results in an out-of-bounds read, leading to an information leak",
+        "affected_product": "Exynos 1080, 1280, 2200, 1380, 1480, 2400, 1580, 2500, W920, W930, W1000",
+        "affected_component": "VTS",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54327/",
+        "cve_id": "CVE-2025-54327",
+        "description": "Improper input validation in the VTS driver leads to an arbitrary write",
+        "affected_product": "Exynos 1280, 2200, 1380, W920, W930, W1000",
+        "affected_component": "VTS",
+        "severity": "High",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54329/",
+        "cve_id": "CVE-2025-54329",
+        "description": "The function used to send multiple payloads message including SMS message lacks bounds checking, which can lead to a heap overflow.",
+        "affected_product": "Exynos 980, 990, 850, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "NAS",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54330/",
+        "cve_id": "CVE-2025-54330",
+        "description": "Out-of-bounds Read of \"q->bufs[]\" in __is_done_for_me()",
+        "affected_product": "Exynos 1380",
+        "affected_component": "NPU driver",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54331/",
+        "cve_id": "CVE-2025-54331",
+        "description": "Untrusted Pointer Dereference of \"src_hdr\" in copy_ncp_header()",
+        "affected_product": "Exynos 1380",
+        "affected_component": "NPU driver",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54332/",
+        "cve_id": "CVE-2025-54332",
+        "description": "NULL Pointer Dereference of \"profiler.node\" in npu_vertex_profileoff()",
+        "affected_product": "Exynos 1380",
+        "affected_component": "NPU Driver",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54333/",
+        "cve_id": "CVE-2025-54333",
+        "description": "Invalid Pointer Dereference of \"node\" in get_vs4l_profiler_node()",
+        "affected_product": "Exynos 1380",
+        "affected_component": "NPU driver",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54334/",
+        "cve_id": "CVE-2025-54334",
+        "description": "NULL Pointer Dereference of \"hdev\" in __npu_vertex_bootup()",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "NPU driver",
+        "severity": "Medium",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54335/",
+        "cve_id": "CVE-2025-54335",
+        "description": "UAF in Xclipse GPU Driver",
+        "affected_product": "Exynos 1480, 2400, 1580, 2500",
+        "affected_component": "GPU driver",
+        "severity": "High",
+        "reported_date": "2025-11-03",
+        "acknowledgment": "Anonymous"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-53965/",
+        "cve_id": "CVE-2025-53965",
+        "description": "The function used to decode the SOR transparent container lacks bounds checking, which can cause a fatal error",
+        "affected_product": "Exynos 980, 990, 850, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "NAS",
+        "severity": "Medium",
+        "reported_date": "2025-12-01",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54326/",
+        "cve_id": "CVE-2025-54326",
+        "description": "Unnecessary registration of a hardware IP in the Camera device driver can lead to a NULL pointer dereference, resulting in a denial of service",
+        "affected_product": "Exynos 1280, 2200",
+        "affected_component": "Camera",
+        "severity": "Medium",
+        "reported_date": "2025-12-01",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-27807/",
+        "cve_id": "CVE-2025-27807",
+        "description": "The lack of a length check leads to out-of-bounds writes",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "NAS",
+        "severity": "High",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "Nevv from eSurfing Cloud Red-Shield Security Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-43706/",
+        "cve_id": "CVE-2025-43706",
+        "description": "Incorrect handling of RRC packet leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2400, 1580, 9110, W920, W930, Modem 5123, Modem 5400",
+        "affected_component": "L2",
+        "severity": "Medium",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-49495/",
+        "cve_id": "CVE-2025-49495",
+        "description": "Incorrect Handling of NL80211 vendor command leads to a buffer overflow",
+        "affected_product": "Exynos 1380, 1480, 2400, 1580",
+        "affected_component": "Wifi driver",
+        "severity": "High",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "Steven Salerno"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52515/",
+        "cve_id": "CVE-2025-52515",
+        "description": "A race condition in the issimian device driver results in an out-of-bounds access, leading to a denial of service.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "Camera",
+        "severity": "Medium",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52516/",
+        "cve_id": "CVE-2025-52516",
+        "description": "Invalid kernel address dereference in the issimian device driver leads to a denial of service.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "Camera",
+        "severity": "Medium",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52517/",
+        "cve_id": "CVE-2025-52517",
+        "description": "A race condition in the issimian device driver results in a double free, leading to a denial of service.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "Camera",
+        "severity": "Medium",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52519/",
+        "cve_id": "CVE-2025-52519",
+        "description": "Improper validation of user-space input in the issimian device driver leads to information disclosure and a denial of service.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "Camera",
+        "severity": "High",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-53966/",
+        "cve_id": "CVE-2025-53966",
+        "description": "Incorrect Handling of NL80211 vendor command leads to a buffer overflow",
+        "affected_product": "Exynos 1380, 1480, 2400, 1580",
+        "affected_component": "Wifi driver",
+        "severity": "High",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "Steven Salerno"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-57836/",
+        "cve_id": "CVE-2025-57836",
+        "description": "The Magician installer creates a temporary folder with weak permissions during installation, allowing a non-admin user to perform DLL hijacking and escalate privileges.",
+        "affected_product": "6.3.0-8.3.2",
+        "affected_component": "Windows Installer",
+        "severity": "High",
+        "reported_date": "2026-01-05",
+        "acknowledgment": "Sandro Poppi"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58340/",
+        "cve_id": "CVE-2025-58340",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/send_delts write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58341/",
+        "cve_id": "CVE-2025-58341",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/ap_cert_disable_ht_vht write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58342/",
+        "cve_id": "CVE-2025-58342",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/uapsd write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58343/",
+        "cve_id": "CVE-2025-58343",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/create_tspec write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58344/",
+        "cve_id": "CVE-2025-58344",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/conn_log_event_burst_to_us write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58345/",
+        "cve_id": "CVE-2025-58345",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/ap_certif_11ax_mode write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58346/",
+        "cve_id": "CVE-2025-58346",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/send_addts write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58347/",
+        "cve_id": "CVE-2025-58347",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/p2p_certif write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58348/",
+        "cve_id": "CVE-2025-58348",
+        "description": "Unbounded memory allocation in /proc/driver/unifi0/confg_tspec write operation, leading to kernel memory exhaustion",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wi-Fi driver",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "Snoopy"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-59439/",
+        "cve_id": "CVE-2025-59439",
+        "description": "Incorrect handling of NAS Registration messages leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 1080, 9110, W920, W930, W1000, Modem 5123",
+        "affected_component": "NRMM",
+        "severity": "Medium",
+        "reported_date": "2026-02-02",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-62814/",
+        "cve_id": "CVE-2025-62814",
+        "description": "Null pointer dereference of \"ft_handle\" in load_fw_utc_vector() causes a denial of service",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400",
+        "affected_component": "NPU",
+        "severity": "Medium",
+        "reported_date": "2026-03-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-62815/",
+        "cve_id": "CVE-2025-62815",
+        "description": "Null pointer dereference of \"npu_proto_drv.ast.thread_ref\" in set_cpu_affinity() causes a denial of service",
+        "affected_product": "Exynos 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "NPU",
+        "severity": "Medium",
+        "reported_date": "2026-03-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-62816/",
+        "cve_id": "CVE-2025-62816",
+        "description": "Unvalidated VS4L_VERTEXIOC_BOOTUP input lead to a denial of service.",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "NPU",
+        "severity": "Medium",
+        "reported_date": "2026-03-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-62817/",
+        "cve_id": "CVE-2025-62817",
+        "description": "Null pointer dereference of \"session->ncp_hdr_buf\" in __pilot_parsing_ncp() causes a denial of service.",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "NPU",
+        "severity": "Medium",
+        "reported_date": "2026-03-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-66363/",
+        "cve_id": "CVE-2025-66363",
+        "description": "There was no check for memory initialization regarding DL NAS Transport messages.",
+        "affected_product": "Exynos 2200",
+        "affected_component": "LBS",
+        "severity": "Medium",
+        "reported_date": "2026-03-03",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52908/",
+        "cve_id": "CVE-2025-52908",
+        "description": "Incorrect Handling of NL80211 vendor command leads to a buffer overflow",
+        "affected_product": "Exynos 980, 850, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wifi driver",
+        "severity": "High",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Steven Salerno"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-52909/",
+        "cve_id": "CVE-2025-52909",
+        "description": "Incorrect Handling of NL80211 vendor command leads to a buffer overflow",
+        "affected_product": "Exynos 980, 850, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wifi driver",
+        "severity": "High",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Steven Salerno"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54324/",
+        "cve_id": "CVE-2025-54324",
+        "description": "Incorrect Handling of DL NAS Transport packet leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "NAS",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54328/",
+        "cve_id": "CVE-2025-54328",
+        "description": "Stack-based Buffer Overflow occurred while parsing SMS RP-DATA messages",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "SMS",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54601/",
+        "cve_id": "CVE-2025-54601",
+        "description": "Improper synchronization on a global variable leads to a double free vulnerability",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wifi driver",
+        "severity": "High",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-54602/",
+        "cve_id": "CVE-2025-54602",
+        "description": "Improper synchronization on a global variable leads to a use after free vulnerability",
+        "affected_product": "Exynos 980, 850, 1080, 1280, 1330, 1380, 1480, 1580, W920, W930, W1000",
+        "affected_component": "Wifi driver",
+        "severity": "High",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-57834/",
+        "cve_id": "CVE-2025-57834",
+        "description": "The absence of proper input validation leads to a Denial of Service",
+        "affected_product": "Exynos 980, 850, 990, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 1680, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400, Modem 5410",
+        "affected_component": "RRC",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-57835/",
+        "cve_id": "CVE-2025-57835",
+        "description": "Improper memory initialization results in an illegal memory access, causing a system crash.",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "RRC",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-58349/",
+        "cve_id": "CVE-2025-58349",
+        "description": "Incorrect handling of LTE MAC packets containing many MAC Control Elements (CEs) leads to baseband crashes.",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "L2",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-59440/",
+        "cve_id": "CVE-2025-59440",
+        "description": "Improper handling of SIM card proactive commands leads to a Denial of Service.",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "USIM",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-62818/",
+        "cve_id": "CVE-2025-62818",
+        "description": "An out‑of‑bounds write occurs due to a mismatch between the TP‑UDHI and UDL values when processing SMS TP‑UD packet.",
+        "affected_product": "Exynos 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 9110, W920, W930, W1000, Modem 5123, Modem 5300, Modem 5400",
+        "affected_component": "SMS",
+        "severity": "Medium",
+        "reported_date": "2026-04-06",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2025-66369/",
+        "cve_id": "CVE-2025-66369",
+        "description": "Incorrect handling of 5G NR NAS registration accept message leads to a Denial of Service",
+        "affected_product": "Exynos 980, 990, 850, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, W920, W930, W1000, Modem 5123, Modem 5300",
+        "affected_component": "MM",
+        "severity": "Medium",
+        "reported_date": "2026-05-04",
+        "acknowledgment": "N/A"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2024-53922/",
+        "cve_id": "CVE-2024-53922",
+        "description": "Lack of length check leads to a Denial of Service in the kernel",
+        "affected_product": "Exynos Auto 8890, V7, V9, V920",
+        "affected_component": "Buffer queue driver",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Viacheslav Moskvin of Diconium Entropy Lab"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23786/",
+        "cve_id": "CVE-2026-23786",
+        "description": "A race condition in the Exynos DRM HDR Driver may lead to memory access errors, potentially causing system instability.",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500, 1680, 2600",
+        "affected_component": "DPU",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23787/",
+        "cve_id": "CVE-2026-23787",
+        "description": "Use-After-Free in Exynos DRM HDR driver due to improper cleanup on vmap failure, leading to kernel crash.",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500, 1680, 2600",
+        "affected_component": "DPU",
+        "severity": "High",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23788/",
+        "cve_id": "CVE-2026-23788",
+        "description": "Inadequate buffer size validation in the Exynos DRM HDR driver may cause memory stability issues that could impact system uptime.",
+        "affected_product": "Exynos 1280, 2200, 1380",
+        "affected_component": "DPU",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23789/",
+        "cve_id": "CVE-2026-23789",
+        "description": "Improper resource management in the Exynos MFC encoder driver may lead to memory cleanup errors, potentially resulting in unintended system behavior.",
+        "affected_product": "Exynos 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 2600, 1680, W920, W930, W1000",
+        "affected_component": "MFC",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23790/",
+        "cve_id": "CVE-2026-23790",
+        "description": "Double-free vulnerability in the Samsung Exynos DPU driver due to improper pointer management during DMA buffer reallocation, leading to kernel memory corruption and potential use-after-free.",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500, 1680, 2600",
+        "affected_component": "DPU",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23791/",
+        "cve_id": "CVE-2026-23791",
+        "description": "Insufficient input validation in the Samsung Exynos DPU driver during color mode processing may result in memory access anomalies affecting the kernel.",
+        "affected_product": "Exynos 1280, 2200, 1380, 1480, 2400, 1580, 2500, 1680, 2600",
+        "affected_component": "DPU",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-23793/",
+        "cve_id": "CVE-2026-23793",
+        "description": "An out-of-bounds memory access vulnerability in the Samsung camera GDC driver may lead to kernel memory corruption under certain conditions.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400",
+        "affected_component": "Camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33956/",
+        "cve_id": "CVE-2026-33956",
+        "description": "Sending a malformed message to a system entry may cause memory access errors, resulting in service unavailability.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500",
+        "affected_component": "camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "shiyier"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33960/",
+        "cve_id": "CVE-2026-33960",
+        "description": "An improperly formatted command to the Wi-Fi interface device may affect memory allocation, leading to service interruption.",
+        "affected_product": "Exynos 1330, 1380, 1480, 1580, 1680, W920, W930, W1000",
+        "affected_component": "Wi-Fi",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Samsung Semiconductor"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33963/",
+        "cve_id": "CVE-2026-33963",
+        "description": "Processing a malformed message in the camera driver may lead to memory handling instability, resulting in a disruption of service.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500, 2600, 1680",
+        "affected_component": "camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33964/",
+        "cve_id": "CVE-2026-33964",
+        "description": "An untrusted pointer dereference occurs when a malformed message is sent to the camera driver, causing limited information disclosure or denial of service.",
+        "affected_product": "Exynos 1580, 2500",
+        "affected_component": "camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33966/",
+        "cve_id": "CVE-2026-33966",
+        "description": "Information Leak occurs in Samsung Exynos camera driver due to CWE-215.",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500, 2600, 1680",
+        "affected_component": "camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33967/",
+        "cve_id": "CVE-2026-33967",
+        "description": "In Samsung Exynos Camera Driver, an out-of-bounds array access vulnerability in the error handling path leads to memory corruption",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500, 2600, 1680",
+        "affected_component": "camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33968/",
+        "cve_id": "CVE-2026-33968",
+        "description": "In Samsung camera driver, a Time-of-Check Time-of-Use (TOCTOU) race condition leads to out-of-bounds access",
+        "affected_product": "Exynos 1330, 1380, 1480, 2400, 1580, 2500, 2600, 1680",
+        "affected_component": "camera",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Joe"
+    },
+    {
+        "url": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/cve-2026-33970/",
+        "cve_id": "CVE-2026-33970",
+        "description": "In the Exynos 5G baseband, a NULL Pointer Dereference (CWE-476) vulnerability occurs when processing a malformed RRC Reconfiguration message",
+        "affected_product": "Exynos 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 1580, 2500, 1680, W920, W930, W1000, Modem 5410",
+        "affected_component": "NR RRC, L2",
+        "severity": "Medium",
+        "reported_date": "2026-06-01",
+        "acknowledgment": "Kai Tu, Tianchang Yang, Xiaotian Zhou, Ali Ranjbar, Abdullah Al Ishtiaq, Tianwei Wu, Yilu Dong, Syed Rafiul Hussain — SyNSec Lab at Penn State"
+    }
+]

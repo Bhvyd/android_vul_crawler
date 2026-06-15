@@ -3,7 +3,7 @@ from pathlib import Path
 from app.ingestion.schemas import RawVendorRun
 
 BACKEND_ROOT = Path(__file__).resolve().parent.parent.parent
-RAW_VENDOR_DIR = BACKEND_ROOT / "data" / "raw_vendor"
+RAW_VENDOR_DIR = BACKEND_ROOT / "data_vendor" / "raw_vendor"
 
 
 def raw_vendor_path(run_id: str, vendor: str) -> Path:

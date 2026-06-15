@@ -1,4 +1,4 @@
-from app.ingestion.bulletin.xiaomi_bulletin_collector import XiaomiBulletinCollector
+from app.ingestion.vendor_bulletin.xiaomi_bulletin_collector import XiaomiBulletinCollector
 from app.ingestion.pipelines.base_pipeline import BaseVendorPipeline
 from app.ingestion.schemas import RawVendorBulletin
 

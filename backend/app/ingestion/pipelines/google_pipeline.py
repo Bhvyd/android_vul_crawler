@@ -1,4 +1,4 @@
-from app.ingestion.bulletin.pixel_bulletin_collector import GoogleBulletinCollector
+from app.ingestion.vendor_bulletin.pixel_bulletin_collector import GoogleBulletinCollector
 from app.ingestion.pipelines.base_pipeline import BaseVendorPipeline
 from app.ingestion.schemas import RawVendorBulletin
 
