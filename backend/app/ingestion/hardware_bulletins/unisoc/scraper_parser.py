@@ -10,10 +10,13 @@ Requires:  pip install requests beautifulsoup4
 """
 
 import re
-import csv
+import json
 import time
 import requests
 from bs4 import BeautifulSoup
+from pathlib import Path
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 BASE = "https://www.unisoc.com"
 LISTING_URL = f"{BASE}/en/support/product-security-bulletin"
@@ -39,6 +42,42 @@ API_HEADERS = {
     "X-Requested-With": "XMLHttpRequest",
 }
 
+def create_session():
+
+    retry = Retry(
+        total=5,
+        connect=5,
+        read=5,
+        backoff_factor=2,
+        status_forcelist=[
+            429,
+            500,
+            502,
+            503,
+            504
+        ],
+        allowed_methods=["GET"]
+    )
+
+    adapter = HTTPAdapter(
+        max_retries=retry,
+        pool_connections=20,
+        pool_maxsize=20
+    )
+
+    session = requests.Session()
+
+    session.mount(
+        "https://",
+        adapter
+    )
+
+    session.mount(
+        "http://",
+        adapter
+    )
+
+    return session
 FIELD_ORDER = [
     "CVE ID", "Title", "Description", "Technology Area",
     "Vulnerability Type", "Access Vector", "CVSS Rating",
@@ -117,30 +156,51 @@ def parse_bulletin(session, url):
     for m in RECORD_PATTERN.finditer(flat):
         g = m.groupdict()
         records.append({
-            "CVE ID": g["cve_id"],
-            "Title": g["title"],
-            "Description": g["description"],
-            "Technology Area": g["tech_area"],
-            "Vulnerability Type": g["vuln_type"],
-            "Access Vector": g["access_vector"],
-            "CVSS Rating": g["cvss_rating"],
-            "CVSS Score": g["cvss_score"],
-            "CVSS String": g["cvss_string"],
-            "Affected Chipsets": g["chipsets"],
-            "Affected Software Versions": g["sw_versions"],
-            "Source URL": url,
+            "cve_id": g["cve_id"],
+            "title": g["title"],
+            "description": g["description"],
+            "technology_area": g["tech_area"],
+            "vulnerability_type": g["vuln_type"],
+            "access_vector": g["access_vector"],
+            "cvss_rating": g["cvss_rating"],
+            "cvss_score": g["cvss_score"],
+            "cvss_string": g["cvss_string"],
+            "affected_chipsets": g["chipsets"],
+            "affected_software_versions": g["sw_versions"],
+            "source_url": url,
         })
     return records
 
 
 def main():
-    session = requests.Session()
+    session = create_session()
 
     # Warm up: load the listing page first so the WAF sets its acw_tc cookie
     # before we hit the JSON API (the API may reject/redirect cold requests).
     session.get(LISTING_URL, headers=PAGE_HEADERS, timeout=20)
 
     bulletins = get_bulletin_links(session)
+    seen = set()
+    unique_bulletins = []
+
+    for b in bulletins:
+
+        if b["url"] in seen:
+            continue
+
+        seen.add(
+            b["url"]
+        )
+
+        unique_bulletins.append(
+            b
+        )
+
+    bulletins = unique_bulletins
+
+    print(
+        f"Found {len(bulletins)} unique bulletins across all years"
+    )
     print(f"Found {len(bulletins)} bulletins across all years")
 
     all_records = []
@@ -149,21 +209,34 @@ def main():
         try:
             recs = parse_bulletin(session, url)
             for r in recs:
-                r["Bulletin Date"] = b["create_time"]
+                r["bulletin_date"] = b["create_time"]
             all_records.extend(recs)
             print(f"  [{b['create_time']}] {url}: {len(recs)} CVE record(s)")
         except Exception as e:
             print(f"  ERROR on {url}: {e}")
         time.sleep(1)  # be polite to the server
 
-    out_path = "backend/output/unisoc_cves.csv"
-    fieldnames = FIELD_ORDER + ["Bulletin Date", "Source URL"]
-    with open(out_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_records)
+        output_dir = Path(
+        "backend/app/ingestion/hardware_bulletins/hardware_output"
+    )
 
-    print(f"\nSaved {len(all_records)} CVE records to {out_path}")
+    output_dir.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    out_path = (
+        output_dir /
+        "unisoc_cves.json"
+    )
+
+    with open(
+        out_path,
+        "w",
+        encoding="utf-8"
+    ) as f:
+     json.dump(all_records, f, indent=4, ensure_ascii=False)
+     print(f"\nSaved {len(all_records)} CVE records to {out_path}")
 
 
 if __name__ == "__main__":

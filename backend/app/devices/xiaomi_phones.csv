@@ -1,0 +1,117 @@
+brand,sub_brand,device_type,device,chipset,Base OS,curent_available_os,User Interface,release_date
+Xiaomi,POCO,phone,Poco C61,Mediatek Helio G36 (12 nm),Android 14,Android 14,MIUI,28-Mar-24
+Xiaomi,POCO,phone,Poco C65,Mediatek MT6769Z Helio G85 (12 nm),Android 13,Android 14,HyperOS 2,06-Nov-23
+Xiaomi,POCO,phone,Poco C71,Unisoc T7250 (12 nm),Android 15 or Android 15 (Go edition),Android 15,HyperOS,08-Apr-25
+Xiaomi,POCO,phone,Poco C75,Mediatek Helio G81 Ultra (12 nm),Android 14,Android 14,HyperOS,05-Nov-24
+Xiaomi,POCO,phone,Poco C75 5G,Qualcomm SM4635 Snapdragon 4s Gen 2 (4 nm),Android 14,Android 14,HyperOS,20-Dec-24
+Xiaomi,POCO,phone,Poco C85,Mediatek Dimensity 6300 (6 nm),Android 15,Android 15,HyperOS 2,16-Dec-25
+Xiaomi,POCO,phone,Poco C85 4G,Mediatek Helio G81 Ultra (12 nm),Android 15,Android 15,HyperOS 2,01-Sep-25
+Xiaomi,POCO,phone,Poco C85x,Unisoc T8300 (6 nm),Android 16,Android 15,HyperOS 3,10-Mar-26
+Xiaomi,POCO,phone,Poco C85x,Unisoc T8300 (6 nm),Android 16,Android 15,HyperOS 3,14-Mar-26
+Xiaomi,POCO,phone,Poco F6,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Android 14,Android 15,HyperOS,23-May-24
+Xiaomi,POCO,phone,Poco F6 Pro,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Android 14,Android 15,HyperOS,23-May-24
+Xiaomi,POCO,phone,Poco F7,Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm),Android 15,Android 14,HyperOS 2,24-Jun-25
+Xiaomi,POCO,phone,Poco F7 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 15,Android 14,HyperOS 2,27-Mar-25
+Xiaomi,POCO,phone,Poco F7 Ultra,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 15,Android 14,HyperOS 3,27-Mar-25
+Xiaomi,POCO,phone,Poco F8 Pro,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 16,Android 14,HyperOS 3,26-Nov-25
+Xiaomi,POCO,phone,Poco F8 Ultra,Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,26-Nov-25
+Xiaomi,POCO,phone,Poco M6,Mediatek Dimensity 6100+ (6 nm),Android 13,Android 14,MIUI 14,26-Dec-23
+Xiaomi,POCO,phone,Poco M6 4G,Mediatek Helio G91 Ultra (12 nm),Android 14,Android 15,HyperOS,13-Jun-24
+Xiaomi,POCO,phone,Poco M6 Plus,Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm),Android 14,Android 14,HyperOS,05-Aug-24
+Xiaomi,POCO,phone,Poco M6 Pro 4G,Mediatek Helio G99 Ultra,Android 13,Android 15,MIUI 14,12-Jan-24
+Xiaomi,POCO,phone,Poco M7,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),Android 14,Android 14,HyperOS,07-Mar-25
+Xiaomi,POCO,phone,Poco M7 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Android 15,Android 14,HyperOS 2,13-Aug-25
+Xiaomi,POCO,phone,Poco M7 Plus,Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm),Android 15,Android 14,HyperOS 2,19-Aug-25
+Xiaomi,POCO,phone,Poco M7 Pro 5G,Mediatek Dimensity 7025 Ultra (6 nm),Android 14,Android 14,HyperOS,20-Dec-24
+Xiaomi,POCO,phone,Poco M8,Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm),Android 15,Android 14,HyperOS 2,08-Jan-26
+Xiaomi,POCO,phone,Poco M8 Pro,Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm),Android 15,Android 14,HyperOS 2,08-Jan-26
+Xiaomi,POCO,phone,Poco X6,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Android 13,Android 14,HyperOS,12-Jan-24
+Xiaomi,POCO,phone,Poco X6 Neo,Mediatek Dimensity 6080 (6 nm),Android 13,Android 14,MIUI 14,13-Mar-24
+Xiaomi,POCO,phone,Poco X6 Pro,Mediatek Dimensity 8300 Ultra (4 nm),Android 14,Android 14,HyperOS,12-Jan-24
+Xiaomi,POCO,phone,Poco X7,Mediatek Dimensity 7300 Ultra (4 nm),Android 14,Android 14,HyperOS,09-Jan-25
+Xiaomi,POCO,phone,Poco X7 Pro,Mediatek Dimensity 8400 Ultra (4 nm),Android 15,Android 14,HyperOS 2,09-Jan-25
+Xiaomi,POCO,phone,Poco X8 Pro,Mediatek Dimensity 8500 Ultra (4 nm),Android 16,Android 14,HyperOS 3,17-Mar-26
+Xiaomi,POCO,phone,Poco X8 Pro Max,Mediatek Dimensity 9500s (3 nm),Android 16,Android 14,HyperOS 3,17-Mar-26
+Xiaomi,Redmi,phone,Redmi 13,Mediatek Helio G91 Ultra (12 nm),Android 14,Android 15,HyperOS,03-Jun-24
+Xiaomi,Redmi,phone,Redmi 13 5G,Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm),Android 14,Android 15,HyperOS,12-Jul-24
+Xiaomi,Redmi,phone,Redmi 13C,Mediatek MT6769Z Helio G85 (12 nm),Android 13,Android 15,MIUI 14,10-Nov-23
+Xiaomi,Redmi,phone,Redmi 13C 5G,Mediatek Dimensity 6100+ (6 nm),Android 13,Android 14,MIUI 14,16-Dec-23
+Xiaomi,Redmi,phone,Redmi 13R,Mediatek Dimensity 6100+ (6 nm),Android 13,Android 14,MIUI 14,08-Dec-23
+Xiaomi,Redmi,phone,Redmi 13x,Mediatek Helio G91 Ultra (12 nm),Android 14,Android 14,HyperOS,28-Mar-25
+Xiaomi,Redmi,phone,Redmi 14C,Mediatek Helio G81 Ultra (12 nm),Android 14,Android 14,HyperOS,30-Aug-24
+Xiaomi,Redmi,phone,Redmi 14C (China),Mediatek Helio G81 Ultra (12 nm),Android 14,Android 15,HyperOS,29-Jan-25
+Xiaomi,Redmi,phone,Redmi 14C 5G,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),Android 14,Android 15,HyperOS,10-Jan-25
+Xiaomi,Redmi,phone,Redmi 14R,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),Android 14,Android 15,HyperOS,14-Sep-24
+Xiaomi,Redmi,phone,Redmi 15,Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm),Android 15,Android 15,HyperOS 2.2,01-Aug-25
+Xiaomi,Redmi,phone,Redmi 15 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Android 15,Android 15,HyperOS 2,01-Aug-25
+Xiaomi,Redmi,phone,Redmi 15C,Mediatek Dimensity 6300 (6 nm),Android 15,Android 15,HyperOS 2,18-Sep-25
+Xiaomi,Redmi,phone,Redmi 15C 4G,Mediatek Helio G81 Ultra (12 nm),Android 15,Android 15,HyperOS 2,01-Aug-25
+Xiaomi,Redmi,phone,Redmi 15a,Unisoc T8300 (6 nm),Android 16,Android 14,HyperOS 3,27-Mar-26
+Xiaomi,Redmi,phone,Redmi A3,Mediatek Helio G36 (12 nm),Android 14 or Android 14 (Go edition),Android 14,HyperOS,23-Feb-24
+Xiaomi,Redmi,phone,Redmi A3 Pro,Mediatek Helio G81 Ultra,Android 14,Android 14,HyperOS,22-Oct-24
+Xiaomi,Redmi,phone,Redmi A3x,Unisoc T603 (22 nm),Android 14,Android 14,MIUI,24-May-24
+Xiaomi,Redmi,phone,Redmi A4,Qualcomm SM4635 Snapdragon 4s Gen 2 (4 nm),Android 14,Android 14,HyperOS,27-Nov-24
+Xiaomi,Redmi,phone,Redmi A5,Unisoc T7250 (12 nm),Android 15 (Go edition),Android 14,HyperOS,21-Mar-25
+Xiaomi,Redmi,phone,Redmi A7 Pro,Unisoc T7250 (12 nm),Android 16,Android 14,HyperOS 3,27-Feb-26
+Xiaomi,Redmi,phone,Redmi A7 Pro,Unisoc T7250 (12 nm),Android 16,Android 14,HyperOS 3,13-Mar-26
+Xiaomi,Redmi,phone,Redmi K70,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),Android 14,Android 14,HyperOS,29-Nov-23
+Xiaomi,Redmi,phone,Redmi K70 Pro,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 14,Android 14,HyperOS,29-Nov-23
+Xiaomi,Redmi,phone,Redmi K70 Ultra,Mediatek Dimensity 9300+ (4 nm),Android 14,Android 14,HyperOS,19-Jul-24
+Xiaomi,Redmi,phone,Redmi K70E,Mediatek Dimensity 8300 Ultra (4 nm),Android 14,Android 14,HyperOS,29-Nov-23
+Xiaomi,Redmi,phone,Redmi K80,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 15,Android 14,HyperOS 2,27-Nov-24
+Xiaomi,Redmi,phone,Redmi K80 Pro,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 15,Android 14,HyperOS 2,27-Nov-24
+Xiaomi,Redmi,phone,Redmi K80 Ultra,Mediatek Dimensity 9400+ (3 nm),Android 15,Android 14,HyperOS 2,26-Jun-25
+Xiaomi,Redmi,phone,Redmi K90,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 16,Android 14,HyperOS 3,23-Oct-25
+Xiaomi,Redmi,phone,Redmi K90 Pro Max,Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,23-Oct-25
+Xiaomi,Redmi,phone,Redmi Note 13,Mediatek Dimensity 6080 (6 nm),Android 13,Android 14,HyperOS,10-Jan-24
+Xiaomi,Redmi,phone,Redmi Note 13 4G,Qualcomm SM6225 Snapdragon 685 (6 nm),Android 13,Android 14,HyperOS 2,15-Jan-24
+Xiaomi,Redmi,phone,Redmi Note 13 Pro,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),Android 13,Android 14,HyperOS 3,21-Sep-23
+Xiaomi,Redmi,phone,Redmi Note 13 Pro 4G,Mediatek Helio G99 Ultra,Android 13,Android 14,HyperOS,15-Jan-24
+Xiaomi,Redmi,phone,Redmi Note 13 Pro+,Mediatek Dimensity 7200 Ultra (4 nm),Android 13,Android 15,HyperOS,21-Sep-23
+Xiaomi,Redmi,phone,Redmi Note 13R,Qualcomm SM4450 Snapdragon 4+ Gen 2 (4 nm),Android 14,Android 15,HyperOS,17-May-24
+Xiaomi,Redmi,phone,Redmi Note 13R Pro,Mediatek Dimensity 6080 (6 nm),Android 13,Android 15,MIUI 14,20-Nov-23
+Xiaomi,Redmi,phone,Redmi Note 14 4G,Mediatek Helio G99 Ultra (6 nm),Android 14,Android 14,HyperOS,15-Jan-25
+Xiaomi,Redmi,phone,Redmi Note 14 5G,Mediatek Dimensity 7025 Ultra (6 nm),Android 14,Android 14,HyperOS,16-Jan-25
+Xiaomi,Redmi,phone,Redmi Note 14 5G (China),Mediatek Dimensity 7025 Ultra (6 nm),Android 14,Android 14,HyperOS,26-Sep-24
+Xiaomi,Redmi,phone,Redmi Note 14 5G (India),Mediatek Dimensity 7025 Ultra (6 nm),Android 14,Android 14,HyperOS,13-Dec-24
+Xiaomi,Redmi,phone,Redmi Note 14 Pro 4G,Mediatek Helio G100 Ultra (6 nm),Android 14,Android 14,HyperOS,16-Jan-25
+Xiaomi,Redmi,phone,Redmi Note 14 Pro 5G,Mediatek Dimensity 7300 Ultra (4 nm),Android 14,Android 14,HyperOS,15-Jan-25
+Xiaomi,Redmi,phone,Redmi Note 14 Pro 5G (India),Mediatek Dimensity 7300 Ultra (4 nm),Android 14,Android 15,HyperOS,26-Sep-24
+Xiaomi,Redmi,phone,Redmi Note 14 Pro+ 5G,Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm),Android 14,Android 15,HyperOS,15-Jan-25
+Xiaomi,Redmi,phone,Redmi Note 14 Pro+ 5G (India),Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm),Android 14,Android 15,HyperOS,26-Sep-24
+Xiaomi,Redmi,phone,Redmi Note 14S,Mediatek Helio G99 Ultra,Android 15,Android 14,HyperOS,14-Mar-25
+Xiaomi,Redmi,phone,Redmi Note 15,Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm),Android 15,Android 15,HyperOS 2,06-Jan-26
+Xiaomi,Redmi,phone,Redmi Note 15 (China),Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm),Android 15,Android 15,HyperOS 2,21-Aug-25
+Xiaomi,Redmi,phone,Redmi Note 15 4G,Mediatek Helio G100 Ultra (6 nm),Android 15,Android 15,HyperOS 2,06-Jan-26
+Xiaomi,Redmi,phone,Redmi Note 15 Pro,Mediatek Dimensity 7400 Ultra (4 nm),Android 15,Android 15,HyperOS 2,06-Jan-26
+Xiaomi,Redmi,phone,Redmi Note 15 Pro (China),Mediatek Dimensity 7400 Ultra (4 nm),Android 15,Android 15,HyperOS 2,21-Aug-25
+Xiaomi,Redmi,phone,Redmi Note 15 Pro 4G,Mediatek Helio G200 Ultra (6 nm),Android 15,Android 14,HyperOS 2,06-Jan-26
+Xiaomi,Redmi,phone,Redmi Note 15 Pro+,Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm),Android 15,Android 15,HyperOS 2,25-Dec-25
+Xiaomi,Redmi,phone,Redmi Note 15 Pro+ (China),Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm),Android 15,Android 15,HyperOS 2,21-Aug-25
+Xiaomi,Redmi,phone,Redmi Note 15 Special,Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm),Android 15,Android 15,HyperOS 2,02-Apr-26
+Xiaomi,Redmi,phone,Redmi Turbo 3,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Android 14,Android 15,HyperOS,10-Apr-24
+Xiaomi,Redmi,phone,Redmi Turbo 4,Mediatek Dimensity 8400 Ultra (4 nm),Android 15,Android 15,HyperOS 2,02-Jan-25
+Xiaomi,Redmi,phone,Redmi Turbo 4 Pro,Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm),Android 15,Android 15,HyperOS 2,24-Apr-25
+Xiaomi,Redmi,phone,Redmi Turbo 5,Mediatek Dimensity 8500 Ultra (4 nm),Android 16,Android 15,HyperOS 3,29-Jan-26
+Xiaomi,Redmi,phone,Redmi Turbo 5 Max,Mediatek Dimensity 9500s (3 nm),Android 16,Android 14,HyperOS 3,29-Jan-26
+Xiaomi,Xiaomi,phone,14,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 14,Android 14,HyperOS 1.1,01-Nov-23
+Xiaomi,Xiaomi,phone,14 Civi,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Android 14,Android 14,HyperOS,20-Jun-24
+Xiaomi,Xiaomi,phone,14 Ultra,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 14,Android 14,HyperOS,22-Feb-24
+Xiaomi,Xiaomi,phone,14T,Mediatek Dimensity 8300 Ultra (4 nm),Android 14,Android 14,HyperOS 2,26-Sep-24
+Xiaomi,Xiaomi,phone,14T Pro,Mediatek Dimensity 9300+ (4 nm),Android 14,Android 14,HyperOS,26-Sep-24
+Xiaomi,Xiaomi,phone,15,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 15,Android 14,HyperOS 2,29-Oct-24
+Xiaomi,Xiaomi,phone,15 Pro,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 15,Android 15,HyperOS 2,29-Oct-24
+Xiaomi,Xiaomi,phone,15 Ultra,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 15,Android 15,HyperOS 3,27-Feb-25
+Xiaomi,Xiaomi,phone,15S Pro,Xring O1 (3 nm),Android 15,Android 14,HyperOS 2,22-May-25
+Xiaomi,Xiaomi,phone,15T,Mediatek Dimensity 8400 Ultra (4 nm),Android 15,Android 15,HyperOS 3,24-Sep-25
+Xiaomi,Xiaomi,phone,15T Pro,Mediatek Dimensity 9400+ (3 nm),Android 15,Android 14,HyperOS 3,24-Sep-25
+Xiaomi,Xiaomi,phone,17,Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,27-Sep-25
+Xiaomi,Xiaomi,phone,17 Pro,Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,25-Sep-25
+Xiaomi,Xiaomi,phone,17 Pro Max,Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,25-Sep-25
+Xiaomi,Xiaomi,phone,17 Ultra,Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,10-Mar-26
+Xiaomi,Xiaomi,phone,17 Ultra (China),Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm),Android 16,Android 14,HyperOS 3,27-Dec-25
+Xiaomi,Xiaomi,phone,Civi 4 Pro,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),Android 14,Android 14,HyperOS,21-Mar-24
+Xiaomi,Xiaomi,phone,Civi 5 Pro,Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm),Android 15,Android 14,HyperOS 2,22-May-25
+Xiaomi,Xiaomi,phone,Mix Flip,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 14,Android 14,HyperOS 3,19-Jul-24
+Xiaomi,Xiaomi,phone,Mix Flip 2,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),Android 15,Android 14,HyperOS 2,26-Jun-25
+Xiaomi,Xiaomi,phone,Mix Fold 4,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),Android 14,Android 14,HyperOS,19-Jul-24

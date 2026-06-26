@@ -1,0 +1,26 @@
+Device name,Device type,Chipset (Processor),Launch OS version,Currently supported OS,Current UI,Official release date
+Moto G ,phone,MediaTek Helio G85,Android 11,Android 16,My UX (Motorola UI on Android),2021-03 
+Moto G 5G ,phone,Snapdragon 750G,Android 11/12,Android 13,My UX,2022-04-22
+Moto G Power ,phone,Snapdragon 662,Android 11,Android 16,My UX,2022-02-22
+Moto G Power 5G ,phone,MediaTek Dimensity 930 ,Android 13,Android 15,My UX,2023-04
+Moto G Stylus ,phone,Helio G88,Android 11,Android 13,My UX,2022-02-17
+Moto G Stylus 5G ,phone,Snapdragon 480 ,Android 11,Android 16,My UX,2021-04 
+Moto G06 Power,phone,MediaTek Helio G-series ,Android 15,Android 15,My UX,2025-09 
+Moto G100,phone,Snapdragon 870,Android 11,Android 13/14 ,My UX,2021-03 
+Moto G55 5G,phone,MediaTek Dimensity 7025-class ,Android 14,Android 15,My UX,2024-09
+Moto G57 Power 5G,phone,Snapdragon 6s Gen 4,Android 15,Android 16 ,My UX,2025-12
+Moto G67 Power 5G,phone,Snapdragon 7s Gen 2,Android 15,Android 16,My UX,2025
+Moto G96 5G,phone,Snapdragon 7s Gen 2,Android 14,Android 15,My UX,2025-07
+Moto Razr 60,phone,Snapdragon 8s Gen-series ,Android 15,Android 16,Hello UI,2025
+Motorola Edge ,phone,Snapdragon 778G+ ,Android 12,Android 16,My UX,2022-08-18
+Motorola Edge 20,phone,Snapdragon 778G,Android 11,Android 13/14 ,My UX,2021-08 
+Motorola Edge 20 Lite,phone,MediaTek Dimensity 720,Android 11,Android 12–13,My UX,2021-08 
+Motorola Edge 20 Pro,phone,Snapdragon 870,Android 11,Android 13/14,My UX,2021-08 
+Motorola Edge 60,phone,MediaTek Dimensity 7300 / 7400-class ,Android 14,Android 15–16 ,My UX,2025-04-30
+Motorola Edge 60 Fusion,phone,MediaTek Dimensity 7400,Android 15,Android 15–16,My UX,2025-04-02
+Motorola Edge 60 Pro,phone,MediaTek Dimensity 8350 Extreme,Android 15,Android 15 (up to 3 OS upgrades),My UX / Hello UI,2025-04-30
+Motorola Edge 70,phone,Snapdragon 7 Gen-series ,Android 15,Android 16 ,Hello UI / My UX,2025-11
+Motorola Edge 70 Fusion,phone,Snapdragon 7s Gen 4,Android 16,Android 16 ,Hello UI,2026-03
+Motorola Edge+ ,phone,Snapdragon 8 Gen 1 / Gen 2 / Gen 3,Android 12,Android 15,My UX,2022-04 
+Motorola Razr Fold,phone,Snapdragon 8 Gen-series,Android 15,Android 16,Hello UI,2026-05
+Motorola Signature,phone,Snapdragon 8 Gen 5,Android 15,Android 16,Hello UI,2026-01

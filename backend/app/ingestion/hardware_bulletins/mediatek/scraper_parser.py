@@ -10,7 +10,7 @@ BASE_URL = (
     "{month}-{year}"
 )
 
-OUTPUT_FILE = "mediatek_cves.json"
+OUTPUT_FILE = "backend/app/ingestion/hardware_bulletins/hardware_output/mediatek_cves.json"
 
 MONTHS = [
     "January",

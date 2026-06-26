@@ -1,0 +1,31 @@
+device_name,device_type,chipset,launch_os_version,current_os,current_user_interface,official_release_date
+Samsung Galaxy S26 Ultra,phone,Qualcomm Snapdragon 8 Elite Gen 5,Android 16,Android 16 / Android 17 Beta,OneUI 8.5,2026-03-06
+Samsung Galaxy S26,phone,Snapdragon 8 Elite Gen 5 / Exynos 2600,Android 16,Android 16 / Android 17 Beta,OneUI 8.5,2026-03-06
+Samsung Galaxy S25 Ultra,phone,Qualcomm Snapdragon 8 Elite,Android 15,Android 16,OneUI 8,2025-02-03
+Samsung Galaxy S25,phone,Qualcomm Snapdragon 8 Elite,Android 15,Android 16,OneUI 8,2025-02-03
+Samsung Galaxy Z Fold7,phone,Qualcomm Snapdragon 8 Elite,Android 16,Android 16,OneUI 8.5,2025-07-25
+Samsung Galaxy Z Flip7,phone,Exynos 2500,Android 16,Android 16,OneUI 8.5,2025-07-25
+Samsung Galaxy A56,phone,Exynos 1580,Android 15,Android 16,OneUI 8,2025-03-10
+Samsung Galaxy A36,phone,Qualcomm Snapdragon 6 Gen 3,Android 15,Android 16,OneUI 8,2025-03-10
+Samsung Galaxy A16 5G,phone,Exynos 1330 / Mediatek Dimensity 6300,Android 14,Android 15,OneUI 8,2024-10-25
+Samsung Galaxy A16,phone,Mediatek Helio G99,Android 14,Android 15,OneUI 8,2024-11-20
+Samsung Galaxy A15 5G,phone,Mediatek Dimensity 6100+,Android 14,Android 15,OneUI 8,2023-12-16
+Samsung Galaxy A15,phone,Mediatek Helio G99,Android 14,Android 15,OneUI 7,2023-12-16
+Samsung Galaxy A14 5G,phone,Exynos 1330 / Mediatek Dimensity 700,Android 13,Android 14,OneUI 7,2023-01-04
+Samsung Galaxy A14,phone,Mediatek Helio G80 / Exynos 850,Android 13,Android 14,OneUI 6.1,2023-03-27
+Samsung Galaxy A05s,phone,Qualcomm Snapdragon 680 4G,Android 13,Android 14,OneUI 7,2023-10-18
+Samsung Galaxy A05,phone,Mediatek Helio G85,Android 13,Android 14,OneUI 6.1,2023-10-15
+Samsung Galaxy S24 Ultra,phone,Qualcomm Snapdragon 8 Gen 3,Android 14,Android 16,OneUI 8.5,2024-01-24
+Samsung Galaxy A55,phone,Exynos 1480,Android 14,Android 16,OneUI 8,2024-03-15
+Galaxy S26+,phone,Snapdragon 8 Elite Gen 5,Android 16,Android 16 / Android 17 Beta,OneUI 8.5,2026-03-11
+Galaxy S25 FE,phone,Exynos 2400,Android 16,Android 16,OneUI 8.5,2025-09-04
+Galaxy Z Fold7,phone,Snapdragon 8 Elite,Android 16,Android 16,OneUI 8.5,2025-07-25
+Galaxy Z Flip7,phone,Exynos 2500,Android 16,Android 16,OneUI 8.5,2025-07-25
+Galaxy S25+,phone,Snapdragon 8 Elite,Android 15,Android 16,OneUI 8,2025-02-03
+Galaxy S25 Edge,phone,"Ultra-thin ""Slim"" flagship",Android 15,Android 16,OneUI 8,2025-02-03
+Galaxy S24 FE,phone,Exynos 2400e,Android 14,Android 16,OneUI 8.5,2024-10-03
+Galaxy Z Fold6,phone,Snapdragon 8 Gen 3,Android 14,Android 16,OneUI 8.5,2024-07-24
+Galaxy Z Flip6,phone,Snapdragon 8 Gen 3,Android 14,Android 16,OneUI 8.5,2024-07-24
+Galaxy S24 / S24+,phone,Exynos 2400 / SD 8 Gen 3,Android 14,Android 16,OneUI 8.5,2024-01-24
+Galaxy S23 /+/ Ultra,phone,Snapdragon 8 Gen 2,Android 13,Android 16,OneUI 8,2023-02-17
+Galaxy S22 /+/ Ultra,phone,Exynos 2200 / SD 8 Gen 1,Android 12,Android 15 / Android 16,OneUI 8,2022-02-25

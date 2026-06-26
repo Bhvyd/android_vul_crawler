@@ -1,4 +1,5 @@
 import json
+import re
 from pathlib import Path
 
 
@@ -26,7 +27,7 @@ class NVDParser:
                 []
             ):
 
-                value = desc.get("value")
+                value = desc.get("value", "")
 
                 if value.startswith("CWE-"):
 
@@ -51,6 +52,42 @@ class NVDParser:
 
         return refs
 
+
+
+    def extract_commits(self, cve):
+
+        commits = []
+
+        commit_regexes = [
+            r"github\.com/.+/commit/[a-f0-9]+",
+            r"gitlab\.com/.+/-/commit/[a-f0-9]+",
+            r"git\.kernel\.org/.+/commit/\?id=[a-f0-9]+",
+            r"android\.googlesource\.com/.+/\+/[a-f0-9]+",
+            r"/commit/[a-f0-9]+",
+        ]
+
+        for ref in cve.get("references", []):
+
+            url = str(
+                ref.get("url", "")
+            )
+
+            if any(
+                re.search(
+                    pattern,
+                    url,
+                    re.IGNORECASE
+                )
+                for pattern in commit_regexes
+            ):
+
+                commits.append({
+                    "url": url,
+                    "source": ref.get("source")
+                })
+
+        return commits
+
     def extract_cvss(self, metrics):
 
         results = {}
@@ -65,6 +102,9 @@ class NVDParser:
         for key, label in mapping.items():
 
             if key not in metrics:
+                continue
+
+            if not metrics[key]:
                 continue
 
             metric = metrics[key][0]
@@ -165,7 +205,11 @@ class NVDParser:
                             "criteria"
                         ),
 
-                        "vulnerable":True,
+                        "vulnerable":
+                            match.get(
+                                "vulnerable",
+                                True
+                            ),
 
                         "version_start_including":
                             match.get(
@@ -199,6 +243,72 @@ class NVDParser:
 
         return cpes
 
+    def extract_fixed_versions(
+        self,
+        configurations
+    ):
+        """
+        Infer fixed versions from version ranges.
+
+        Example:
+        vulnerable <= 2.5.0
+        fixed_after = 2.5.0
+        """
+
+        fixed_versions = []
+
+        def walk(nodes):
+
+            for node in nodes:
+
+                for match in node.get(
+                    "cpeMatch",
+                    []
+                ):
+
+                    criteria = match.get(
+                        "criteria"
+                    )
+
+                    if match.get(
+                        "versionEndExcluding"
+                    ):
+
+                        fixed_versions.append({
+                            "product": criteria,
+                            "fixed_after":
+                                match.get(
+                                    "versionEndExcluding"
+                                ),
+                            "boundary_type":
+                                "exclusive"
+                        })
+
+                    if match.get(
+                        "versionEndIncluding"
+                    ):
+
+                        fixed_versions.append({
+                            "product": criteria,
+                            "fixed_after":
+                                match.get(
+                                    "versionEndIncluding"
+                                ),
+                            "boundary_type":
+                                "inclusive"
+                        })
+
+                walk(
+                    node.get(
+                        "nodes",
+                        []
+                    )
+                )
+
+        walk(configurations)
+
+        return fixed_versions
+
     def parse_file(self, path):
 
         with open(
@@ -219,9 +329,15 @@ class NVDParser:
 
         cve = vulnerabilities[0]["cve"]
 
+        configurations = cve.get(
+            "configurations",
+            []
+        )
+
         return {
 
-            "cve_id": cve.get("id"),
+            "cve_id":
+                cve.get("id"),
 
             "source_identifier":
                 cve.get(
@@ -266,12 +382,19 @@ class NVDParser:
                     cve
                 ),
 
+            "commits":
+                self.extract_commits(
+                    cve
+                ),
+
             "cpe_configurations":
                 self.extract_cpes(
-                    cve.get(
-                        "configurations",
-                        []
-                    )
+                    configurations
+                ),
+
+            "fixed_versions":
+                self.extract_fixed_versions(
+                    configurations
                 ),
 
             "vendor_comments":
@@ -313,12 +436,17 @@ def main():
                 f"[ERROR] {file.name}: {e}"
             )
 
-    Path("output").mkdir(
+    Path("backend/output").mkdir(
         exist_ok=True
     )
 
+    output_file = (
+        Path("backend/output")
+        / "nvd_parser.json"
+    )
+
     with open(
-        "output/nvd_parser.json",
+        output_file,
         "w",
         encoding="utf-8"
     ) as f:
@@ -332,6 +460,10 @@ def main():
 
     print(
         f"Parsed {len(output)} CVEs"
+    )
+
+    print(
+        f"Saved to {output_file}"
     )
 
 

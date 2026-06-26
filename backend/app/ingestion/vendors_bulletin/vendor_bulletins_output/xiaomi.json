@@ -1,0 +1,2159 @@
+[
+  {
+    "cve_id": "CVE-2024-45361",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-558",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=558",
+    "bulletin_date": "2025-03-27",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.5,
+    "cvss_vector": null,
+    "description": "A protocol flaw vulnerability exists in the Xiaomi Mi Connect Service APP. The vulnerability is caused by the validation logic is flawed and can be exploited by attackers to leak sensitive user information.   ",
+    "affected_versions": "3.1.895.10",
+    "fixed_versions": "3.1.895.10",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-558",
+    "metadata": {
+      "xiaomi_id": 558,
+      "title": "Mi Connect Service APP protocol flaws lead to leaking sensitive user information",
+      "products": [
+        {
+          "product": "Xiaomi Mi Connect Service",
+          "affected_version": "3.1.895.10",
+          "fixed_version": "3.1.895.10"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Liu Xiaofeng from the School of Cyberspace Security of Shandong University! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45356",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-554",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=554",
+    "bulletin_date": "2025-02-21",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.3,
+    "cvss_vector": null,
+    "description": "A unauthorized access vulnerability exists in the Xiaomi phone framework. The vulnerability is caused by improper validation and can be exploited by attackers to Access sensitive methods.  ",
+    "affected_versions": "14",
+    "fixed_versions": ">14",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-554",
+    "metadata": {
+      "xiaomi_id": 554,
+      "title": "Xiaomi phone framework has unauthorized access vulnerability",
+      "products": [
+        {
+          "product": "Xiaomi phone framework",
+          "affected_version": "14",
+          "fixed_version": ">14"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  北京邮电大学软件安全中心程宇辉  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45355",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-553",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=553",
+    "bulletin_date": "2025-02-21",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.5,
+    "cvss_vector": null,
+    "description": "A unauthorized access vulnerability exists in the Xiaomi phone framework. The vulnerability is caused by improper validation and can be exploited by attackers to Access sensitive methods.  ",
+    "affected_versions": "14",
+    "fixed_versions": ">14",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-553",
+    "metadata": {
+      "xiaomi_id": 553,
+      "title": "Xiaomi phone framework has unauthorized access vulnerability",
+      "products": [
+        {
+          "product": "Xiaomi phone framework",
+          "affected_version": "14",
+          "fixed_version": ">14"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  北京邮电大学软件安全中心程宇辉  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45354",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-552",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=552",
+    "bulletin_date": "2025-02-21",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 4.3,
+    "cvss_vector": null,
+    "description": "A code execution vulnerability exists in the Xiaomi shop applicationproduct. The vulnerability is caused by improper input validation and can be exploited by attackers to execute malicious code.   ",
+    "affected_versions": "5.30.0.20241103.r1",
+    "fixed_versions": ">5.30.0.20241103.r1",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-552",
+    "metadata": {
+      "xiaomi_id": 552,
+      "title": "xiaomi shop application Webview has code execution vulnerability",
+      "products": [
+        {
+          "product": "Xiaomi shop application ",
+          "affected_version": "5.30.0.20241103.r1",
+          "fixed_version": ">5.30.0.20241103.r1"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to ZZZ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45353",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-551",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=551",
+    "bulletin_date": "2025-02-21",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 4.3,
+    "cvss_vector": null,
+    "description": "An intent redriction vulnerability exists in the Xiaomi quick App framework application product. The vulnerability is caused by improper input validation and can be exploited by attackers tointent redriction.  ",
+    "affected_versions": "1.30.2.1",
+    "fixed_versions": ">1.30.2.1",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-551",
+    "metadata": {
+      "xiaomi_id": 551,
+      "title": "quick App has intent redriction vulnerability",
+      "products": [
+        {
+          "product": "quick app framework",
+          "affected_version": "1.30.2.1",
+          "fixed_version": ">1.30.2.1"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to ZZZ ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45352",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-550",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=550",
+    "bulletin_date": "2025-02-21",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.8,
+    "cvss_vector": null,
+    "description": "An code execution vulnerability exists in the Xiaomi smarthome application product. The vulnerability is caused by improper input validation and can be exploited by attackers to execute malicious code.    ",
+    "affected_versions": "10.0.623",
+    "fixed_versions": "10.0.8",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-550",
+    "metadata": {
+      "xiaomi_id": 550,
+      "title": "Xiaomi smarthome application Webview has code execution vulnerability ",
+      "products": [
+        {
+          "product": "Xiaomi smarthome application",
+          "affected_version": "10.0.623",
+          "fixed_version": "10.0.8"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to ZZZ  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45351",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-549",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=549",
+    "bulletin_date": "2025-02-21",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.8,
+    "cvss_vector": null,
+    "description": "A code execution vulnerability exists in the Xiaomi Game center application product. The vulnerability is caused by  improper input validation and can be exploited by attackers to execute malicious code.   ",
+    "affected_versions": "13.10",
+    "fixed_versions": "13.12",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-549",
+    "metadata": {
+      "xiaomi_id": 549,
+      "title": "Game center application has code execution Vulnerability",
+      "products": [
+        {
+          "product": "Game center application",
+          "affected_version": "13.10",
+          "fixed_version": "13.12"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to ZZZ  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45347",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2025-548",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=548",
+    "bulletin_date": "2025-02-20",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.6,
+    "cvss_vector": null,
+    "description": "An unauthorized access vulnerability exists in the Xiaomi Mi Connect Service APP. The vulnerability is caused by the validation logic is flawed and can be exploited by attackers to Unauthorized access to the victim’s device.   ",
+    "affected_versions": "3.1.895.10",
+    "fixed_versions": "3.1.953.10",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2025-548",
+    "metadata": {
+      "xiaomi_id": 548,
+      "title": "Mi Connect Service APP protocol flaws lead to unauthorized access",
+      "products": [
+        {
+          "product": "Xiaomi Mi Connect Service",
+          "affected_version": "3.1.895.10",
+          "fixed_version": "3.1.953.10"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  山东大学网络空间安全学院刘晓峰   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45348",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-547",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=547",
+    "bulletin_date": "2024-09-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.4,
+    "cvss_vector": null,
+    "description": "The Xiaomi router AX9000 product has a command injection vulnerability after authorization. This vulnerability is caused by a lack of validation of user input, and attackers can exploit this vulnerability to execute arbitrary code.",
+    "affected_versions": "1.0.173",
+    "fixed_versions": "1.0.174",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-547",
+    "metadata": {
+      "xiaomi_id": 547,
+      "title": "The Xiaomi router AX9000 product has a command injection vulnerability after authorization. ",
+      "products": [
+        {
+          "product": "xiaomi router",
+          "affected_version": "1.0.173",
+          "fixed_version": "1.0.174"
+        }
+      ],
+      "thanks": "Wang Jincheng, from Nanjing University of Posts and Telecommunications"
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26315",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-546",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=546",
+    "bulletin_date": "2024-05-09",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.5,
+    "cvss_vector": null,
+    "description": "The Xiaomi router AX9000 has a post-authentication command injection vulnerability. This vulnerability is caused by the lack of input filtering, allowing an attacker to exploit it to obtain root access to the device.",
+    "affected_versions": "1.0.168",
+    "fixed_versions": "1.0.174",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-546",
+    "metadata": {
+      "xiaomi_id": 546,
+      "title": "Xiaomi router has a command injection vulnerability after authorization",
+      "products": [
+        {
+          "product": "Xiaomi Router AX9000",
+          "affected_version": "1.0.168",
+          "fixed_version": "1.0.174"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Jincheng Wang from X1cT34m Laboratory of Nanjing University of Posts and Telecommunications   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2024-45346",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-545",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=545",
+    "bulletin_date": "2024-05-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.8,
+    "cvss_vector": null,
+    "description": "A code execution vulnerability exists in the XiaomiGetApps application product. This vulnerability is caused by the verification logic being bypassed, and an attacker can exploit this vulnerability to execute malicious code.",
+    "affected_versions": "30.2.7.0",
+    "fixed_versions": "30.6.0.2",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-545",
+    "metadata": {
+      "xiaomi_id": 545,
+      "title": "GetApps application has code execution vulnerability",
+      "products": [
+        {
+          "product": "GetApps application",
+          "affected_version": "30.2.7.0",
+          "fixed_version": "30.6.0.2"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Ken Gannon and Ilyes Beghdadi of NCC Group working with Trend Micro Zero Day Initiative! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26324",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-544",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=544",
+    "bulletin_date": "2024-05-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.8,
+    "cvss_vector": null,
+    "description": "A code execution vulnerability exists in the XiaomiGetApps application product. This vulnerability is caused by the verification logic being bypassed, and an attacker can exploit this vulnerability to execute malicious code.",
+    "affected_versions": "30.2.7.0",
+    "fixed_versions": "30.6.0.2",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-544",
+    "metadata": {
+      "xiaomi_id": 544,
+      "title": "GetApps application has code execution vulnerability",
+      "products": [
+        {
+          "product": "GetApps application",
+          "affected_version": "30.2.7.0",
+          "fixed_version": "30.6.0.2"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Team Viettel working with Trend Micro Zero Day Initiative! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26323",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-543",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=543",
+    "bulletin_date": "2024-03-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.8,
+    "cvss_vector": null,
+    "description": "A code execution vulnerability exists in the Xiaomi App market product. The vulnerability is caused by unsafe configuration and can be exploited by attackers to execute arbitrary code.",
+    "affected_versions": "4.57.4",
+    "fixed_versions": "4.58.2",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-543",
+    "metadata": {
+      "xiaomi_id": 543,
+      "title": "Xiaomi App market has a code execution vulnerability",
+      "products": [
+        {
+          "product": "xiaomi app market app",
+          "affected_version": "4.57.4",
+          "fixed_version": "4.58.2"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Jiajun Lin! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26322",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-542",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=542",
+    "bulletin_date": "2024-03-04",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.8,
+    "cvss_vector": null,
+    "description": "A code execution vulnerability exists in the XiaomiGetApps application product. This vulnerability is caused by the verification logic being bypassed, and an attacker can exploit this vulnerability to execute malicious code.",
+    "affected_versions": "31.2.5.0",
+    "fixed_versions": "32.0.0.1",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-542",
+    "metadata": {
+      "xiaomi_id": 542,
+      "title": "GetApps application has code execution vulnerability",
+      "products": [
+        {
+          "product": "GetApps application",
+          "affected_version": "31.2.5.0",
+          "fixed_version": "32.0.0.1"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Team Orca of Sea Security working with Trend Micro Zero Day Initiative"
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26321",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2024-541",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=541",
+    "bulletin_date": "2024-02-28",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.3,
+    "cvss_vector": null,
+    "description": "A path traversal vulnerability exists in the Xiaomi File Manager application product(international version). The vulnerability is caused by unfiltered special characters and can be exploited by attackers to overwrite and execute code in the file.",
+    "affected_versions": "V1-210567",
+    "fixed_versions": "V1-210586",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2024-541",
+    "metadata": {
+      "xiaomi_id": 541,
+      "title": "The international version of Xiaomi File Manager has a path traversal vulnerability",
+      "products": [
+        {
+          "product": "Xiaomi File Manager App International Version ",
+          "affected_version": "V1-210567",
+          "fixed_version": "V1-210586"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Dimitrios Valsamaras! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26319",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2023-536",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=536",
+    "bulletin_date": "2023-08-01",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.0,
+    "cvss_vector": null,
+    "description": "A vulnerability has been discovered in the administration interface of Xiaomi routers that could allow command injection  through improperly filtered input parameters. This flaw arises from insufficient sanitization of user-supplied data passed to certain interfaces in the router's web admin panel. An attacker who is able to log in to the panel could exploit this vulnerability by sending crafted parameter values, leading to arbitrary code execution.",
+    "affected_versions": "fw version before 2023.2",
+    "fixed_versions": "fw version after 2023.4",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2023-536",
+    "metadata": {
+      "xiaomi_id": 536,
+      "title": "Xiaomi Router administration interface vulnerability leads  command injection and stack overflow.",
+      "products": [
+        {
+          "product": "Multi devices",
+          "affected_version": "fw version before 2023.2",
+          "fixed_version": "fw version after 2023.4"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Julien R. (SoEasY), Marin Duroyon (Voiddy), Thalium team   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26317",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2023-529",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=529",
+    "bulletin_date": "2023-08-01",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.0,
+    "cvss_vector": null,
+    "description": "A vulnerability has been discovered in Xiaomi routers that could allow command injection through an external interface. This vulnerability arises from inadequate filtering of responses returned from the external interface. Attackers could exploit this vulnerability by hijacking the ISP or an upper-layer router to gain privileges on the Xiaomi router. Successful exploitation of this flaw could permit remote code execution and complete compromise of the device. \n",
+    "affected_versions": "fw version before 2023.2",
+    "fixed_versions": "fw version update after 2023.4",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2023-529",
+    "metadata": {
+      "xiaomi_id": 529,
+      "title": "Xiaomi Router external request interface vulnerability lead to command injection",
+      "products": [
+        {
+          "product": "Multi devices",
+          "affected_version": "fw version before 2023.2",
+          "fixed_version": "fw version update after 2023.4"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Julien R. (SoEasY), Marin Duroyon (Voiddy), Thalium team   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26316",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2023-322",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=322",
+    "bulletin_date": "2023-08-01",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.6,
+    "cvss_vector": null,
+    "description": "A XSS vulnerability exists in the Xiaomi cloud service Application product. The vulnerability is caused by Webview's whitelist checking function allowing javascript protocol to be loaded and can be exploited by attackers to steal Xiaomi cloud service account's cookies.",
+    "affected_versions": "1.12.0.0.25",
+    "fixed_versions": "1.12.0.0.45",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2023-322",
+    "metadata": {
+      "xiaomi_id": 322,
+      "title": "XSS vulnerability exists in the Xiaomi cloud service Application",
+      "products": [
+        {
+          "product": "xiaomi cloud service Application",
+          "affected_version": "1.12.0.0.25",
+          "fixed_version": "1.12.0.0.45"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Tencent Security Xuanwu Lab ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2023-26320",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2023-540",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=540",
+    "bulletin_date": "2023-08-01",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.5,
+    "cvss_vector": null,
+    "description": "A vulnerability has been discovered in Xiaomi routers that could allow stack overflow through an external interface. This vulnerability arises from inadequate filtering of responses returned from the external interface. Attackers could exploit this vulnerability by hijacking the ISP or an upper-layer router to gain privileges on the Xiaomi router. Successful exploitation of this flaw could DOS device and permit remote code execution and complete compromise of the device. \n",
+    "affected_versions": "fw version before 2023.2",
+    "fixed_versions": "fw version update after 2023.4",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2023-540",
+    "metadata": {
+      "xiaomi_id": 540,
+      "title": "Xiaomi Router external request interface vulnerability leads to stack overflow",
+      "products": [
+        {
+          "product": "multi devices",
+          "affected_version": "fw version before 2023.2",
+          "fixed_version": "fw version update after 2023.4"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Julien R. (SoEasY), Marin Duroyon (Voiddy), Thalium team   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "   CVE-2023-26318",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2023-539",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=539",
+    "bulletin_date": "2023-08-01",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.2,
+    "cvss_vector": null,
+    "description": "A vulnerability has been discovered in the administration interface of Xiaomi router that could allow  stack overflow through improperly filtered input parameters. This flaw arises from insufficient sanitization of user-supplied data passed to certain interfaces in the router's web admin panel. ",
+    "affected_versions": "fw version before 2023.2",
+    "fixed_versions": "fw version update after 2023.4",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2023-539",
+    "metadata": {
+      "xiaomi_id": 539,
+      "title": "Xiaomi router web interface post-authorization stack overflow ",
+      "products": [
+        {
+          "product": "Multi devices",
+          "affected_version": "fw version before 2023.2",
+          "fixed_version": "fw version update after 2023.4"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Julien R. (SoEasY), Marin Duroyon (Voiddy), Thalium team   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14140",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2023-506",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=506",
+    "bulletin_date": "2023-03-17",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.6,
+    "cvss_vector": null,
+    "description": "When Xiaomi router firmware is updated in 2020, there is an unauthenticated API that can reveal WIFI password vulnerability.\nThis vulnerability is caused by the lack of access control policies on some API interfaces. Attackers can exploit this vulnerability to enter the background and execute background command injection.",
+    "affected_versions": "固件更新时间为2020-2022年",
+    "fixed_versions": "2023.2之后更新固件",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2023-506",
+    "metadata": {
+      "xiaomi_id": 506,
+      "title": "Xiaomi Router Vulnerability Leaks WIFI Passwords And Affecting Multiple Devices",
+      "products": [
+        {
+          "product": "multiple devices",
+          "affected_version": "固件更新时间为2020-2022年",
+          "fixed_version": "2023.2之后更新固件"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Runhao Liu and Yue Guan  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14143",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-292",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=292",
+    "bulletin_date": "2022-12-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.0,
+    "cvss_vector": null,
+    "description": "A Sensitive data can be read and written arbitrarily vulnerability exists in the Xiaomi Phone. The vulnerability is caused code logic and can be exploited by attackers to Reading and overwriting of sensitive data",
+    "affected_versions": "miui<V13.0.22.1 ",
+    "fixed_versions": "miui V13.0.22.1 ",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-292",
+    "metadata": {
+      "xiaomi_id": 292,
+      "title": "Some Xiaomi Phone have security issues where sensitive data can be read and written arbitrarily",
+      "products": [
+        {
+          "product": "Xiaomi 12",
+          "affected_version": "miui<V13.0.22.1 ",
+          "fixed_version": "miui V13.0.22.1 "
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Zhongquan Li @ ADLab of VenusTech  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14142 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-291",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=291",
+    "bulletin_date": "2022-12-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.8,
+    "cvss_vector": null,
+    "description": "A Sensitive Information Leakage vulnerability exists in the Xiaomi mobile phone. The vulnerability is caused by logic problems in the codes and can be exploited by attackers to access to sensitive information   ",
+    "affected_versions": "MIUI<2022.11.15",
+    "fixed_versions": "MIUI 2022.11.15",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-291",
+    "metadata": {
+      "xiaomi_id": 291,
+      "title": "Xiaomi mobile Phones have sensitive information leakage security issues",
+      "products": [
+        {
+          "product": "Xiaomi 12s",
+          "affected_version": "MIUI<2022.11.15",
+          "fixed_version": "MIUI 2022.11.15"
+        },
+        {
+          "product": "Redmi K30S",
+          "affected_version": "MIUI<2022.11.15",
+          "fixed_version": "MIUI 2022.11.15"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Zhongquan Li @ ADLab of VenusTech  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14141 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-290",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=290",
+    "bulletin_date": "2022-12-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.7,
+    "cvss_vector": null,
+    "description": "Adenial of service security issues vulnerability exists in the Xiaomi mobile phones The vulnerability is caused by logic problems in the codes and can be exploited by attackers to causing some services to be unavailable",
+    "affected_versions": "MIUI<2022.11.15",
+    "fixed_versions": "2022.11.15",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-290",
+    "metadata": {
+      "xiaomi_id": 290,
+      "title": "Xiaomi mobile phones have denial of service security issues",
+      "products": [
+        {
+          "product": "Xiaomi 12S ",
+          "affected_version": "MIUI<2022.11.15",
+          "fixed_version": "2022.11.15"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li @ ADLab of VenusTech   ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14131 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-153",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=153",
+    "bulletin_date": "2022-10-10",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.3,
+    "cvss_vector": null,
+    "description": "A logic vulnerability exists in some specific Xiaomi products. The vulnerability is caused by a lack of identity verification, which can be exploited by attackers to gain elevated privileges.\n",
+    "affected_versions": "11",
+    "fixed_versions": "12",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-153",
+    "metadata": {
+      "xiaomi_id": 153,
+      "title": "Privilege escalation for some Xiaomi devices",
+      "products": [
+        {
+          "product": "Xiaomi specific devices",
+          "affected_version": "11",
+          "fixed_version": "12"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Zhongquan Li from ADLab of VenusTech  ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14129 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-155",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=155",
+    "bulletin_date": "2022-10-10",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.1,
+    "cvss_vector": null,
+    "description": "A logic vulnerability exists in a Xiaomi product. The vulnerability is caused by an identity verification failure, which can be exploited by an attacker who can obtain a brief elevation of privilege.\n",
+    "affected_versions": "3.4.5.18",
+    "fixed_versions": "3.4.5.24",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-155",
+    "metadata": {
+      "xiaomi_id": 155,
+      "title": "Xiaomi a product has vulnerability logic vulnerability",
+      "products": [
+        {
+          "product": "Xiaomi a certain APP",
+          "affected_version": "3.4.5.18",
+          "fixed_version": "3.4.5.24"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Zhongquan Li from ADLab of VenusTech ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14132 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-158",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=158",
+    "bulletin_date": "2022-10-10",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.2,
+    "cvss_vector": null,
+    "description": "A information disclosure vulnerability exists in the Xiaomi Calendar product. The vulnerability  can be exploited by attackers to disclose sensitive information, and further exploitation may lead to business anomalies.",
+    "affected_versions": "12.22.1.0",
+    "fixed_versions": "12.3",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-158",
+    "metadata": {
+      "xiaomi_id": 158,
+      "title": "Xiaomi Calendar has information leakage vulnerability",
+      "products": [
+        {
+          "product": " Xiaomi Calendar",
+          "affected_version": "12.22.1.0",
+          "fixed_version": "12.3"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14126 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-278",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=278",
+    "bulletin_date": "2022-07-22",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "Information leakage vulnerability exists in the  Mi Sound APP. This vulnerability is caused by illegal calls of some sensitive JS interfaces, which can be exploited by attackers to leak sensitive information.",
+    "affected_versions": "<=2.2.40",
+    "fixed_versions": ">=2.4.11",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-278",
+    "metadata": {
+      "xiaomi_id": 278,
+      "title": "Information leakage vulnerability exists in the  Mi Sound APP",
+      "products": [
+        {
+          "product": "Mi Sound APP",
+          "affected_version": "<=2.2.40",
+          "fixed_version": ">=2.4.11"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Ocean ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14114 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-277",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=277",
+    "bulletin_date": "2022-07-22",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "information leakage vulnerability exists in the Xiaomi SmartHome APP.  This vulnerability is caused by illegal calls of some sensitive JS interfaces, which can be exploited by attackers to leak sensitive information.",
+    "affected_versions": "<=6.4.701",
+    "fixed_versions": ">=6.4.701",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-277",
+    "metadata": {
+      "xiaomi_id": 277,
+      "title": "Remotely call sensitive functions of Xiaomi SmartHome",
+      "products": [
+        {
+          "product": "Xiaomi SmartHome APP",
+          "affected_version": "<=6.4.701",
+          "fixed_version": ">=6.4.701"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Ocean ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14125 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-170",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=170",
+    "bulletin_date": "2022-06-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.4,
+    "cvss_vector": null,
+    "description": "A denial of service vulnerability exists in some Xiaomi models of phones. The vulnerability is caused by heap overflow and can be exploited by attackers to make remote denial of service.",
+    "affected_versions": "MIUI<2022.01.26",
+    "fixed_versions": "MIUI>2022.01.26",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-170",
+    "metadata": {
+      "xiaomi_id": 170,
+      "title": "Denial of service vulnerability in some Xiaomi models of phones",
+      "products": [
+        {
+          "product": "Redmi Note 11",
+          "affected_version": "MIUI<2022.01.26",
+          "fixed_version": "MIUI>2022.01.26"
+        },
+        {
+          "product": "Redmi Note 9T",
+          "affected_version": "MIUI<2022.01.26",
+          "fixed_version": "MIUI>2022.01.26"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  Slava Makkaveev! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life"
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14127 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-169",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=169",
+    "bulletin_date": "2022-06-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 3.1,
+    "cvss_vector": null,
+    "description": "A denial of service vulnerability exists in some Xiaomi models of phones. The vulnerability is caused by out-of-bound read/write and can be exploited by attackers to make denial of service.",
+    "affected_versions": "MIUI<2022.07.01",
+    "fixed_versions": "MIUI>2022.07.04",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-169",
+    "metadata": {
+      "xiaomi_id": 169,
+      "title": "Denial of service vulnerability in some Xiaomi models of phones",
+      "products": [
+        {
+          "product": "Redmi K40",
+          "affected_version": "MIUI<2022.07.01",
+          "fixed_version": "MIUI>2022.07.04"
+        },
+        {
+          "product": "Redmi Note10 Pro",
+          "affected_version": "MIUI<2022.07.01",
+          "fixed_version": "MIUI>2022.07.04"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to  tallpid! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14123 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-134",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=134",
+    "bulletin_date": "2022-04-22",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 4.2,
+    "cvss_vector": null,
+    "description": "There is a pointer double free vulnerability in Some MIUI Services. When a function is called, the memory pointer is copied to two function modules, and an attacker can cause the pointer to be repeatedly released through malicious operations, resulting in the affected module crashing and affecting normal functionality, and if successfully exploited the vulnerability can cause elevation of privileges.",
+    "affected_versions": "12.5.2",
+    "fixed_versions": "13.0.1",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-134",
+    "metadata": {
+      "xiaomi_id": 134,
+      "title": "Pointer Double Free Vulnerability in Some MIUI Services",
+      "products": [
+        {
+          "product": "MIUI",
+          "affected_version": "12.5.2",
+          "fixed_version": "13.0.1"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Dongxiang Ke, Lewei Qu of Baidu AIoT Security Team! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14116 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-148",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=148",
+    "bulletin_date": "2022-04-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.3,
+    "cvss_vector": null,
+    "description": "An intent redirection vulnerability in the Mi Browser product. This vulnerability is caused by the Mi Browser does not verify the validity of the incoming data. Attackers can perform sensitive operations by exploiting this.",
+    "affected_versions": "< 15.8",
+    "fixed_versions": ">= 15.8",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-148",
+    "metadata": {
+      "xiaomi_id": 148,
+      "title": "Intent redirection vulnerability in Mi Browser",
+      "products": [
+        {
+          "product": "Mi Browser",
+          "affected_version": "< 15.8",
+          "fixed_version": ">= 15.8"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14122 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-147",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=147",
+    "bulletin_date": "2022-04-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.4,
+    "cvss_vector": null,
+    "description": "Some Xiaomi phones have information leakage vulnerabilities, and some of them may be able to forge a specific identity due to the lack of parameter verification, resulting in user information leakage. ",
+    "affected_versions": "12.5.2",
+    "fixed_versions": "13.0.3",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-147",
+    "metadata": {
+      "xiaomi_id": 147,
+      "title": "Some Xiaomi phones have information leakage vulnerabilities",
+      "products": [
+        {
+          "product": "MIUI",
+          "affected_version": "12.5.2",
+          "fixed_version": "13.0.3"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14121 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-146",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=146",
+    "bulletin_date": "2022-04-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.7,
+    "cvss_vector": null,
+    "description": "A business logic vulnerability exists in Mi App Store. The vulnerability is caused by incomplete permission checks of the products being bypassed, and an attacker can exploit the vulnerability to perform a local silent installation.",
+    "affected_versions": "4.12.2",
+    "fixed_versions": "4004170",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-146",
+    "metadata": {
+      "xiaomi_id": 146,
+      "title": "Business logic vulnerability exists in Mi App Store",
+      "products": [
+        {
+          "product": "Mi App Store ",
+          "affected_version": "4.12.2",
+          "fixed_version": "4004170"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14120",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-145",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=145",
+    "bulletin_date": "2022-04-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.3,
+    "cvss_vector": null,
+    "description": "Some Xiaomi models have a vulnerability in a certain application. The vulnerability is caused by the lack of checksum when using a three-party application to pass in parameters, and attackers can induce users to install a malicious app and use the vulnerability to achieve elevated privileges, making the normal services of the system affected.",
+    "affected_versions": "12.5",
+    "fixed_versions": "13.0.3",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-145",
+    "metadata": {
+      "xiaomi_id": 145,
+      "title": "Some Xiaomi models have a vulnerability in a certain application",
+      "products": [
+        {
+          "product": "MIUI",
+          "affected_version": "12.5",
+          "fixed_version": "13.0.3"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14118 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-144",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=144",
+    "bulletin_date": "2022-04-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.3,
+    "cvss_vector": null,
+    "description": "An intent redirection vulnerability in the Mi App Store product. This vulnerability is caused by the Mi App Store does not verify the validity of the incoming data, can cause the app store to automatically download and install apps.",
+    "affected_versions": "<4.10.0",
+    "fixed_versions": ">=4.10.0",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-144",
+    "metadata": {
+      "xiaomi_id": 144,
+      "title": "Intent redirection vulnerability in Mi App Store",
+      "products": [
+        {
+          "product": "Mi App Store",
+          "affected_version": "<4.10.0",
+          "fixed_version": ">=4.10.0"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14117 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2022-143",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=143",
+    "bulletin_date": "2022-04-14",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.2,
+    "cvss_vector": null,
+    "description": "A improper permission configuration vulnerability in Xiaomi Content Center APP. This vulnerability is caused by the lack of correct permission verification in the Xiaomi content center APP, and attackers can use this vulnerability to invoke the sensitive component functions of the Xiaomi content center APP.",
+    "affected_versions": "< 4.4.11",
+    "fixed_versions": ">= 4.4.11",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2022-143",
+    "metadata": {
+      "xiaomi_id": 143,
+      "title": "A improper permission configuration vulnerability in Xiaomi Content Center APP",
+      "products": [
+        {
+          "product": "Xiaomi Content Center APP",
+          "affected_version": "< 4.4.11",
+          "fixed_version": ">= 4.4.11"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Zhongquan Li from ADLab of VenusTech! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14115",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-37",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=37",
+    "bulletin_date": "2022-03-07",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.4,
+    "cvss_vector": null,
+    "description": "A command injection vulnerability exists in the Xiaomi Router AX3600. The vulnerability is caused by a lack of inspection for incoming data detection. Attackers can exploit this vulnerability to execute code.",
+    "affected_versions": "<1.0.67",
+    "fixed_versions": ">=1.0.67",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-37",
+    "metadata": {
+      "xiaomi_id": 37,
+      "title": "Command Injection Vulnerability in Xiaomi Router AX3600",
+      "products": [
+        {
+          "product": "AX3600",
+          "affected_version": "<1.0.67",
+          "fixed_version": ">=1.0.67"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Aobo Wang of Chaitin Security Research Lab ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14112",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-34",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=34",
+    "bulletin_date": "2022-03-07",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.9,
+    "cvss_vector": null,
+    "description": "Information Leak Vulnerability exists in the Xiaomi Router AX6000. The vulnerability is caused by incorrect routing configuration. Attackers can exploit this vulnerability to download part of the files in Xiaomi Router AX6000.",
+    "affected_versions": "<1.0.56",
+    "fixed_versions": ">=1.0.56",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-34",
+    "metadata": {
+      "xiaomi_id": 34,
+      "title": "Information Leak Vulnerability in Xiaomi Router AX6000",
+      "products": [
+        {
+          "product": "AX6000",
+          "affected_version": "<1.0.56",
+          "fixed_version": ">=1.0.56"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Aobo Wang of Chaitin Security Research Lab ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14111",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-18",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=18",
+    "bulletin_date": "2022-03-04",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.8,
+    "cvss_vector": null,
+    "description": "A command injection vulnerability exists in the Xiaomi Router AX3600. The vulnerability is caused by a lack of inspection for incoming data detection. Attackers can exploit this vulnerability to execute code.",
+    "affected_versions": "<1.1.15",
+    "fixed_versions": ">=1.1.15",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-18",
+    "metadata": {
+      "xiaomi_id": 18,
+      "title": " Command Injection Vulnerability in Xiaomi Router AX3600",
+      "products": [
+        {
+          "product": "AX3600",
+          "affected_version": "<1.1.15",
+          "fixed_version": ">=1.1.15"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to Aobo Wang of Chaitin Security Research Lab ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14107 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-92",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=92",
+    "bulletin_date": "2021-12-03",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 4.2,
+    "cvss_vector": null,
+    "description": "A stack overflow in the HTTP server of Cast can be exploited to make the app crash in LAN",
+    "affected_versions": "版本 < 12.4.8.2",
+    "fixed_versions": "12.4.8.2",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-92",
+    "metadata": {
+      "xiaomi_id": 92,
+      "title": "vulnerability can be used to cause  the Cast exit unexpectedly in LAN",
+      "products": [
+        {
+          "product": "Cast",
+          "affected_version": "版本 < 12.4.8.2",
+          "fixed_version": "12.4.8.2"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Lambda-Zero! At the same time, more excellent and professional security experts and security teams are also welcome to join the Mi Security Center (MiSRC) to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14130 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-27",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=27",
+    "bulletin_date": "2021-09-07",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "Description: Some js interfaces in the Xiaomi community were exposed, causing sensitive functions to be maliciously called\nImpact: Sensitive functions are maliciously invoked",
+    "affected_versions": "<3.0.210809",
+    "fixed_versions": ">= 3.0.210809",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-27",
+    "metadata": {
+      "xiaomi_id": 27,
+      "title": "Remotely call sensitive functions of the Xiaomi community app",
+      "products": [
+        {
+          "product": "Xiaomi community app",
+          "affected_version": "<3.0.210809",
+          "fixed_version": ">= 3.0.210809"
+        }
+      ],
+      "thanks": "The Xiaomi Security Center expresses heartfelt thanks to song wu from luojiazhixu lab of wuhan university! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14109 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-15",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=15",
+    "bulletin_date": "2021-08-25",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.4,
+    "cvss_vector": null,
+    "description": "There is command injection in the meshd program in the routing system, resulting in command execution under administrator authority",
+    "affected_versions": " rom< 1.1.12",
+    "fixed_versions": " rom> 1.1.12",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-15",
+    "metadata": {
+      "xiaomi_id": 15,
+      "title": "Router web management background command injection",
+      "products": [
+        {
+          "product": "Xiaomi router AX3600",
+          "affected_version": " rom< 1.1.12",
+          "fixed_version": " rom> 1.1.12"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are also welcome to join the Mi Security Center (MiSRC) to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14119 ",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-16",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=16",
+    "bulletin_date": "2021-08-25",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.3,
+    "cvss_vector": null,
+    "description": "There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority",
+    "affected_versions": "rom< 1.1.12",
+    "fixed_versions": "rom> 1.1.12",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-16",
+    "metadata": {
+      "xiaomi_id": 16,
+      "title": "Router web management background command injection",
+      "products": [
+        {
+          "product": "Xiaomi router AX3600",
+          "affected_version": "rom< 1.1.12",
+          "fixed_version": "rom> 1.1.12"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are also welcome to join the Mi Security Center (MiSRC) to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14124",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-17",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=17",
+    "bulletin_date": "2021-08-25",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.1,
+    "cvss_vector": null,
+    "description": "There is a buffer overflow in librsa.so called by getwifipwdurl interface, resulting in code execution",
+    "affected_versions": "rom< 1.1.12",
+    "fixed_versions": "rom>1.1.12",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-17",
+    "metadata": {
+      "xiaomi_id": 17,
+      "title": "Router web management background command injection",
+      "products": [
+        {
+          "product": "Xiaomi router AX3600",
+          "affected_version": "rom< 1.1.12",
+          "fixed_version": "rom>1.1.12"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are also welcome to join the Mi Security Center (MiSRC) to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14103",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-41",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=41",
+    "bulletin_date": "2021-04-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.5,
+    "cvss_vector": null,
+    "description": "The application in the mobile phone can read the PSNO information of the device.",
+    "affected_versions": "MIUI<2020.01.15",
+    "fixed_versions": "MIUI>2020.01.15",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-41",
+    "metadata": {
+      "xiaomi_id": 41,
+      "title": "Some Xiaomi mobile phone models leak PSNO information",
+      "products": [
+        {
+          "product": "Xiaomi 10",
+          "affected_version": "MIUI<2020.01.15",
+          "fixed_version": "MIUI>2020.01.15"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to WuHeng Lab of Bytedance! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14105",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-48",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=48",
+    "bulletin_date": "2021-04-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.5,
+    "cvss_vector": null,
+    "description": "The application in the mobile phone can read the SNO information of the device.",
+    "affected_versions": "MIUI<2020.01.15",
+    "fixed_versions": "MIUI>2020.01.15",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-48",
+    "metadata": {
+      "xiaomi_id": 48,
+      "title": "Some Xiaomi mobile phone models leak SNO information",
+      "products": [
+        {
+          "product": "Xiaomi 10",
+          "affected_version": "MIUI<2020.01.15",
+          "fixed_version": "MIUI>2020.01.15"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to WuHeng Lab of Bytedance! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14106",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-50",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=50",
+    "bulletin_date": "2021-04-06",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 5.5,
+    "cvss_vector": null,
+    "description": "The application in the mobile phone can unauthorized access to the list of running processes in the mobile phone",
+    "affected_versions": "MIUI系统<2021.01.26",
+    "fixed_versions": "MIUI系统>2021.01.26",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-50",
+    "metadata": {
+      "xiaomi_id": 50,
+      "title": "Xiaomi mobile phone is not authorized to access the foreground operation process information",
+      "products": [
+        {
+          "product": "Xiaomi Mobile Phone",
+          "affected_version": "MIUI系统<2021.01.26",
+          "fixed_version": "MIUI系统>2021.01.26"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to WuHeng Lab of Bytedance! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14104",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-44",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=44",
+    "bulletin_date": "2021-04-02",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 8.1,
+    "cvss_vector": null,
+    "description": "A RACE CONDITION on XQBACKUP causes a decompression path error.",
+    "affected_versions": "rom版本≤1.0.50",
+    "fixed_versions": "升级rom版本≥1.0.79",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-44",
+    "metadata": {
+      "xiaomi_id": 44,
+      "title": "CVE-2020-11960 is not completely repaired",
+      "products": [
+        {
+          "product": "Xiaomi Router AX3600",
+          "affected_version": "rom版本≤1.0.50",
+          "fixed_version": "升级rom版本≥1.0.79"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14099",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-47",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=47",
+    "bulletin_date": "2021-04-02",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "The encryption scheme for a user's backup files uses hard-coded keys, which can expose sensitive information such as a user's password.",
+    "affected_versions": "rom版本<1.0.26; rom版本<1.0.336",
+    "fixed_versions": "升级rom版本≥1.0.32; 升级rom版本≥1.0.378",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-47",
+    "metadata": {
+      "xiaomi_id": 47,
+      "title": "Security problems in the encryption scheme of router user backup file",
+      "products": [
+        {
+          "product": "Xiaomi Router AX1800",
+          "affected_version": "rom版本<1.0.336",
+          "fixed_version": "升级rom版本≥1.0.378"
+        },
+        {
+          "product": "Xiaomi Router RM1800",
+          "affected_version": "rom版本<1.0.26",
+          "fixed_version": "升级rom版本≥1.0.32"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Yuan Sen of bangcle! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14101",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-52",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=52",
+    "bulletin_date": "2021-01-18",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "The data acquisition SDK of the router's Web management interface caused the token leak.",
+    "affected_versions": "rom版本<1.0.26; rom版本<1.0.336",
+    "fixed_versions": "升级rom版本≥1.0.32; 升级rom版本≥1.0.378",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-52",
+    "metadata": {
+      "xiaomi_id": 52,
+      "title": "The router Web management interface token leak",
+      "products": [
+        {
+          "product": "Xiaomi Router AX1800",
+          "affected_version": "rom版本<1.0.336",
+          "fixed_version": "升级rom版本≥1.0.378"
+        },
+        {
+          "product": "Xiaomi Router RM1800",
+          "affected_version": "rom版本<1.0.26",
+          "fixed_version": "升级rom版本≥1.0.32"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Yuan Sen of bangcle! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14098",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-53",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=53",
+    "bulletin_date": "2021-01-18",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "Login verification can be circumvented by the time out of sync after router reboot.",
+    "affected_versions": "rom版本<1.0.26; rom版本<1.0.336",
+    "fixed_versions": "升级rom版本≥1.0.32; 升级rom版本≥1.0.378",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-53",
+    "metadata": {
+      "xiaomi_id": 53,
+      "title": "Router backend authentication bypass",
+      "products": [
+        {
+          "product": "Xiaomi Router AX1800",
+          "affected_version": "rom版本<1.0.336",
+          "fixed_version": "升级rom版本≥1.0.378"
+        },
+        {
+          "product": "Xiaomi Router RM1800",
+          "affected_version": "rom版本<1.0.26",
+          "fixed_version": "升级rom版本≥1.0.32"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Yuan Sen of bangcle! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14102",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2021-60",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=60",
+    "bulletin_date": "2021-01-18",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.2,
+    "cvss_vector": null,
+    "description": "There is command injection when the hostname is processed by DDNS, which causes the administrator user to obtain the root privileges of the router.",
+    "affected_versions": "rom版本<1.0.26; rom版本<1.0.336",
+    "fixed_versions": "升级rom版本≥1.0.32; 升级rom版本≥1.0.378",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2021-60",
+    "metadata": {
+      "xiaomi_id": 60,
+      "title": "Router background command injection",
+      "products": [
+        {
+          "product": "Xiaomi Router AX1800",
+          "affected_version": "rom版本<1.0.336",
+          "fixed_version": "升级rom版本≥1.0.378"
+        },
+        {
+          "product": "Xiaomi Router RM1800",
+          "affected_version": "rom版本<1.0.26",
+          "fixed_version": "升级rom版本≥1.0.32"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Swings and Aobo Wang from Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14097",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-56",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=56",
+    "bulletin_date": "2020-12-28",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "Wrong nginx configuration, causing specific paths to be downloaded without authorization.",
+    "affected_versions": "rom版本<1.0.18",
+    "fixed_versions": "升级rom版本≥1.0.18",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-56",
+    "metadata": {
+      "xiaomi_id": 56,
+      "title": "Router nginx configuration error",
+      "products": [
+        {
+          "product": "Xiaomi router AX6",
+          "affected_version": "rom版本<1.0.18",
+          "fixed_version": "升级rom版本≥1.0.18"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14100",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-49",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=49",
+    "bulletin_date": "2020-09-08",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.8,
+    "cvss_vector": null,
+    "description": "Filters in the set_WAN6 interface can be bypassed, causing remote code execution. The router administrator can gain root access from this vulnerability.",
+    "affected_versions": "rom版本<1.0.66",
+    "fixed_versions": "升级rom版本≥1.0.66",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-49",
+    "metadata": {
+      "xiaomi_id": 49,
+      "title": "Miwifi6 AX3600 background command injection bypass",
+      "products": [
+        {
+          "product": "Xiaomi router R3600",
+          "affected_version": "rom版本<1.0.66",
+          "fixed_version": "升级rom版本≥1.0.66"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14096",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-54",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=54",
+    "bulletin_date": "2020-09-07",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.8,
+    "cvss_vector": null,
+    "description": "Memory overflow can be happened when the speaker verifying a malicious firmware during OTA process.",
+    "affected_versions": "rom版本<1.59.6",
+    "fixed_versions": "rom版本≥1.59.6",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-54",
+    "metadata": {
+      "xiaomi_id": 54,
+      "title": "Memory overflow in Xiaomi AI speaker",
+      "products": [
+        {
+          "product": "Xiaomi AI speaker",
+          "affected_version": "rom版本<1.59.6",
+          "fixed_version": "rom版本≥1.59.6"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to csftech! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-11959",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-43",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=43",
+    "bulletin_date": "2020-06-24",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "An unsafe configuration of nginx lead to information leak.",
+    "affected_versions": "rom版本<1.0.20",
+    "fixed_versions": "rom版本>1.0.50",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-43",
+    "metadata": {
+      "xiaomi_id": 43,
+      "title": "AX3600 router - Sensitive information leak",
+      "products": [
+        {
+          "product": "Xiaomi router R3600",
+          "affected_version": "rom版本<1.0.20",
+          "fixed_version": "rom版本>1.0.50"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-11960",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-45",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=45",
+    "bulletin_date": "2020-06-24",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.8,
+    "cvss_vector": null,
+    "description": "An vulnerability when checking backup file in c_upload interface let attacker able to extract malicious file under any location in /tmp, lead to possible RCE and DoS.",
+    "affected_versions": "rom版本<1.0.20",
+    "fixed_versions": "rom版本>1.0.50",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-45",
+    "metadata": {
+      "xiaomi_id": 45,
+      "title": "AX3600 router decompression logic error caused code execution",
+      "products": [
+        {
+          "product": "Xiaomi router R3600",
+          "affected_version": "rom版本<1.0.20",
+          "fixed_version": "rom版本>1.0.50"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-10561",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-51",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=51",
+    "bulletin_date": "2020-06-24",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.8,
+    "cvss_vector": null,
+    "description": "Injecting parameters to ippserver through the web management background, resulting in command execution vulnerabilities.",
+    "affected_versions": "版本<3.4.6_0138",
+    "fixed_versions": "版本>3.4.6_138",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-51",
+    "metadata": {
+      "xiaomi_id": 51,
+      "title": "Mi Jia ink-jet printer remote code execution",
+      "products": [
+        {
+          "product": "Mi Jia ink-jet printer",
+          "affected_version": "版本<3.4.6_0138",
+          "fixed_version": "版本>3.4.6_138"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14094",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-55",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=55",
+    "bulletin_date": "2020-06-24",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.8,
+    "cvss_vector": null,
+    "description": "An vulnerability of connect service can be inject through a web interface, lead to stack overflow or remote code execution.",
+    "affected_versions": "rom版本<1.0.20",
+    "fixed_versions": "rom版本>1.0.50",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-55",
+    "metadata": {
+      "xiaomi_id": 55,
+      "title": "AX3600 router background command injection bypass",
+      "products": [
+        {
+          "product": "Xiaomi router R3600",
+          "affected_version": "rom版本<1.0.20",
+          "fixed_version": "rom版本>1.0.50"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-11961",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-57",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=57",
+    "bulletin_date": "2020-06-24",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.5,
+    "cvss_vector": null,
+    "description": "Sensitive information leakage caused by an insecure interface get_config_result without authentication.",
+    "affected_versions": "rom版本<1.0.20",
+    "fixed_versions": "rom版本>1.0.50",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-57",
+    "metadata": {
+      "xiaomi_id": 57,
+      "title": "AX3600 router - Sensitive information leak",
+      "products": [
+        {
+          "product": "Xiaomi router R3600",
+          "affected_version": "rom版本<1.0.20",
+          "fixed_version": "rom版本>1.0.50"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-14095",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-59",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=59",
+    "bulletin_date": "2020-06-24",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 9.8,
+    "cvss_vector": null,
+    "description": "An vulnerability of connect service can be inject through a web interface, lead to stack overflow or remote code execution.",
+    "affected_versions": "rom版本<1.0.20",
+    "fixed_versions": "rom版本>1.0.50",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-59",
+    "metadata": {
+      "xiaomi_id": 59,
+      "title": "AX3600 router background directory traversal",
+      "products": [
+        {
+          "product": "Xiaomi router R3600",
+          "affected_version": "rom版本<1.0.20",
+          "fixed_version": "rom版本>1.0.50"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to Aobo Wang of Chaitin Security Research Lab! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-9530",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-42",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=42",
+    "bulletin_date": "2020-06-22",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 6.5,
+    "cvss_vector": null,
+    "description": "Launching the component of Message(com.android.mms) through GetApps(com.xiaomi.mipicks) to open a specific malicious webpage, lead to the leakage of sensitive information.",
+    "affected_versions": "MIUI V11.0.5.0.QFAEUXM(特别是欧洲版本)",
+    "fixed_versions": "GetApps(com.xiaomi.mipicks):2001122; Message(com.android.mms):11.0.1.54",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-42",
+    "metadata": {
+      "xiaomi_id": 42,
+      "title": "Opening a malicious webpage leads to remote data leakage",
+      "products": [
+        {
+          "product": "GetApps (com.xiaomi.mipicks)",
+          "affected_version": "MIUI V11.0.5.0.QFAEUXM(特别是欧洲版本)",
+          "fixed_version": "GetApps(com.xiaomi.mipicks):2001122"
+        },
+        {
+          "product": "Messaging (com.android.mms)",
+          "affected_version": "MIUI V11.0.5.0.QFAEUXM(特别是欧洲版本)",
+          "fixed_version": "Message(com.android.mms):11.0.1.54"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to FSecureLabs! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2020-9531",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-46",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=46",
+    "bulletin_date": "2020-06-22",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.3,
+    "cvss_vector": null,
+    "description": "GetApps(com.xiaomi.mipicks) did not correctly verify the parameters passed into the local web page, resulting in the installation of specific applications in the Xiaomi app store, causing some information to leak.The attacker needs to induce the user to move the unlocked mobile phone closer to the malicious NFC tag, so as to secure a specific APP in the mobile phone, which further leads to information leakage.",
+    "affected_versions": "MIUI V11.0.5.0.QFAEUXM (特别对于欧洲版本)",
+    "fixed_versions": "GetApps(com.xiaomi.mipicks)：2001122; apk版本>1-6.3.9.3",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-46",
+    "metadata": {
+      "xiaomi_id": 46,
+      "title": "Get sensitive information in your phone through NFC tags",
+      "products": [
+        {
+          "product": "MIUI",
+          "affected_version": "MIUI V11.0.5.0.QFAEUXM (特别对于欧洲版本)",
+          "fixed_version": "apk版本>1-6.3.9.3"
+        },
+        {
+          "product": "GetApps (com.xiaomi.mipicks)",
+          "affected_version": "MIUI V11.0.5.0.QFAEUXM (特别对于欧洲版本)",
+          "fixed_version": "GetApps(com.xiaomi.mipicks)：2001122"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its heartfelt thanks to FSecureLabs! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  },
+  {
+    "cve_id": "CVE-2019-15843",
+    "vendor": "xiaomi",
+    "source_name": "xiaomi_bulletin",
+    "bulletin_id": "MiSVD-2020-58",
+    "bulletin_url": "https://trust.mi.com/misrc/bulletins/advisory?cveId=58",
+    "bulletin_date": "2020-06-22",
+    "severity": null,
+    "vulnerability_type": null,
+    "subcomponent": null,
+    "reference": null,
+    "cvss_score": 7.4,
+    "cvss_vector": null,
+    "description": "The combination of password can be used to calculate/transmit data is not encrypted/data source is not verified. The use of 3 vulnerabilities, through a man-in-the-middle attack in a specific environment may lead to partial data leakage or malicious file writing.Attackers can easily calculate the password used in the data connection process, intervene in the data transmission process, obtain the transmission content or put the malicious file into the transmission queue.",
+    "affected_versions": "1-6.3.9.3",
+    "fixed_versions": "apk版本>1-6.3.9.3",
+    "source_credit": null,
+    "last_updated_date": null,
+    "vendor_advisory": "MiSVD-2020-58",
+    "metadata": {
+      "xiaomi_id": 58,
+      "title": "Mi phone has a man-in-the-middle attack vulnerability in a specific environment",
+      "products": [
+        {
+          "product": "apk:com.miui.huanji",
+          "affected_version": "1-6.3.9.3",
+          "fixed_version": "apk版本>1-6.3.9.3"
+        }
+      ],
+      "thanks": "Xiaomi Security Center expresses its sincere thanks to G505 Team! At the same time, more excellent and professional security experts and security teams are welcome to join MiSRC to jointly guarantee the safe online life of hundreds of millions of Xiaomi users worldwide."
+    }
+  }
+]

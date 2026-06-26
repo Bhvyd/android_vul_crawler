@@ -1,0 +1,265 @@
+device_name,device_type,chipset,launch_os_version,currently_supported_os,current_user_interface,official_release_date
+Vivo Y31s 5G,Phone,Qualcomm Snapdragon 480,Android 11,Android 13,OriginOS 3,2021-01-11 0:00:00
+Vivo Y51A,Phone,Qualcomm Snapdragon 662,Android 11,Android 12,Funtouch OS 12,2021-01-11 0:00:00
+Vivo Y20 (2021),Phone,MediaTek Helio P35,Android 10,Android 11,Funtouch OS 11,2021-01-13 0:00:00
+Vivo Y20G,Phone,MediaTek Helio G80,Android 11,Android 12,Funtouch OS 12,2021-01-19 0:00:00
+Vivo Y31,Phone,Qualcomm Snapdragon 662,Android 11,Android 12,Funtouch OS 12,2021-01-20 0:00:00
+Vivo X60 Pro+,Phone,Qualcomm Snapdragon 888,Android 11,Android 14,OriginOS 4,2021-01-21 0:00:00
+Vivo X60,Phone,Exynos 1080 / Snapdragon 870,Android 11,Android 14,Funtouch OS 14 / OriginOS 4,2021-01-29 0:00:00
+Vivo X60 Pro,Phone,Exynos 1080 / Snapdragon 870,Android 11,Android 14,Funtouch OS 14 / OriginOS 4,2021-01-29 0:00:00
+Vivo S9,Phone,MediaTek Dimensity 1100,Android 11,Android 13,OriginOS 3,2021-02-03 0:00:00
+Vivo S9e,Phone,MediaTek Dimensity 820,Android 11,Android 13,OriginOS 3,2021-02-03 0:00:00
+Vivo iQOO Neo5,Phone,Qualcomm Snapdragon 870,Android 11,Android 14,OriginOS 4,2021-02-16 0:00:00
+Vivo S7t,Phone,MediaTek Dimensity 820,Android 11,Android 12,OriginOS Ocean,2021-03-04 0:00:00
+Vivo Y72 5G,Phone,MediaTek Dimensity 700,Android 11,Android 13,Funtouch OS 13,2021-03-22 0:00:00
+Vivo iQOO Z3,Phone,Qualcomm Snapdragon 768G,Android 11,Android 14,OriginOS 4,2021-03-25 0:00:00
+Vivo X60 Curved Screen Edition,Phone,Qualcomm Snapdragon 870,Android 11,Android 14,OriginOS 4,2021-04-06 0:00:00
+Vivo iQOO 7,Phone,Qualcomm Snapdragon 888,Android 11,Android 14,OriginOS 4,2021-04-26 0:00:00
+Vivo V21e,Phone,Qualcomm Snapdragon 720G,Android 11,Android 13,Funtouch OS 13,2021-04-27 0:00:00
+Vivo V21 5G,Phone,MediaTek Dimensity 800U,Android 11,Android 14,Funtouch OS 14,2021-04-27 0:00:00
+Vivo Y53s,Phone,MediaTek Helio G80,Android 11,Android 13,Funtouch OS 13,2021-05-17 0:00:00
+Vivo Y52 5G,Phone,MediaTek Dimensity 700,Android 11,Android 13,Funtouch OS 13,2021-05-18 0:00:00
+Vivo iQOO Z3x,Phone,Qualcomm Snapdragon 480,Android 11,Android 13,OriginOS 3,2021-05-20 0:00:00
+Vivo iQOO Neo5 Vitality Edition,Phone,Qualcomm Snapdragon 870,Android 11,Android 14,OriginOS 4,2021-05-24 0:00:00
+Vivo X60t,Phone,MediaTek Dimensity 1100,Android 11,Android 14,OriginOS 4,2021-06-08 0:00:00
+Vivo Y73,Phone,MediaTek Helio G95,Android 11,Android 13,Funtouch OS 13,2021-06-10 0:00:00
+Vivo S10,Phone,MediaTek Dimensity 1100,Android 11,Android 14,OriginOS 4,2021-07-15 0:00:00
+Vivo S10 Pro,Phone,MediaTek Dimensity 1100,Android 11,Android 14,OriginOS 4,2021-07-15 0:00:00
+Vivo Y12A,Phone,Qualcomm Snapdragon 439,Android 11 Go Edition,Android 11 Go Edition,Funtouch OS 11,2021-07-21 0:00:00
+Vivo iQOO U3x Standard Edition,Phone,Qualcomm Snapdragon 480,Android 11,Android 13,OriginOS 3,2021-07-22 0:00:00
+Vivo iQOO 8 Pro,Phone,Qualcomm Snapdragon 888+,Android 11,Android 14,OriginOS 4,2021-08-17 0:00:00
+Vivo iQOO 8,Phone,Qualcomm Snapdragon 888+,Android 11,Android 14,OriginOS 4,2021-08-17 0:00:00
+Vivo Y21,Phone,MediaTek Helio P35,Android 11,Android 13,Funtouch OS 13,2021-08-20 0:00:00
+Vivo Y33s,Phone,MediaTek Helio G80,Android 11,Android 13,Funtouch OS 13,2021-08-23 0:00:00
+Vivo X70 Pro+,Phone,Qualcomm Snapdragon 888+,Android 11,Android 14,OriginOS 4,2021-09-09 0:00:00
+Vivo X70 Pro,Phone,Exynos 1080 / MediaTek Dimensity 1200,Android 11,Android 14,OriginOS 4,2021-09-09 0:00:00
+Vivo X70,Phone,MediaTek Dimensity 1200,Android 11,Android 14,OriginOS 4,2021-09-09 0:00:00
+Vivo T1 5G,Phone,Qualcomm Snapdragon 778G,Android 11,Android 13,OriginOS 3,2021-09-27 0:00:00
+Vivo T1x,Phone,MediaTek Dimensity 900,Android 11,Android 13,OriginOS 3,2021-10-19 0:00:00
+Vivo iQOO Z5x,Phone,MediaTek Dimensity 900,Android 11,Android 14,OriginOS 4,2021-10-20 0:00:00
+Vivo Y15s,Phone,MediaTek Helio P35,Android 11 Go Edition,Android 12 Go Edition,Funtouch OS 12,2021-10-25 0:00:00
+Vivo V23e,Phone,MediaTek Helio G96,Android 11,Android 14,Funtouch OS 14,2021-11-09 0:00:00
+Vivo Y50t,Phone,Qualcomm Snapdragon 720G,Android 10,Android 12,OriginOS Ocean,2021-11-16 0:00:00
+Vivo Y74s,Phone,MediaTek Dimensity 810,Android 11,Android 13,OriginOS 3,2021-11-17 0:00:00
+Vivo iQOO Neo5 SE,Phone,Qualcomm Snapdragon 870,Android 11,Android 14,OriginOS 4,2021-11-24 0:00:00
+Vivo Y55s 5G,Phone,MediaTek Dimensity 700,Android 11,Android 13,OriginOS 3,2021-12-04 0:00:00
+Vivo S12,Phone,MediaTek Dimensity 1100,Android 11,Android 14,OriginOS 4,2021-12-22 0:00:00
+Vivo S12 Pro,Phone,MediaTek Dimensity 1200,Android 11,Android 14,OriginOS 4,2021-12-22 0:00:00
+Vivo iQOO U5,Phone,Qualcomm Snapdragon 695,Android 11,Android 14,OriginOS 4,2021-12-24 0:00:00
+Vivo Y21T,Phone,Qualcomm Snapdragon 680,Android 11,Android 13,Funtouch OS 13,2022-01-03 0:00:00
+Vivo V23 5G,Phone,MediaTek Dimensity 920,Android 12,Android 14,Funtouch OS 14,2022-01-05 0:00:00
+Vivo V23 Pro 5G,Phone,MediaTek Dimensity 1200,Android 12,Android 14,Funtouch OS 14,2022-01-05 0:00:00
+Vivo iQOO 9 Pro,Phone,Qualcomm Snapdragon 8 Gen 1,Android 12,Android 15,OriginOS 5,2022-01-05 0:00:00
+Vivo iQOO 9,Phone,Qualcomm Snapdragon 888+,Android 12,Android 15,OriginOS 5,2022-01-05 0:00:00
+Vivo Y33T,Phone,Qualcomm Snapdragon 680,Android 11,Android 13,Funtouch OS 13,2022-01-11 0:00:00
+Vivo Y75 5G,Phone,MediaTek Dimensity 700,Android 11,Android 13,Funtouch OS 13,2022-01-27 0:00:00
+Vivo Y15A,Phone,MediaTek Helio P35,Android 11 Go Edition,Android 12 Go Edition,Funtouch OS 12,2022-02-01 0:00:00
+Vivo T1 5G,Phone,Qualcomm Snapdragon 695,Android 12,Android 14,Funtouch OS 14,2022-02-09 0:00:00
+Vivo Y15D,Phone,MediaTek Helio P35,Android 11 Go Edition,Android 12 Go Edition,Funtouch OS 12,2022-02-10 0:00:00
+Vivo iQOO Z6,Phone,Qualcomm Snapdragon 695,Android 12,Android 14,Funtouch OS 14,2022-03-16 0:00:00
+Vivo Y01,Phone,MediaTek Helio P35,Android 11 Go Edition,Android 12 Go Edition,Funtouch OS 12,2022-03-24 0:00:00
+Vivo Y33e,Phone,MediaTek Dimensity 700,Android 12,Android 14,OriginOS 4,2022-03-28 0:00:00
+Vivo X Fold,Phone,Qualcomm Snapdragon 8 Gen 1,Android 12,Android 15,OriginOS 5,2022-03-30 0:00:00
+Vivo X Note,Phone,Qualcomm Snapdragon 8 Gen 1,Android 12,Android 15,OriginOS 5,2022-03-30 0:00:00
+Vivo S15e,Phone,Exynos 1080,Android 12,Android 14,OriginOS 4,2022-03-31 0:00:00
+Vivo iQOO Neo6,Phone,Qualcomm Snapdragon 8 Gen 1,Android 12,Android 15,OriginOS 5,2022-04-13 0:00:00
+Vivo Y75,Phone,MediaTek Helio G96,Android 11,Android 13,Funtouch OS 13,2022-04-22 0:00:00
+Vivo X80,Phone,MediaTek Dimensity 9000,Android 12,Android 15,OriginOS 5,2022-04-25 0:00:00
+Vivo X80 Pro,Phone,Qualcomm Snapdragon 8 Gen 1 / MediaTek Dimensity 9000,Android 12,Android 15,OriginOS 5,2022-04-25 0:00:00
+Vivo T1 44W,Phone,Qualcomm Snapdragon 680,Android 12,Android 14,Funtouch OS 14,2022-04-27 0:00:00
+Vivo T1 Pro 5G,Phone,Qualcomm Snapdragon 778G,Android 12,Android 14,Funtouch OS 14,2022-04-27 0:00:00
+Vivo Y55 5G,Phone,MediaTek Dimensity 700,Android 12,Android 14,Funtouch OS 14,2022-05-01 0:00:00
+Vivo iQOO Z6 Pro,Phone,Qualcomm Snapdragon 778G,Android 12,Android 14,Funtouch OS 14,2022-05-04 0:00:00
+Vivo Y75c,Phone,Unisoc T610,Android 11,Android 13,OriginOS 3,2022-05-11 0:00:00
+Vivo Y30 5G,Phone,MediaTek Dimensity 700,Android 12,Android 14,Funtouch OS 14,2022-05-13 0:00:00
+Vivo S15,Phone,Qualcomm Snapdragon 870,Android 12,Android 15,OriginOS 5,2022-05-19 0:00:00
+Vivo S15 Pro,Phone,MediaTek Dimensity 8100,Android 12,Android 15,OriginOS 5,2022-05-19 0:00:00
+Vivo T2x,Phone,MediaTek Dimensity 1300,Android 12,Android 14,OriginOS 4,2022-06-06 0:00:00
+Vivo Y72t,Phone,MediaTek Dimensity 700,Android 11,Android 13,OriginOS 3,2022-06-22 0:00:00
+Vivo Y77,Phone,MediaTek Dimensity 930,Android 12,Android 14,OriginOS 4,2022-06-29 0:00:00
+Vivo Y02s,Phone,MediaTek Helio P35,Android 12 Go Edition,Android 13 Go Edition,Funtouch OS 13,2022-07-15 0:00:00
+Vivo iQOO 10,Phone,Qualcomm Snapdragon 8+ Gen 1,Android 12,Android 15,OriginOS 5,2022-07-19 0:00:00
+Vivo iQOO 10 Pro,Phone,Qualcomm Snapdragon 8+ Gen 1,Android 12,Android 15,OriginOS 5,2022-07-19 0:00:00
+Vivo Y16,Phone,MediaTek Helio P35,Android 12,Android 14,Funtouch OS 14,2022-07-29 0:00:00
+Vivo iQOO 9T,Phone,Qualcomm Snapdragon 8+ Gen 1,Android 12,Android 15,Funtouch OS 15,2022-08-02 0:00:00
+Vivo Y35,Phone,Qualcomm Snapdragon 680,Android 11,Android 13,Funtouch OS 13,2022-08-15 0:00:00
+Vivo V25,Phone,MediaTek Dimensity 900,Android 12,Android 14,Funtouch OS 14,2022-08-17 0:00:00
+Vivo V25 Pro,Phone,MediaTek Dimensity 1300,Android 12,Android 14,Funtouch OS 14,2022-08-17 0:00:00
+Vivo Y22,Phone,MediaTek Helio G85,Android 12,Android 14,Funtouch OS 14,2022-08-30 0:00:00
+Vivo iQOO Z6x,Phone,MediaTek Dimensity 810,Android 12,Android 14,OriginOS 4,2022-09-01 0:00:00
+Vivo V25e,Phone,MediaTek Helio G99,Android 12,Android 14,Funtouch OS 14,2022-09-05 0:00:00
+Vivo iQOO Z6 Lite,Phone,Qualcomm Snapdragon 4 Gen 1,Android 12,Android 14,Funtouch OS 14,2022-09-14 0:00:00
+Vivo Y52t,Phone,MediaTek Dimensity 700,Android 12,Android 14,OriginOS 4,2022-09-19 0:00:00
+Vivo Y73t,Phone,MediaTek Dimensity 700,Android 12,Android 14,OriginOS 4,2022-10-14 0:00:00
+Vivo X90 Pro,Phone,MediaTek Dimensity 9200,Android 13,Android 15,OriginOS 5,2022-10-22 0:00:00
+Vivo X90,Phone,MediaTek Dimensity 9200,Android 13,Android 15,OriginOS 5,2022-10-22 0:00:00
+Vivo X90 Pro+,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5,2022-10-22 0:00:00
+Vivo Y02,Phone,MediaTek Helio P22,Android 12 Go Edition,Android 13 Go Edition,Funtouch OS 13,2022-10-29 0:00:00
+Vivo Y01A,Phone,MediaTek Helio P35,Android 11 Go Edition,Android 12 Go Edition,Funtouch OS 12,2022-11-09 0:00:00
+Vivo Y56 5G,Phone,MediaTek Dimensity 700,Android 12,Android 14,Funtouch OS 14,2022-11-18 0:00:00
+Vivo iQOO Neo7,Phone,MediaTek Dimensity 9000+,Android 13,Android 15,OriginOS 5,2022-11-20 0:00:00
+Vivo Y35m,Phone,MediaTek Dimensity 700,Android 13,Android 15,OriginOS 5,2022-12-05 0:00:00
+Vivo iQOO 11 Pro,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5,2022-12-08 0:00:00
+Vivo iQOO 11,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5,2022-12-08 0:00:00
+Vivo Y53t,Phone,MediaTek Dimensity 700,Android 13,Android 15,OriginOS 5,2022-12-30 0:00:00
+Vivo Y53t,Phone,MediaTek Dimensity 700,Android 13,Android 15,OriginOS 5,2023-01-03 0:00:00
+Vivo Y35 5G,Phone,MediaTek Dimensity 700,Android 13,Android 15,OriginOS 5,2023-01-06 0:00:00
+Vivo Y75s (2023),Phone,MediaTek Dimensity 700,Android 13,Android 15,OriginOS 5,2023-01-09 0:00:00
+Vivo iQOO 11,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5 / Funtouch OS 15,2023-01-10 0:00:00
+Vivo iQOO 11 Pro,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5,2023-01-10 0:00:00
+Vivo iQOO Neo7 Racing Edition,Phone,Qualcomm Snapdragon 8+ Gen 1,Android 13,Android 15,OriginOS 5,2023-02-02 0:00:00
+Vivo Y100,Phone,MediaTek Dimensity 900,Android 13,Android 15,Funtouch OS 15,2023-02-16 0:00:00
+Vivo Y56 5G,Phone,MediaTek Dimensity 700,Android 13,Android 15,Funtouch OS 15,2023-02-16 0:00:00
+Vivo V27,Phone,MediaTek Dimensity 7200,Android 13,Android 15,Funtouch OS 15,2023-02-28 0:00:00
+Vivo V27 Pro,Phone,MediaTek Dimensity 8200,Android 13,Android 15,Funtouch OS 15,2023-02-28 0:00:00
+Vivo Y100A,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,Funtouch OS 15,2023-03-18 0:00:00
+Vivo iQOO Z7,Phone,MediaTek Dimensity 920,Android 13,Android 15,Funtouch OS 15,2023-03-21 0:00:00
+Vivo iQOO Z7x,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,OriginOS 5,2023-03-24 0:00:00
+Vivo T2x 5G,Phone,MediaTek Dimensity 6020,Android 13,Android 15,Funtouch OS 15,2023-03-25 0:00:00
+Vivo X Fold2,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5,2023-03-29 0:00:00
+Vivo X Flip,Phone,Qualcomm Snapdragon 8+ Gen 1,Android 13,Android 15,OriginOS 5,2023-03-29 0:00:00
+Vivo T2 5G,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,Funtouch OS 15,2023-04-11 0:00:00
+Vivo T2x 5G (India),Phone,MediaTek Dimensity 6020,Android 13,Android 15,Funtouch OS 15,2023-04-11 0:00:00
+Vivo Y11 (2023),Phone,MediaTek Helio P35,Android 12,Android 14,Funtouch OS 14,2023-04-17 0:00:00
+Vivo Y78+,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,OriginOS 5,2023-04-24 0:00:00
+Vivo iQOO Neo8 Pro,Phone,MediaTek Dimensity 9200+,Android 13,Android 15,OriginOS 5,2023-04-27 0:00:00
+Vivo iQOO Neo8,Phone,Qualcomm Snapdragon 8+ Gen 1,Android 13,Android 15,OriginOS 5,2023-04-27 0:00:00
+Vivo Y78,Phone,MediaTek Dimensity 7020,Android 13,Android 15,OriginOS 5,2023-05-08 0:00:00
+Vivo Y02A,Phone,MediaTek Helio P35,Android 12 Go Edition,Android 13 Go Edition,Funtouch OS 13,2023-05-15 0:00:00
+Vivo Y36,Phone,Qualcomm Snapdragon 680,Android 13,Android 15,Funtouch OS 15,2023-05-27 0:00:00
+Vivo S17e,Phone,MediaTek Dimensity 7200,Android 13,Android 15,OriginOS 5,2023-05-31 0:00:00
+Vivo S17,Phone,Qualcomm Snapdragon 778G+,Android 13,Android 15,OriginOS 5,2023-05-31 0:00:00
+Vivo S17 Pro,Phone,MediaTek Dimensity 8200,Android 13,Android 15,OriginOS 5,2023-05-31 0:00:00
+Vivo Y36 5G,Phone,MediaTek Dimensity 6020,Android 13,Android 15,Funtouch OS 15,2023-06-08 0:00:00
+Vivo Y02t,Phone,MediaTek Helio P35,Android 13 Go Edition,Android 14 Go Edition,Funtouch OS 14,2023-06-08 0:00:00
+Vivo X90s,Phone,MediaTek Dimensity 9200+,Android 13,Android 15,OriginOS 5,2023-06-26 0:00:00
+Vivo iQOO 11S,Phone,Qualcomm Snapdragon 8 Gen 2,Android 13,Android 15,OriginOS 5,2023-06-29 0:00:00
+Vivo Y27,Phone,MediaTek Helio G85,Android 13,Android 15,Funtouch OS 15,2023-06-29 0:00:00
+Vivo V29 Lite,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,Funtouch OS 15,2023-07-03 0:00:00
+Vivo Y22s (2023),Phone,Qualcomm Snapdragon 680,Android 13,Android 15,Funtouch OS 15,2023-07-14 0:00:00
+Vivo Y27s,Phone,Qualcomm Snapdragon 680,Android 13,Android 15,Funtouch OS 15,2023-07-20 0:00:00
+Vivo iQOO Z8,Phone,MediaTek Dimensity 8200,Android 13,Android 15,OriginOS 5,2023-07-31 0:00:00
+Vivo iQOO Z8x,Phone,Qualcomm Snapdragon 6 Gen 1,Android 13,Android 15,OriginOS 5,2023-07-31 0:00:00
+Vivo V29,Phone,Qualcomm Snapdragon 778G,Android 13,Android 15,Funtouch OS 15,2023-08-01 0:00:00
+Vivo Y78m,Phone,MediaTek Dimensity 7020,Android 13,Android 15,OriginOS 5,2023-08-09 0:00:00
+Vivo Y17s,Phone,MediaTek Helio G85,Android 13,Android 15,Funtouch OS 15,2023-08-18 0:00:00
+Vivo V29 Pro,Phone,MediaTek Dimensity 8200,Android 13,Android 15,Funtouch OS 15,2023-08-30 0:00:00
+Vivo iQOO Z7 Pro,Phone,MediaTek Dimensity 7200,Android 13,Android 15,Funtouch OS 15,2023-08-31 0:00:00
+Vivo Y77t,Phone,MediaTek Dimensity 7020,Android 13,Android 15,OriginOS 5,2023-09-01 0:00:00
+Vivo iQOO Z7s,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,Funtouch OS 15,2023-09-04 0:00:00
+Vivo V29e,Phone,Qualcomm Snapdragon 695,Android 13,Android 15,Funtouch OS 15,2023-09-07 0:00:00
+Vivo Y200 5G,Phone,Qualcomm Snapdragon 4 Gen 1,Android 13,Android 15,Funtouch OS 15,2023-09-23 0:00:00
+Vivo Y36m,Phone,MediaTek Dimensity 6020,Android 13,Android 15,OriginOS 5,2023-10-11 0:00:00
+Vivo X100,Phone,MediaTek Dimensity 9300,Android 14,Android 15,OriginOS 5,2023-10-13 0:00:00
+Vivo X100 Pro,Phone,MediaTek Dimensity 9300,Android 14,Android 15,OriginOS 5,2023-10-13 0:00:00
+Vivo Y03t,Phone,Unisoc T612,Android 13 Go Edition,Android 14 Go Edition,Funtouch OS 14,2023-10-25 0:00:00
+Vivo iQOO 12,Phone,Qualcomm Snapdragon 8 Gen 3,Android 14,Android 15,OriginOS 5,2023-10-31 0:00:00
+Vivo iQOO 12 Pro,Phone,Qualcomm Snapdragon 8 Gen 3,Android 14,Android 15,OriginOS 5,2023-11-07 0:00:00
+Vivo Y27 5G,Phone,MediaTek Dimensity 6020,Android 13,Android 15,Funtouch OS 15,2023-11-15 0:00:00
+Vivo Y36i,Phone,MediaTek Dimensity 6020,Android 13,Android 15,OriginOS 5,2023-11-18 0:00:00
+Vivo Y100i,Phone,MediaTek Dimensity 6020,Android 13,Android 15,OriginOS 5,2023-11-28 0:00:00
+Vivo S18,Phone,Qualcomm Snapdragon 7 Gen 3,Android 14,Android 15,OriginOS 5,2023-12-14 0:00:00
+Vivo S18 Pro,Phone,MediaTek Dimensity 9200+,Android 14,Android 15,OriginOS 5,2023-12-14 0:00:00
+Vivo Y28 5G,Phone,MediaTek Dimensity 6020,Android 13,Android 15,Funtouch OS 15,2023-12-22 0:00:00
+Vivo Y100t,Phone,MediaTek Dimensity 8200,Android 13,Android 15,OriginOS 5,2023-12-28 0:00:00
+Vivo iQOO Neo9 Pro,Phone,MediaTek Dimensity 9300,Android 14,Android 15,OriginOS 5,2024-01-03 0:00:00
+Vivo iQOO Neo9,Phone,Qualcomm Snapdragon 8 Gen 2,Android 14,Android 15,OriginOS 5,2024-01-03 0:00:00
+Vivo Y28 5G,Phone,MediaTek Dimensity 6020,Android 13,Android 15,Funtouch OS 15,2024-01-08 0:00:00
+Vivo Y200e 5G,Phone,Qualcomm Snapdragon 4 Gen 2,Android 14,Android 15,Funtouch OS 15,2024-01-22 0:00:00
+Vivo V30,Phone,Qualcomm Snapdragon 7 Gen 3,Android 14,Android 15,Funtouch OS 15,2024-02-07 0:00:00
+Vivo V30 Pro,Phone,MediaTek Dimensity 8200,Android 14,Android 15,Funtouch OS 15,2024-02-07 0:00:00
+Vivo Y100 5G,Phone,Qualcomm Snapdragon 4 Gen 2,Android 14,Android 15,Funtouch OS 15,2024-02-15 0:00:00
+Vivo Y18,Phone,MediaTek Helio G85,Android 14,Android 15,Funtouch OS 15,2024-02-26 0:00:00
+Vivo Y03,Phone,MediaTek Helio G85,Android 14 Go Edition,Android 15 Go Edition,Funtouch OS 15,2024-03-13 0:00:00
+Vivo T3 5G,Phone,MediaTek Dimensity 7200,Android 14,Android 15,Funtouch OS 15,2024-03-21 0:00:00
+Vivo X Fold3,Phone,Qualcomm Snapdragon 8 Gen 2,Android 14,Android 15,OriginOS 5,2024-03-26 0:00:00
+Vivo X Fold3 Pro,Phone,Qualcomm Snapdragon 8 Gen 3,Android 14,Android 15,OriginOS 5,2024-03-26 0:00:00
+Vivo V30e,Phone,Qualcomm Snapdragon 6 Gen 1,Android 14,Android 15,Funtouch OS 15,2024-04-02 0:00:00
+Vivo Y38 5G,Phone,Qualcomm Snapdragon 4 Gen 2,Android 14,Android 15,Funtouch OS 15,2024-04-11 0:00:00
+Vivo iQOO Z9,Phone,MediaTek Dimensity 7200,Android 14,Android 15,Funtouch OS 15,2024-04-12 0:00:00
+Vivo iQOO Z9x,Phone,Qualcomm Snapdragon 6 Gen 1,Android 14,Android 15,Funtouch OS 15,2024-04-16 0:00:00
+Vivo Y200 Pro,Phone,Qualcomm Snapdragon 695,Android 14,Android 15,Funtouch OS 15,2024-04-24 0:00:00
+Vivo iQOO Z9 Turbo,Phone,Qualcomm Snapdragon 8s Gen 3,Android 14,Android 15,OriginOS 5,2024-04-24 0:00:00
+Vivo Y18e,Phone,Unisoc T612,Android 14 Go Edition,Android 15 Go Edition,Funtouch OS 15,2024-05-07 0:00:00
+Vivo X100s Pro,Phone,MediaTek Dimensity 9300+,Android 14,Android 15,OriginOS 5,2024-05-13 0:00:00
+Vivo X100 Ultra,Phone,Qualcomm Snapdragon 8 Gen 3,Android 14,Android 15,OriginOS 5,2024-05-13 0:00:00
+Vivo X100s,Phone,MediaTek Dimensity 9300+,Android 14,Android 15,OriginOS 5,2024-05-13 0:00:00
+Vivo Y58 5G,Phone,Qualcomm Snapdragon 4 Gen 2,Android 14,Android 15,Funtouch OS 15,2024-05-20 0:00:00
+Vivo iQOO Neo9S Pro,Phone,MediaTek Dimensity 9300+,Android 14,Android 15,OriginOS 5,2024-05-20 0:00:00
+Vivo S19,Phone,Qualcomm Snapdragon 7 Gen 3,Android 14,Android 15,OriginOS 5,2024-06-03 0:00:00
+Vivo S19 Pro,Phone,MediaTek Dimensity 9200+,Android 14,Android 15,OriginOS 5,2024-06-03 0:00:00
+Vivo Y28s 5G,Phone,MediaTek Dimensity 6300,Android 14,Android 15,Funtouch OS 15,2024-06-18 0:00:00
+Vivo T3 Lite 5G,Phone,MediaTek Dimensity 6300,Android 14,Android 15,Funtouch OS 15,2024-06-27 0:00:00
+Vivo Y18i,Phone,Unisoc T612,Android 14 Go Edition,Android 15 Go Edition,Funtouch OS 15,2024-07-09 0:00:00
+Vivo V40,Phone,Qualcomm Snapdragon 7 Gen 3,Android 14,Android 15,Funtouch OS 15,2024-07-12 0:00:00
+Vivo V40 Pro,Phone,MediaTek Dimensity 9200+,Android 14,Android 15,Funtouch OS 15,2024-07-12 0:00:00
+Vivo Y37 5G,Phone,MediaTek Dimensity 6300,Android 14,Android 15,OriginOS 5,2024-07-14 0:00:00
+Vivo iQOO Z9 Lite,Phone,MediaTek Dimensity 6300,Android 14,Android 15,Funtouch OS 15,2024-07-15 0:00:00
+Vivo Y37 Pro,Phone,Qualcomm Snapdragon 4 Gen 2,Android 14,Android 15,OriginOS 5,2024-08-20 0:00:00
+Vivo iQOO Z9s Pro,Phone,Qualcomm Snapdragon 7 Gen 3,Android 14,Android 15,Funtouch OS 15,2024-08-21 0:00:00
+Vivo iQOO Z9s,Phone,MediaTek Dimensity 7300,Android 14,Android 15,Funtouch OS 15,2024-08-21 0:00:00
+Vivo T3 Pro 5G,Phone,Qualcomm Snapdragon 7 Gen 3,Android 14,Android 15,Funtouch OS 15,2024-08-27 0:00:00
+Vivo Y300 Pro,Phone,Qualcomm Snapdragon 6 Gen 1,Android 14,Android 15,OriginOS 5,2024-08-31 0:00:00
+Vivo Y300 Plus,Phone,Qualcomm Snapdragon 695,Android 14,Android 15,OriginOS 5,2024-09-14 0:00:00
+Vivo V40e,Phone,MediaTek Dimensity 7300,Android 14,Android 15,Funtouch OS 15,2024-09-25 0:00:00
+Vivo X200,Phone,MediaTek Dimensity 9400,Android 15,Android 15,OriginOS 5,2024-09-30 0:00:00
+Vivo X200 Pro,Phone,MediaTek Dimensity 9400,Android 15,Android 15,OriginOS 5,2024-09-30 0:00:00
+Vivo X200 Pro Mini,Phone,MediaTek Dimensity 9400,Android 15,Android 15,OriginOS 5,2024-09-30 0:00:00
+Vivo Y19s,Phone,Unisoc Tiger T612,Android 14,Android 15,Funtouch OS 15,2024-10-08 0:00:00
+Vivo Y300 5G,Phone,MediaTek Dimensity 6300,Android 14,Android 15,Funtouch OS 15,2024-10-18 0:00:00
+Vivo iQOO Neo10,Phone,Qualcomm Snapdragon 8 Gen 3,Android 15,Android 15,OriginOS 5,2024-10-24 0:00:00
+Vivo iQOO Neo10 Pro,Phone,MediaTek Dimensity 9400,Android 15,Android 15,OriginOS 5,2024-10-24 0:00:00
+Vivo iQOO 13,Phone,Qualcomm Snapdragon 8 Elite,Android 15,Android 15,OriginOS 5,2024-10-30 0:00:00
+Vivo Y300i,Phone,Qualcomm Snapdragon 4 Gen 2,Android 14,Android 15,OriginOS 5,2024-11-11 0:00:00
+Vivo S20,Phone,Qualcomm Snapdragon 7 Gen 3,Android 15,Android 15,OriginOS 5,2024-11-21 0:00:00
+Vivo S20 Pro,Phone,MediaTek Dimensity 9300+,Android 15,Android 15,OriginOS 5,2024-11-21 0:00:00
+Vivo Y29 5G,Phone,MediaTek Dimensity 6300,Android 14,Android 15,Funtouch OS 15,2024-11-24 0:00:00
+Vivo Y29s,Phone,MediaTek Dimensity 6100+,Android 14,Android 15,Funtouch OS 15,2024-12-10 0:00:00
+Vivo Y300t,Phone,MediaTek Dimensity 7300,Android 15,Android 15,OriginOS 5,2024-12-18 0:00:00
+Vivo iQOO Z9 Turbo Endurance Edition,Phone,Qualcomm Snapdragon 8s Gen 3,Android 15,Android 15,OriginOS 5,2025-01-03 0:00:00
+Vivo X200 Ultra,Phone,Qualcomm Snapdragon 8 Elite,Android 15,Android 15,OriginOS 5,2025-01-09 0:00:00
+Vivo X200s,Phone,MediaTek Dimensity 9400+,Android 15,Android 15,OriginOS 5,2025-01-09 0:00:00
+Vivo Y29 4G,Phone,Qualcomm Snapdragon 685,Android 14,Android 15,Funtouch OS 15,2025-01-15 0:00:00
+Vivo Y39 5G,Phone,Qualcomm Snapdragon 4 Gen 2,Android 15,Android 15,Funtouch OS 15,2025-01-22 0:00:00
+Vivo Y300 Pro+,Phone,Qualcomm Snapdragon 7s Gen 3,Android 15,Android 15,OriginOS 5,2025-02-06 0:00:00
+Vivo Y04,Phone,Unisoc T7225,Android 14 Go Edition,Android 14 Go Edition,Funtouch OS 14,2025-02-11 0:00:00
+Vivo V50,Phone,Qualcomm Snapdragon 7 Gen 3,Android 15,Android 15,Funtouch OS 15,2025-02-17 0:00:00
+Vivo V50 Pro,Phone,MediaTek Dimensity 9300+,Android 15,Android 15,Funtouch OS 15,2025-02-17 0:00:00
+Vivo iQOO Neo10 SE,Phone,Qualcomm Snapdragon 8s Gen 4,Android 15,Android 15,OriginOS 5,2025-02-21 0:00:00
+Vivo Y19e,Phone,Unisoc T7225,Android 14 Go Edition,Android 14 Go Edition,Funtouch OS 14,2025-03-08 0:00:00
+Vivo iQOO Z10,Phone,MediaTek Dimensity 7300,Android 15,Android 15,Funtouch OS 15,2025-03-14 0:00:00
+Vivo iQOO Z10x,Phone,MediaTek Dimensity 7300,Android 15,Android 15,Funtouch OS 15,2025-03-14 0:00:00
+Vivo T4 5G,Phone,Qualcomm Snapdragon 7 Gen 3,Android 15,Android 15,Funtouch OS 15,2025-03-19 0:00:00
+Vivo X Fold4,Phone,Qualcomm Snapdragon 8 Elite,Android 15,Android 15,OriginOS 5,2025-03-27 0:00:00
+Vivo iQOO 13 Pro,Phone,Qualcomm Snapdragon 8 Elite,Android 15,Android 15,OriginOS 5,2025-04-09 0:00:00
+Vivo V50e,Phone,MediaTek Dimensity 7300,Android 15,Android 15,Funtouch OS 15,2025-04-10 0:00:00
+Vivo Y300 GT,Phone,MediaTek Dimensity 8400,Android 15,Android 15,OriginOS 5,2025-04-18 0:00:00
+Vivo X200 FE,Phone,MediaTek Dimensity 9300,Android 15,Android 15,Funtouch OS 15,2025-04-25 0:00:00
+Vivo iQOO Neo10S Pro,Phone,MediaTek Dimensity 9400+,Android 15,Android 15,OriginOS 5,2025-04-29 0:00:00
+Vivo S21,Phone,Qualcomm Snapdragon 7 Gen 4,Android 15,Android 15,OriginOS 5,2025-05-08 0:00:00
+Vivo S21 Pro,Phone,MediaTek Dimensity 9400e,Android 15,Android 15,OriginOS 5,2025-05-08 0:00:00
+Vivo Y300i Pro,Phone,Qualcomm Snapdragon 6 Gen 1,Android 15,Android 15,OriginOS 5,2025-05-13 0:00:00
+Vivo Y400 5G,Phone,Qualcomm Snapdragon 6 Gen 2,Android 15,Android 15,Funtouch OS 15,2025-05-20 0:00:00
+Vivo iQOO Z10 Turbo,Phone,Qualcomm Snapdragon 8s Gen 4,Android 15,Android 15,OriginOS 5,2025-05-27 0:00:00
+Vivo Y39m,Phone,MediaTek Dimensity 6300,Android 15,Android 15,OriginOS 5,2025-06-06 0:00:00
+Vivo T4x 5G,Phone,MediaTek Dimensity 7300,Android 15,Android 15,Funtouch OS 15,2025-06-11 0:00:00
+Vivo X300 Pro,Phone,MediaTek Dimensity 9500,Android 15,Android 15,OriginOS 5,2025-06-28 0:00:00
+Vivo X300,Phone,MediaTek Dimensity 9500,Android 15,Android 15,OriginOS 5,2025-06-28 0:00:00
+Vivo Y500 5G,Phone,Qualcomm Snapdragon 6 Gen 2,Android 15,Android 15,Funtouch OS 15,2025-07-09 0:00:00
+Vivo V60,Phone,Qualcomm Snapdragon 7 Gen 4,Android 15,Android 15,Funtouch OS 15,2025-07-16 0:00:00
+Vivo V60 Pro,Phone,MediaTek Dimensity 9400+,Android 15,Android 15,Funtouch OS 15,2025-07-16 0:00:00
+Vivo iQOO 14,Phone,Qualcomm Snapdragon 8 Elite 2,Android 15,Android 15,OriginOS 5,2025-07-30 0:00:00
+Vivo Y500 Pro,Phone,MediaTek Dimensity 8400,Android 15,Android 15,OriginOS 5,2025-08-14 0:00:00
+Vivo T5 5G,Phone,Qualcomm Snapdragon 7s Gen 4,Android 15,Android 15,Funtouch OS 15,2025-08-22 0:00:00
+Vivo X300 Ultra,Phone,Qualcomm Snapdragon 8 Elite 2,Android 15,Android 15,OriginOS 5,2025-08-29 0:00:00
+Vivo Y500s,Phone,MediaTek Dimensity 6300,Android 15,Android 15,Funtouch OS 15,2025-09-05 0:00:00
+Vivo V60e,Phone,MediaTek Dimensity 7400,Android 15,Android 15,Funtouch OS 15,2025-09-18 0:00:00
+Vivo iQOO Neo11,Phone,Qualcomm Snapdragon 8 Gen 4,Android 15,Android 15,OriginOS 5,2025-09-26 0:00:00
+Vivo X400,Phone,MediaTek Dimensity 9500+,Android 16,Android 16,OriginOS 6,2025-10-10 0:00:00
+Vivo X400 Pro,Phone,Qualcomm Snapdragon 8 Elite 2,Android 16,Android 16,OriginOS 6,2025-10-10 0:00:00
+Vivo Y600 5G,Phone,Qualcomm Snapdragon 6 Gen 3,Android 15,Android 15,Funtouch OS 15,2025-10-21 0:00:00
+Vivo S22 Pro,Phone,MediaTek Dimensity 9500,Android 16,Android 16,OriginOS 6,2025-11-19 0:00:00
+Vivo S22,Phone,Qualcomm Snapdragon 7 Gen 4,Android 16,Android 16,OriginOS 6,2025-11-19 0:00:00
+Vivo iQOO 15,Phone,Qualcomm Snapdragon 8 Elite 2,Android 16,Android 16,OriginOS 6,2025-11-27 0:00:00
+Vivo Y600 Pro,Phone,MediaTek Dimensity 8400,Android 15,Android 15,Funtouch OS 15,2025-12-12 0:00:00
+Vivo Y600t,Phone,MediaTek Dimensity 7400,Android 15,Android 15,OriginOS 5,2025-12-20 0:00:00

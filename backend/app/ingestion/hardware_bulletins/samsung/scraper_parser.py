@@ -123,7 +123,7 @@ if __name__ == "__main__":
     
     print(f"\nScraping complete. Collected {len(extracted_records)} total vulnerability records.")
     
-    output_filename = "samsung_security_cves.json"
+    output_filename = "backend/app/ingestion/hardware_bulletins/hardware_output/samsung_security_cves.json"
     with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(extracted_records, f, indent=4, ensure_ascii=False)
         

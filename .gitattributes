@@ -1,0 +1,2 @@
+backend/output/nvd_parser.json filter=lfs diff=lfs merge=lfs -text
+data/nvd/nvd_parser.json filter=lfs diff=lfs merge=lfs -text

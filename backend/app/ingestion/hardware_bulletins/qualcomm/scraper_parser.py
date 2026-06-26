@@ -6,7 +6,7 @@ from playwright.sync_api import sync_playwright
 
 # Configuration
 BASE_URL = "https://docs.qualcomm.com/securitybulletin/{month}-{year}-bulletin.html"
-OUTPUT_FILE = "qualcomm_cves.json"
+OUTPUT_FILE = "backend/app/ingestion/hardware_bulletins/hardware_output/qualcomm_cves.json"
 
 def clean_extracted_text(text):
     """Collapses multi-line text blocks and strips redundant whitespaces."""
