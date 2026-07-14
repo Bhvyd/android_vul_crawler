@@ -1,6 +1,7 @@
 import re
 import json
 import time
+from pathlib import Path
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
@@ -10,7 +11,8 @@ from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://docs.qualcomm.com/securitybulletin/{month}-{year}-bulletin.html"
 
-OUTPUT_FILE = "backend/app/ingestion/hardware_bulletins/hardware_output/qualcomm_cves_2.json"
+REPO_ROOT = Path(__file__).resolve().parents[5]
+OUTPUT_FILE = REPO_ROOT / "backend" / "app" / "ingestion" / "hardware_bulletins" / "hardware_output" / "qualcomm_cves_2.json"
 
 # ---------------------------------------------------
 # CLEANING
@@ -23,56 +25,101 @@ def clean_text(text):
 
 
 # ---------------------------------------------------
-# PATCH PARSING (ROBUST)
+# CHIPSET / PATCH PARSING (FIXED)
 # ---------------------------------------------------
+#
+# The previous implementation merged a chipset line with the *next* line
+# whenever that next line contained "Patch"/"http", then treated the whole
+# merged string (e.g. "WCD9340, WCD9341, WCD9360 Patch** https://...") as a
+# SINGLE chipset name. That silently glued multiple real chipsets into one
+# fake entry and broke the 1:1 relationship between `affected_chipsets` and
+# `chipset_patches`. It also couldn't handle a chipset list wrapping across
+# more than two lines.
+#
+# Fix: normalize the whole section into one string, then scan for every
+# "Patch** <url>" / "Patch: <url>" marker. Everything since the previous
+# marker (or the start) is the comma-separated list of chipsets that share
+# that patch URL. Each chipset name is emitted individually.
 
-PATCH_PATTERNS = [
-    re.compile(r"^(.*?)\s*Patch\*\*\s*(https?://\S+)", re.I),
-    re.compile(r"^(.*?)\s*Patch:\s*(https?://\S+)", re.I),
-    re.compile(r"^(.*?)\s*-\s*Patch\s*(https?://\S+)", re.I),
-]
+PATCH_MARKER_RE = re.compile(
+    r'(.*?)(?:Patch\*\*|Patch:|-\s*Patch)\s*(https?://\S+)',
+    re.S | re.I
+)
+
+# separators seen between individual chipset names inside a group
+NAME_SPLIT_RE = re.compile(r',|\band\b|;', re.I)
+
+# Qualcomm bulletins often append a disclaimer footnote after the real
+# chipset list, e.g.:
+#   "... WTR3925 *The list of affected chipsets may not be complete.
+#    For the latest information, device OEMs can contact QTI directly
+#    at https://www.qualcomm.com/support ."
+# Without stripping this, the footnote sentence gets comma-split and
+# treated as extra "chipset" entries. This regex trims everything from
+# the "*The list of affected chipsets..." marker onward.
+DISCLAIMER_RE = re.compile(
+    r'\*?\s*The list of affected chipsets.*$',
+    re.I | re.S
+)
+
+# Fallback safety net: if a disclaimer shows up with different wording in
+# other bulletin years, drop any split "name" that clearly isn't a chipset
+# code (i.e. it's disclaimer/contact-info prose instead).
+FOOTNOTE_KEYWORD_RE = re.compile(
+    r'(may not be complete|for the latest information|device oems|'
+    r'please contact|contact qti|qualcomm\.com/support)',
+    re.I
+)
 
 
-def parse_chipset_patch(entry):
-    entry = entry.strip()
-
-    for p in PATCH_PATTERNS:
-        m = p.match(entry)
-        if m:
-            return m.group(1).strip(), m.group(2).strip()
-
-    return entry, None
+def _split_chipset_names(blob):
+    names = []
+    for piece in NAME_SPLIT_RE.split(blob):
+        name = piece.strip(" -\u2022\t\n")
+        if name and not FOOTNOTE_KEYWORD_RE.search(name):
+            names.append(name)
+    return names
 
 
-# ---------------------------------------------------
-# CHIPSET BLOCK NORMALIZER
-# ---------------------------------------------------
-
-def normalize_block(text):
+def parse_chipset_section(raw):
     """
-    Fix broken cases like:
-    WTR6955
-    Patch** https://...
+    raw: cleaned text of the 'Affected Chipsets' section for one CVE.
+    Returns (chipsets: list[str], chipset_patches: list[{"chipset","patch_url"}]).
     """
+    if not raw:
+        return [], []
 
-    lines = [l.strip() for l in text.split("\n") if l.strip()]
-    merged = []
+    # Drop trailing "list may not be complete / contact QTI" disclaimers
+    # before any splitting happens, so they never get treated as chipsets.
+    raw = DISCLAIMER_RE.sub('', raw).strip()
+    if not raw:
+        return [], []
 
-    i = 0
-    while i < len(lines):
+    chipsets = []
+    chipset_patches = []
+    last_end = 0
 
-        if i + 1 < len(lines):
-            combined = lines[i] + " " + lines[i + 1]
+    for m in PATCH_MARKER_RE.finditer(raw):
+        group_text = m.group(1)
+        patch_url = m.group(2).strip().rstrip('.,);')
 
-            if "Patch" in lines[i + 1] or "http" in lines[i + 1]:
-                merged.append(combined)
-                i += 2
-                continue
+        for name in _split_chipset_names(group_text):
+            chipsets.append(name)
+            chipset_patches.append({
+                "chipset": name,
+                "patch_url": patch_url
+            })
 
-        merged.append(lines[i])
-        i += 1
+        last_end = m.end()
 
-    return merged
+    # Any chipsets listed after the last patch URL (no patch link given)
+    remainder = raw[last_end:].strip(" -\u2022\t\n,")
+    if remainder and not remainder.lower().startswith('http'):
+        for name in _split_chipset_names(remainder):
+            if not re.match(r'^https?://', name, re.I):
+                chipsets.append(name)
+
+    return chipsets, chipset_patches
 
 
 # ---------------------------------------------------
@@ -125,23 +172,8 @@ def parse_bulletin(html):
         chipset_patches = []
 
         if chip_match:
-
             raw = clean_text(chip_match.group(1))
-
-            entries = normalize_block(raw)
-
-            for e in entries:
-
-                chipset, patch = parse_chipset_patch(e)
-
-                if chipset:
-                    chipsets.append(chipset)
-
-                if patch:
-                    chipset_patches.append({
-                        "chipset": chipset,
-                        "patch_url": patch
-                    })
+            chipsets, chipset_patches = parse_chipset_section(raw)
 
         # ---------------- OUTPUT ----------------
         results.append({
@@ -150,9 +182,10 @@ def parse_bulletin(html):
             "description": desc,
             "vulnerability_type": vtype,
 
+            # de-duplicated but order-preserving-ish (sorted for stability)
             "affected_chipsets": sorted(set(chipsets)),
 
-            # ALWAYS POPULATED (no more empty silently)
+            # ALWAYS POPULATED (no more empty silently), one entry per chipset
             "chipset_patches": chipset_patches
         })
 
@@ -170,7 +203,7 @@ def main():
         "july","august","september","october","november","december"
     ]
 
-    years = [2021, 2022, 2023, 2024, 2025, 2026]
+    years = [2021,2022,2023,2024, 2025, 2026]
 
     all_data = []
 
@@ -213,10 +246,12 @@ def main():
 
         browser.close()
 
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_data, f, indent=2, ensure_ascii=False)
 
-    print("\nSaved:", len(all_data))
+    print("\nSaved:", len(all_data), "to", OUTPUT_FILE)
 
 
 if __name__ == "__main__":
